@@ -1,8 +1,9 @@
-from turtle import pd
+import pandas as pd
 import streamlit as st
 from pytesseract import pytesseract
 from pdf2image import convert_from_path
 import os
+import csv
 from PIL import Image
 from datetime import datetime
 import requests
@@ -11,6 +12,27 @@ import requests
 pytesseract.tesseract_cmd = r"C:\\Users\\Pc\\tesseract.exe"  # Update this path if necessary
 poppler_path = r"C:\\poppler-24.07.0\\Library\\bin"
 API_BASE_URL = "http://localhost:8000/api"
+def save_to_csv(file_name, data):
+    csv_file_path = os.path.join("output", file_name)
+    os.makedirs("output", exist_ok=True)  # Ensure output directory exists
+    with open(csv_file_path, mode='w', newline='', encoding='utf-8') as file:
+        writer = csv.writer(file)
+        # Write the header
+        writer.writerow(["Parameter", "Value"])
+        # Write data
+        for key, value in data.items():
+            writer.writerow([key, value])
+    return csv_file_path
+def calculate_age(dob_input):
+    try:
+        dob = datetime.strptime(dob_input, "%d/%m/%Y")  # Ensure format is DD/MM/YYYY
+        today = datetime.today()
+        age = today.year - dob.year - ((today.month, today.day) < (dob.month, dob.day))
+        return age
+    except ValueError:
+        return "Invalid DOB Format"
+
+# Calculate Age
 
 # Streamlit app
 def main():
@@ -80,6 +102,20 @@ def main():
                 # Perform OCR on each page
                 text = pytesseract.image_to_string(page, lang='eng')
                 extracted_text += f"\n--- Page {i + 1} ---\n{text}"
+                age = calculate_age(dob_input)
+                structured_data = {
+                "Date of Birth": dob_input,
+                "Age": str(age) if isinstance(age, int) else "Invalid DOB" ,
+                "Sex": sex_input,
+                "Occupation": occupation_input,
+                "Education Level": education_input,
+                "Annual Income": income_input,
+                "Place of Birth": place_of_birth_input,
+} 
+
+# Save to CSV
+                csv_file_path = save_to_csv("extracted_user_profile.csv", structured_data)
+                st.write(f"Structured data saved to CSV: {csv_file_path}")
 
             # Display extracted text
             st.subheader("Extracted Text")
