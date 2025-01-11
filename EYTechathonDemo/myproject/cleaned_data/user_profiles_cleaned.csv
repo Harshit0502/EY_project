@@ -1,0 +1,1501 @@
+user_id,name,age,gender,location,income,employment_status,education_level,disability_status,user_preferences
+U1,User1,47,female,west bengal,0.9603117677021987,employed,primary,True,health
+U2,User2,20,lgbtq+,maharashtra,0.14893221195046402,unemployed,secondary,False,study
+U3,User3,55,lgbtq+,tamil nadu,0.7388136373352562,unemployed,secondary,False,study
+U4,User4,47,male,west bengal,0.8618081436359385,unemployed,primary,False,study
+U5,User5,26,male,west bengal,0.14322179466545104,employed,graduate,True,study
+U6,User6,50,lgbtq+,rajasthan,0.5619488757914476,unemployed,postgraduate,True,employment
+U7,User7,29,female,uttar pradesh,0.6730037049783335,unemployed,graduate,False,employment
+U8,User8,58,female,tamil nadu,0.406718473891721,unemployed,graduate,True,health
+U9,User9,47,female,west bengal,0.63494472628162,unemployed,graduate,True,health
+U10,User10,26,lgbtq+,maharashtra,0.5615963623583645,unemployed,postgraduate,True,study
+U11,User11,41,lgbtq+,maharashtra,0.40040259778749127,unemployed,graduate,True,employment
+U12,User12,46,lgbtq+,west bengal,0.9263886379468677,employed,graduate,True,employment
+U13,User13,36,male,maharashtra,0.8261569639162186,unemployed,primary,False,employment
+U14,User14,26,male,maharashtra,0.15268845510581255,unemployed,primary,True,employment
+U15,User15,34,male,maharashtra,0.6265030911457039,employed,secondary,False,study
+U16,User16,19,lgbtq+,tamil nadu,0.1381550449684047,unemployed,primary,False,employment
+U17,User17,46,lgbtq+,tamil nadu,0.1270009418086083,unemployed,primary,True,health
+U18,User18,31,male,tamil nadu,0.6529384076107696,unemployed,postgraduate,False,employment
+U19,User19,57,lgbtq+,west bengal,0.8111485303524765,unemployed,secondary,True,study
+U20,User20,28,female,west bengal,0.3820473930972564,unemployed,graduate,True,employment
+U21,User21,59,female,maharashtra,0.1996826336286511,unemployed,graduate,True,employment
+U22,User22,39,lgbtq+,rajasthan,0.48361197335171974,employed,graduate,True,study
+U23,User23,28,female,west bengal,0.6085403814440615,unemployed,graduate,False,study
+U24,User24,45,male,uttar pradesh,0.3620817263455864,employed,secondary,False,employment
+U25,User25,39,male,uttar pradesh,0.40734218198640515,employed,postgraduate,True,employment
+U26,User26,54,lgbtq+,west bengal,0.8383866689438982,unemployed,postgraduate,False,employment
+U27,User27,33,lgbtq+,rajasthan,0.4342936505306295,employed,postgraduate,False,employment
+U28,User28,56,female,uttar pradesh,0.3582871284272844,unemployed,graduate,False,study
+U29,User29,41,female,uttar pradesh,0.40738850386161973,unemployed,secondary,True,study
+U30,User30,54,male,rajasthan,0.5229444386313261,unemployed,graduate,False,employment
+U31,User31,46,female,maharashtra,0.4560284124742537,employed,postgraduate,True,employment
+U32,User32,21,male,tamil nadu,0.3463186070300923,employed,secondary,False,study
+U33,User33,35,lgbtq+,tamil nadu,0.6200231384127873,employed,postgraduate,True,employment
+U34,User34,19,female,maharashtra,0.6603707222472996,employed,postgraduate,False,health
+U35,User35,23,female,uttar pradesh,0.7987193763861758,unemployed,secondary,False,health
+U36,User36,56,female,west bengal,0.3189686785912369,unemployed,graduate,False,employment
+U37,User37,36,lgbtq+,uttar pradesh,0.060071588466366135,unemployed,postgraduate,True,study
+U38,User38,60,male,rajasthan,0.8680366734937033,employed,postgraduate,False,employment
+U39,User39,47,female,maharashtra,0.5175534566640921,employed,postgraduate,True,health
+U40,User40,26,female,west bengal,0.12332987584298356,employed,graduate,True,health
+U41,User41,43,lgbtq+,west bengal,0.7232484653037162,employed,secondary,False,health
+U42,User42,26,female,tamil nadu,0.4171037298620027,unemployed,postgraduate,True,study
+U43,User43,36,male,west bengal,0.9898857509844858,unemployed,primary,True,study
+U44,User44,42,male,west bengal,0.799591587471937,employed,postgraduate,True,study
+U45,User45,29,male,maharashtra,0.12744674553788007,unemployed,primary,True,study
+U46,User46,27,female,maharashtra,0.7177301763908227,employed,postgraduate,True,employment
+U47,User47,30,male,tamil nadu,0.8144009266544099,unemployed,graduate,True,study
+U48,User48,51,male,uttar pradesh,0.3355349954467537,unemployed,primary,True,study
+U49,User49,46,lgbtq+,tamil nadu,0.3420024552470933,unemployed,primary,True,study
+U50,User50,45,male,rajasthan,0.7834429391770003,unemployed,postgraduate,False,employment
+U51,User51,38,female,uttar pradesh,0.3608274901412722,unemployed,primary,False,health
+U52,User52,43,male,maharashtra,0.20723904333835855,employed,primary,False,study
+U53,User53,29,female,maharashtra,0.9532496943663485,unemployed,secondary,False,employment
+U54,User54,52,lgbtq+,uttar pradesh,0.9135575827939907,employed,graduate,True,study
+U55,User55,50,lgbtq+,uttar pradesh,0.5850609261968225,employed,postgraduate,False,employment
+U56,User56,40,male,west bengal,0.41112163822014797,employed,postgraduate,True,employment
+U57,User57,36,male,uttar pradesh,0.369396661642311,unemployed,secondary,True,health
+U58,User58,24,male,uttar pradesh,0.6539240979054649,unemployed,postgraduate,False,study
+U59,User59,54,female,maharashtra,0.645614670949191,employed,secondary,False,health
+U60,User60,32,lgbtq+,rajasthan,0.06493250719245659,employed,primary,False,study
+U61,User61,28,lgbtq+,uttar pradesh,0.8423526223447592,unemployed,secondary,False,study
+U62,User62,52,female,rajasthan,0.9701379284411079,employed,postgraduate,True,health
+U63,User63,32,male,tamil nadu,0.09548210716938116,employed,graduate,False,employment
+U64,User64,38,male,tamil nadu,0.7255830794720074,unemployed,postgraduate,True,health
+U65,User65,58,male,uttar pradesh,0.35471588078438687,unemployed,graduate,False,study
+U66,User66,60,lgbtq+,rajasthan,0.09513799883117043,employed,secondary,False,employment
+U67,User67,55,male,west bengal,0.0365400967136517,employed,secondary,False,health
+U68,User68,36,male,uttar pradesh,0.5176199674520523,employed,postgraduate,True,employment
+U69,User69,18,lgbtq+,tamil nadu,0.5681266205226263,employed,graduate,False,study
+U70,User70,43,male,tamil nadu,0.5408316901859506,unemployed,graduate,False,study
+U71,User71,39,male,rajasthan,0.9987838682828615,employed,graduate,True,study
+U72,User72,33,female,west bengal,0.848830802290916,employed,graduate,True,study
+U73,User73,42,male,west bengal,0.30272181790981395,employed,secondary,False,study
+U74,User74,59,male,maharashtra,0.3382542209166355,employed,graduate,True,health
+U75,User75,19,male,rajasthan,0.49872258200176367,unemployed,secondary,False,health
+U76,User76,41,lgbtq+,rajasthan,0.005563088277126365,employed,secondary,False,employment
+U77,User77,34,male,rajasthan,0.2521887816009929,unemployed,postgraduate,False,health
+U78,User78,42,female,maharashtra,0.9589381082392266,employed,secondary,False,study
+U79,User79,53,male,west bengal,0.8626507804672854,unemployed,secondary,False,study
+U80,User80,58,male,rajasthan,0.5743085782293986,unemployed,secondary,True,study
+U81,User81,18,lgbtq+,maharashtra,0.40200592698925813,unemployed,graduate,False,employment
+U82,User82,55,female,tamil nadu,0.033714879451856,employed,primary,False,employment
+U83,User83,38,lgbtq+,rajasthan,0.8805010537757345,employed,secondary,True,employment
+U84,User84,37,lgbtq+,tamil nadu,0.4780348696310345,employed,postgraduate,True,employment
+U85,User85,60,female,rajasthan,0.0728517750673977,unemployed,graduate,False,employment
+U86,User86,58,female,west bengal,0.625415309189966,employed,secondary,False,study
+U87,User87,51,lgbtq+,maharashtra,0.07413794228970093,unemployed,postgraduate,True,health
+U88,User88,31,lgbtq+,west bengal,0.728129698080441,employed,secondary,False,study
+U89,User89,40,male,tamil nadu,0.652899135169964,employed,primary,True,study
+U90,User90,22,female,uttar pradesh,0.6045616014095866,employed,graduate,True,employment
+U91,User91,18,female,maharashtra,0.9742677290511926,employed,secondary,True,health
+U92,User92,41,male,uttar pradesh,0.696153630451421,employed,secondary,True,health
+U93,User93,27,male,maharashtra,0.2649191216096053,employed,secondary,False,employment
+U94,User94,23,lgbtq+,maharashtra,0.2567636142567011,unemployed,primary,False,employment
+U95,User95,27,lgbtq+,maharashtra,0.47377761608108643,employed,secondary,True,study
+U96,User96,30,lgbtq+,maharashtra,0.8214948058703602,unemployed,postgraduate,True,study
+U97,User97,52,female,maharashtra,0.692218335833345,unemployed,postgraduate,False,employment
+U98,User98,18,male,uttar pradesh,0.011716389407336318,unemployed,graduate,False,health
+U99,User99,38,lgbtq+,rajasthan,0.5207296439916743,unemployed,secondary,False,study
+U100,User100,26,lgbtq+,west bengal,0.1497350966457644,unemployed,postgraduate,True,employment
+U101,User101,25,female,tamil nadu,0.7039419623819237,employed,secondary,True,study
+U102,User102,28,male,maharashtra,0.9695579560386007,unemployed,graduate,True,study
+U103,User103,49,lgbtq+,rajasthan,0.6941665033443414,employed,postgraduate,False,health
+U104,User104,27,lgbtq+,west bengal,0.07037784071611075,employed,secondary,False,employment
+U105,User105,50,lgbtq+,rajasthan,0.9435178041704245,unemployed,primary,False,health
+U106,User106,53,lgbtq+,maharashtra,0.4707668818989692,employed,graduate,True,employment
+U107,User107,47,male,rajasthan,0.8985452490993774,unemployed,secondary,False,health
+U108,User108,39,lgbtq+,maharashtra,0.8415892812223569,employed,secondary,False,health
+U109,User109,21,male,tamil nadu,0.24855431846787682,employed,postgraduate,False,health
+U110,User110,37,male,tamil nadu,0.0842074962225564,unemployed,primary,True,study
+U111,User111,54,female,uttar pradesh,0.9945021711319446,employed,postgraduate,True,employment
+U112,User112,37,male,maharashtra,0.03845418500623259,employed,primary,True,study
+U113,User113,28,male,maharashtra,0.10223705041319593,employed,secondary,False,health
+U114,User114,50,lgbtq+,uttar pradesh,0.4327744974154751,employed,primary,False,health
+U115,User115,56,lgbtq+,tamil nadu,0.682281553200632,unemployed,postgraduate,True,study
+U116,User116,37,male,tamil nadu,0.173075669692619,employed,secondary,True,employment
+U117,User117,32,male,west bengal,0.9345037674742809,employed,primary,True,health
+U118,User118,36,lgbtq+,uttar pradesh,0.6811549576430145,unemployed,postgraduate,True,employment
+U119,User119,48,female,maharashtra,0.07402961459052725,employed,graduate,True,employment
+U120,User120,45,lgbtq+,tamil nadu,0.5536088943339629,employed,primary,True,health
+U121,User121,34,female,rajasthan,0.9896511382990787,unemployed,graduate,False,employment
+U122,User122,38,lgbtq+,west bengal,0.6303361063959039,unemployed,primary,False,health
+U123,User123,33,male,uttar pradesh,0.4982307483856848,unemployed,primary,False,study
+U124,User124,26,female,uttar pradesh,0.74244895557728,unemployed,primary,False,employment
+U125,User125,31,female,west bengal,0.8726239990819885,employed,postgraduate,True,health
+U126,User126,60,female,west bengal,0.4609134202439609,unemployed,secondary,True,health
+U127,User127,32,female,tamil nadu,0.4537153220228565,unemployed,graduate,False,employment
+U128,User128,20,female,west bengal,0.2707410784662742,employed,primary,True,study
+U129,User129,34,female,west bengal,0.8029477439400987,unemployed,primary,True,employment
+U130,User130,53,male,rajasthan,0.26986106711877045,employed,secondary,True,health
+U131,User131,28,female,rajasthan,0.3433559675099494,employed,graduate,False,health
+U132,User132,53,female,west bengal,0.9573169677446038,employed,graduate,True,health
+U133,User133,20,male,rajasthan,0.6199762534170726,unemployed,secondary,True,health
+U134,User134,33,female,west bengal,0.1596832251137394,unemployed,postgraduate,False,study
+U135,User135,34,male,west bengal,0.6089203417874475,unemployed,primary,False,health
+U136,User136,57,female,tamil nadu,0.2526227806560767,unemployed,secondary,False,employment
+U137,User137,29,female,tamil nadu,0.38570204514311807,employed,graduate,True,study
+U138,User138,43,male,tamil nadu,0.15936176673342284,employed,postgraduate,False,health
+U139,User139,30,female,uttar pradesh,0.6659599643432099,unemployed,secondary,True,study
+U140,User140,31,male,tamil nadu,0.37084169141459605,unemployed,secondary,False,health
+U141,User141,44,male,tamil nadu,0.2019455020739624,unemployed,graduate,True,study
+U142,User142,51,female,tamil nadu,0.4539108082616619,unemployed,graduate,True,employment
+U143,User143,56,female,tamil nadu,0.18902234543484156,employed,primary,True,employment
+U144,User144,29,female,rajasthan,0.710656486087618,employed,postgraduate,False,study
+U145,User145,59,lgbtq+,uttar pradesh,0.9648677671056246,unemployed,secondary,False,employment
+U146,User146,54,male,west bengal,0.30260758787354625,employed,graduate,False,study
+U147,User147,27,lgbtq+,maharashtra,0.8881225143313646,unemployed,postgraduate,False,health
+U148,User148,28,lgbtq+,west bengal,0.7334201108976143,employed,postgraduate,True,study
+U149,User149,32,lgbtq+,rajasthan,0.3865587182743386,employed,primary,True,study
+U150,User150,44,male,maharashtra,0.3970762241368922,unemployed,secondary,True,employment
+U151,User151,39,male,uttar pradesh,0.40452758058885263,unemployed,postgraduate,True,employment
+U152,User152,30,female,rajasthan,0.9511959104771052,employed,postgraduate,True,study
+U153,User153,35,lgbtq+,maharashtra,0.44808722461243705,employed,postgraduate,True,study
+U154,User154,52,lgbtq+,rajasthan,0.06813259585682216,unemployed,graduate,False,study
+U155,User155,44,lgbtq+,west bengal,0.9109004048606977,unemployed,secondary,False,health
+U156,User156,49,male,uttar pradesh,0.9595332014699781,employed,primary,False,employment
+U157,User157,42,female,maharashtra,0.6034448291762492,employed,primary,True,employment
+U158,User158,39,male,west bengal,0.16161016089624924,unemployed,graduate,False,study
+U159,User159,27,male,uttar pradesh,0.2488067633024548,employed,postgraduate,True,employment
+U160,User160,38,lgbtq+,tamil nadu,0.6198259210998519,employed,primary,False,employment
+U161,User161,60,male,tamil nadu,0.4516772429386723,employed,graduate,False,study
+U162,User162,58,female,maharashtra,0.5055730680237677,employed,secondary,True,health
+U163,User163,58,male,rajasthan,0.5808736664394094,employed,postgraduate,False,health
+U164,User164,31,lgbtq+,maharashtra,0.8033258897840952,employed,postgraduate,False,employment
+U165,User165,39,lgbtq+,maharashtra,0.24498674153638753,unemployed,graduate,True,employment
+U166,User166,27,lgbtq+,rajasthan,0.4463996984677429,unemployed,secondary,False,employment
+U167,User167,50,lgbtq+,uttar pradesh,0.859818701477914,employed,primary,True,health
+U168,User168,48,male,west bengal,0.9537503084909665,employed,graduate,False,employment
+U169,User169,35,lgbtq+,rajasthan,0.3954181262524087,unemployed,graduate,True,study
+U170,User170,41,lgbtq+,west bengal,0.6754832496783071,unemployed,graduate,False,health
+U171,User171,33,female,tamil nadu,0.3129433100961312,unemployed,postgraduate,True,health
+U172,User172,45,lgbtq+,rajasthan,0.1595607568331179,unemployed,graduate,True,employment
+U173,User173,41,male,uttar pradesh,0.24284959495680963,unemployed,primary,False,employment
+U174,User174,26,male,west bengal,0.5720621445601651,unemployed,primary,True,health
+U175,User175,46,female,uttar pradesh,0.5313964810683373,unemployed,graduate,False,health
+U176,User176,55,male,rajasthan,0.9202183806327093,unemployed,graduate,False,health
+U177,User177,40,female,maharashtra,0.5991642791226474,unemployed,postgraduate,False,employment
+U178,User178,31,male,uttar pradesh,0.5154175197507738,employed,primary,True,health
+U179,User179,37,female,west bengal,0.22879713143914474,unemployed,graduate,False,study
+U180,User180,37,female,west bengal,0.20378444506424778,employed,secondary,False,study
+U181,User181,28,lgbtq+,maharashtra,0.2055969422473418,employed,postgraduate,True,study
+U182,User182,48,male,west bengal,0.8596286378809617,unemployed,secondary,True,health
+U183,User183,35,lgbtq+,rajasthan,0.39247342316301076,unemployed,primary,False,health
+U184,User184,35,male,maharashtra,0.17438930468153985,unemployed,graduate,False,health
+U185,User185,46,lgbtq+,west bengal,0.3746085921468175,unemployed,postgraduate,False,employment
+U186,User186,46,female,west bengal,0.9407989332578947,employed,postgraduate,False,health
+U187,User187,45,female,west bengal,0.5015266092477025,unemployed,graduate,False,health
+U188,User188,36,lgbtq+,uttar pradesh,0.25674515641808565,unemployed,secondary,False,employment
+U189,User189,53,female,west bengal,0.09116626823110441,unemployed,secondary,False,study
+U190,User190,45,lgbtq+,tamil nadu,0.7050167717098439,unemployed,postgraduate,True,health
+U191,User191,25,male,uttar pradesh,0.6602258751408766,unemployed,primary,True,health
+U192,User192,19,female,rajasthan,0.2624921348229776,unemployed,secondary,False,health
+U193,User193,45,lgbtq+,tamil nadu,0.6522316288141585,employed,postgraduate,True,study
+U194,User194,34,lgbtq+,tamil nadu,0.810169806066931,unemployed,secondary,True,study
+U195,User195,43,lgbtq+,rajasthan,0.3432604247317602,unemployed,primary,False,employment
+U196,User196,19,male,west bengal,0.36584272474071383,employed,postgraduate,True,study
+U197,User197,42,lgbtq+,tamil nadu,0.18025583148297847,employed,postgraduate,True,employment
+U198,User198,21,male,maharashtra,0.8062040820855331,unemployed,primary,True,employment
+U199,User199,59,female,tamil nadu,0.9792809823007265,unemployed,secondary,False,health
+U200,User200,45,lgbtq+,uttar pradesh,0.7691665414071159,employed,secondary,False,study
+U201,User201,19,female,uttar pradesh,0.023235311225959423,employed,secondary,False,health
+U202,User202,30,male,west bengal,0.19414705483077196,employed,graduate,True,study
+U203,User203,48,lgbtq+,maharashtra,0.9814215493159347,employed,graduate,False,employment
+U204,User204,40,male,maharashtra,0.6594560268482507,employed,postgraduate,False,study
+U205,User205,58,female,west bengal,0.34167686731644237,unemployed,postgraduate,True,health
+U206,User206,36,female,uttar pradesh,0.09968615626022416,employed,postgraduate,True,study
+U207,User207,25,lgbtq+,maharashtra,0.33911045606524476,unemployed,graduate,True,study
+U208,User208,32,lgbtq+,rajasthan,0.33890472937586297,unemployed,graduate,False,study
+U209,User209,47,female,west bengal,0.567863330404342,unemployed,secondary,True,employment
+U210,User210,53,female,tamil nadu,0.13726610711815806,employed,graduate,True,health
+U211,User211,47,lgbtq+,uttar pradesh,0.2966027211359083,employed,graduate,False,study
+U212,User212,58,lgbtq+,west bengal,0.6632112271878582,unemployed,postgraduate,False,study
+U213,User213,46,female,west bengal,0.2657245924879434,unemployed,postgraduate,True,health
+U214,User214,54,lgbtq+,uttar pradesh,0.8214136122367669,unemployed,postgraduate,False,employment
+U215,User215,39,male,maharashtra,0.99993059018428,employed,postgraduate,True,employment
+U216,User216,28,male,maharashtra,0.8042309704220124,unemployed,graduate,True,health
+U217,User217,44,lgbtq+,uttar pradesh,0.026528982174921115,employed,graduate,True,health
+U218,User218,35,male,west bengal,0.44387245537577674,unemployed,postgraduate,True,employment
+U219,User219,57,male,west bengal,0.11746866740182395,employed,graduate,False,study
+U220,User220,35,female,tamil nadu,0.44704751646235863,unemployed,secondary,False,study
+U221,User221,39,female,west bengal,0.8999635619323784,unemployed,primary,True,health
+U222,User222,39,female,rajasthan,0.32924468918449284,unemployed,postgraduate,False,employment
+U223,User223,28,lgbtq+,maharashtra,0.7733155506831496,unemployed,graduate,True,health
+U224,User224,35,male,rajasthan,0.8135513863828578,unemployed,postgraduate,False,health
+U225,User225,52,male,tamil nadu,0.2236122515749594,employed,postgraduate,True,health
+U226,User226,22,female,west bengal,0.9595795859141372,employed,primary,False,health
+U227,User227,38,lgbtq+,tamil nadu,0.582721139662456,unemployed,secondary,False,study
+U228,User228,48,female,west bengal,0.6137119966920216,unemployed,primary,True,study
+U229,User229,51,female,rajasthan,0.1404611276980224,unemployed,graduate,True,employment
+U230,User230,19,male,west bengal,0.2119160719366834,unemployed,primary,True,study
+U231,User231,31,lgbtq+,west bengal,0.5703524690091325,employed,postgraduate,True,employment
+U232,User232,20,lgbtq+,uttar pradesh,0.044310200225002094,unemployed,postgraduate,True,employment
+U233,User233,32,male,rajasthan,0.6928872395622434,employed,graduate,False,employment
+U234,User234,39,female,uttar pradesh,0.26866205843609886,unemployed,secondary,True,health
+U235,User235,45,lgbtq+,rajasthan,0.19118656351105548,employed,postgraduate,False,study
+U236,User236,57,female,tamil nadu,0.10069362054759132,unemployed,primary,False,health
+U237,User237,44,lgbtq+,rajasthan,0.8175698559844349,unemployed,secondary,False,employment
+U238,User238,49,female,rajasthan,0.09771072954575842,employed,secondary,False,health
+U239,User239,28,female,tamil nadu,0.9955856358305148,unemployed,graduate,True,study
+U240,User240,25,female,tamil nadu,0.0160772779856237,unemployed,secondary,True,employment
+U241,User241,48,male,rajasthan,0.16211847100103574,unemployed,secondary,False,health
+U242,User242,50,male,rajasthan,0.8436182043843352,employed,secondary,True,employment
+U243,User243,46,lgbtq+,tamil nadu,0.8991970506501237,employed,primary,False,study
+U244,User244,42,male,rajasthan,0.7864297303097043,employed,postgraduate,False,employment
+U245,User245,50,female,uttar pradesh,0.9062967279215938,unemployed,graduate,False,study
+U246,User246,60,lgbtq+,uttar pradesh,0.18726434580237153,employed,postgraduate,True,employment
+U247,User247,53,male,west bengal,0.8244591347520035,unemployed,graduate,True,study
+U248,User248,59,female,maharashtra,0.3946748906174928,employed,primary,True,health
+U249,User249,42,lgbtq+,tamil nadu,0.05051747749796552,unemployed,primary,False,employment
+U250,User250,26,male,uttar pradesh,0.6650513798444031,unemployed,postgraduate,False,employment
+U251,User251,58,female,maharashtra,0.7609742852274993,unemployed,postgraduate,True,health
+U252,User252,58,lgbtq+,rajasthan,0.3505382983570501,unemployed,secondary,True,employment
+U253,User253,48,female,tamil nadu,0.026424992589229934,employed,postgraduate,True,employment
+U254,User254,51,female,west bengal,0.23998550152418996,unemployed,primary,False,employment
+U255,User255,41,female,maharashtra,0.1033696943021111,unemployed,primary,False,employment
+U256,User256,40,male,west bengal,0.10778737462565262,employed,graduate,True,study
+U257,User257,56,female,tamil nadu,0.16263889862473252,unemployed,postgraduate,False,employment
+U258,User258,27,male,west bengal,0.28345592223297555,employed,secondary,True,employment
+U259,User259,50,male,maharashtra,0.40807407178605914,unemployed,graduate,True,employment
+U260,User260,52,lgbtq+,uttar pradesh,0.33794567259519237,employed,graduate,False,employment
+U261,User261,57,female,uttar pradesh,0.5840490612270283,employed,primary,False,study
+U262,User262,35,female,west bengal,0.3171735130057581,employed,primary,True,employment
+U263,User263,51,female,uttar pradesh,0.1908512565376987,unemployed,primary,True,employment
+U264,User264,46,lgbtq+,tamil nadu,0.6222398935460322,unemployed,postgraduate,True,health
+U265,User265,28,female,rajasthan,0.9928398811281823,unemployed,graduate,False,health
+U266,User266,23,male,rajasthan,0.5519965552041938,employed,postgraduate,False,employment
+U267,User267,41,male,west bengal,0.7600945658684031,employed,secondary,True,study
+U268,User268,39,female,uttar pradesh,0.0832294601953999,employed,secondary,False,health
+U269,User269,60,male,uttar pradesh,0.8175268294069618,unemployed,primary,False,study
+U270,User270,38,male,tamil nadu,0.33397002100794027,unemployed,primary,True,study
+U271,User271,23,lgbtq+,maharashtra,0.24831816241517296,unemployed,graduate,True,health
+U272,User272,55,lgbtq+,rajasthan,0.8698071869150651,unemployed,primary,True,study
+U273,User273,46,female,tamil nadu,0.9568585250885513,employed,graduate,False,employment
+U274,User274,51,lgbtq+,rajasthan,0.35026132649624403,unemployed,primary,True,study
+U275,User275,54,lgbtq+,tamil nadu,0.5978599251938214,employed,graduate,False,study
+U276,User276,60,male,maharashtra,0.41450363566237125,unemployed,primary,True,health
+U277,User277,48,male,maharashtra,0.006821433175460069,employed,primary,True,health
+U278,User278,23,lgbtq+,maharashtra,0.45479822360092664,unemployed,graduate,True,employment
+U279,User279,22,male,uttar pradesh,0.02444020138941015,employed,secondary,True,study
+U280,User280,22,lgbtq+,maharashtra,0.8520367932923755,employed,postgraduate,False,health
+U281,User281,47,lgbtq+,maharashtra,0.3597364128877927,unemployed,primary,False,employment
+U282,User282,49,female,uttar pradesh,0.518898897533113,employed,graduate,False,employment
+U283,User283,18,lgbtq+,west bengal,0.21347426807318037,unemployed,primary,False,employment
+U284,User284,28,male,maharashtra,0.6905315396596695,employed,graduate,True,study
+U285,User285,46,lgbtq+,uttar pradesh,0.458404655846925,unemployed,primary,False,health
+U286,User286,32,male,uttar pradesh,0.9623600455243297,employed,primary,False,employment
+U287,User287,37,lgbtq+,west bengal,0.4893910913377489,unemployed,primary,True,health
+U288,User288,21,female,rajasthan,0.6933671642225603,employed,secondary,False,study
+U289,User289,45,female,maharashtra,0.9265931132573604,employed,primary,False,study
+U290,User290,37,female,tamil nadu,0.9004749587717582,unemployed,postgraduate,True,employment
+U291,User291,41,lgbtq+,tamil nadu,0.34601343743165,employed,secondary,False,study
+U292,User292,51,female,tamil nadu,0.7679644251335362,employed,postgraduate,False,employment
+U293,User293,39,female,tamil nadu,0.5216434425691859,unemployed,secondary,True,health
+U294,User294,50,female,rajasthan,0.5917452082460279,unemployed,postgraduate,False,health
+U295,User295,43,female,maharashtra,0.43157584329015547,unemployed,graduate,True,health
+U296,User296,48,female,rajasthan,0.08971304192709513,unemployed,secondary,True,health
+U297,User297,55,male,maharashtra,0.3925892174228899,employed,primary,True,health
+U298,User298,26,male,rajasthan,0.4143968930431239,employed,primary,True,study
+U299,User299,23,female,west bengal,0.1027814836552502,employed,secondary,False,employment
+U300,User300,56,female,maharashtra,0.8643384108935536,unemployed,graduate,True,study
+U301,User301,41,male,west bengal,0.1473778950885235,unemployed,postgraduate,False,study
+U302,User302,36,lgbtq+,uttar pradesh,0.9829474390207761,employed,postgraduate,False,employment
+U303,User303,20,male,uttar pradesh,0.2886865191392457,unemployed,secondary,True,study
+U304,User304,23,male,tamil nadu,0.9922262257772414,employed,primary,True,health
+U305,User305,20,female,maharashtra,0.23308896475906404,employed,secondary,True,study
+U306,User306,46,lgbtq+,tamil nadu,0.5220874526553833,employed,postgraduate,False,health
+U307,User307,38,male,west bengal,0.30867350104466157,employed,graduate,False,study
+U308,User308,60,male,tamil nadu,0.509209241374699,unemployed,primary,True,health
+U309,User309,51,male,west bengal,0.036146141783021786,unemployed,primary,True,health
+U310,User310,51,female,west bengal,0.4806272887068124,unemployed,primary,False,health
+U311,User311,42,female,rajasthan,0.32043099824850757,unemployed,postgraduate,False,health
+U312,User312,53,male,tamil nadu,0.06439562393636705,unemployed,graduate,True,employment
+U313,User313,51,female,west bengal,0.9555663303912652,employed,secondary,True,study
+U314,User314,37,female,tamil nadu,0.1216012210454649,unemployed,primary,True,health
+U315,User315,24,female,maharashtra,0.6726766362493305,unemployed,secondary,False,employment
+U316,User316,54,lgbtq+,rajasthan,0.8011158503842223,unemployed,graduate,False,employment
+U317,User317,54,female,tamil nadu,0.1439824244669267,unemployed,graduate,True,health
+U318,User318,56,male,tamil nadu,0.5660682065314928,unemployed,primary,False,health
+U319,User319,19,lgbtq+,rajasthan,0.5495998309303696,unemployed,primary,True,employment
+U320,User320,53,male,tamil nadu,0.79160474513698,unemployed,graduate,True,employment
+U321,User321,41,lgbtq+,tamil nadu,0.9292926503660522,employed,secondary,True,employment
+U322,User322,46,lgbtq+,tamil nadu,0.3020332675323553,unemployed,secondary,False,employment
+U323,User323,20,lgbtq+,tamil nadu,0.12642735143843606,employed,postgraduate,False,study
+U324,User324,46,lgbtq+,rajasthan,0.5057522863370136,unemployed,graduate,False,study
+U325,User325,53,male,west bengal,0.45170662948625334,unemployed,secondary,True,health
+U326,User326,44,female,maharashtra,0.6043508900609628,employed,secondary,True,study
+U327,User327,36,lgbtq+,tamil nadu,0.6338502077361953,unemployed,secondary,False,employment
+U328,User328,58,female,rajasthan,0.5320591696154194,unemployed,graduate,False,employment
+U329,User329,40,male,uttar pradesh,0.8307443103608186,unemployed,secondary,False,health
+U330,User330,59,female,uttar pradesh,0.7348182973868144,employed,primary,True,study
+U331,User331,26,female,uttar pradesh,0.8721673292126956,employed,primary,True,health
+U332,User332,32,male,tamil nadu,0.8428661673845653,employed,secondary,True,study
+U333,User333,32,male,west bengal,0.5214907326320759,unemployed,graduate,True,study
+U334,User334,40,male,rajasthan,0.42033933683050634,employed,secondary,False,employment
+U335,User335,34,lgbtq+,uttar pradesh,0.32091290425873226,unemployed,graduate,True,health
+U336,User336,33,lgbtq+,uttar pradesh,0.8130266623583082,employed,graduate,True,employment
+U337,User337,45,male,uttar pradesh,0.5914837951960774,unemployed,graduate,False,employment
+U338,User338,20,lgbtq+,rajasthan,0.9569744653426341,unemployed,postgraduate,True,health
+U339,User339,45,female,rajasthan,0.04733697291321569,unemployed,postgraduate,True,health
+U340,User340,43,lgbtq+,west bengal,0.8134601608618364,unemployed,postgraduate,False,health
+U341,User341,59,lgbtq+,tamil nadu,0.5617184969379488,employed,graduate,True,study
+U342,User342,55,female,uttar pradesh,0.9207245216807546,employed,secondary,True,employment
+U343,User343,30,female,rajasthan,0.5793230620015067,unemployed,graduate,False,study
+U344,User344,25,lgbtq+,rajasthan,0.060806940414280246,employed,primary,False,health
+U345,User345,35,female,maharashtra,0.40177452617633325,employed,secondary,False,study
+U346,User346,47,lgbtq+,uttar pradesh,0.3968160624658309,unemployed,primary,False,health
+U347,User347,54,lgbtq+,rajasthan,0.9599810491181022,employed,secondary,False,employment
+U348,User348,45,lgbtq+,west bengal,0.7397271647806754,employed,postgraduate,False,employment
+U349,User349,51,male,uttar pradesh,0.7657018278203176,unemployed,graduate,False,employment
+U350,User350,52,male,west bengal,0.44055471623951303,unemployed,primary,False,study
+U351,User351,22,female,uttar pradesh,0.5003451198694796,unemployed,graduate,True,study
+U352,User352,41,male,west bengal,0.0764009150165863,unemployed,primary,True,health
+U353,User353,49,male,rajasthan,0.49184821549929114,employed,secondary,True,health
+U354,User354,30,female,rajasthan,0.7647385789203682,unemployed,primary,True,health
+U355,User355,20,lgbtq+,rajasthan,0.7419600001326462,employed,secondary,False,employment
+U356,User356,18,male,uttar pradesh,0.441250983453455,unemployed,secondary,False,study
+U357,User357,23,female,west bengal,0.5330312198802227,employed,secondary,False,employment
+U358,User358,60,male,rajasthan,0.368579490371359,unemployed,postgraduate,True,study
+U359,User359,21,lgbtq+,rajasthan,0.7292197533744944,unemployed,primary,False,study
+U360,User360,23,male,rajasthan,0.2549841326199668,employed,primary,False,study
+U361,User361,34,male,tamil nadu,0.18015129963310197,employed,secondary,True,study
+U362,User362,52,lgbtq+,maharashtra,0.9124292561622432,unemployed,secondary,False,employment
+U363,User363,22,lgbtq+,west bengal,0.44259254504791945,unemployed,graduate,True,employment
+U364,User364,47,female,west bengal,0.8935473043849214,unemployed,postgraduate,False,study
+U365,User365,41,female,rajasthan,0.5002790262078158,unemployed,graduate,False,study
+U366,User366,39,male,uttar pradesh,0.3600729920963535,employed,primary,True,health
+U367,User367,43,lgbtq+,maharashtra,0.7227271408584822,employed,secondary,True,study
+U368,User368,25,lgbtq+,maharashtra,0.8038309463037698,unemployed,primary,True,employment
+U369,User369,36,lgbtq+,rajasthan,0.7891567977539585,employed,primary,True,health
+U370,User370,34,lgbtq+,west bengal,0.4041923361844403,employed,primary,False,study
+U371,User371,34,lgbtq+,tamil nadu,0.7460879028180822,employed,primary,True,study
+U372,User372,38,lgbtq+,uttar pradesh,0.22346373375712808,unemployed,postgraduate,True,employment
+U373,User373,20,lgbtq+,tamil nadu,0.4808590023644596,unemployed,graduate,False,employment
+U374,User374,37,male,maharashtra,0.916209192091227,employed,graduate,True,employment
+U375,User375,52,male,west bengal,0.5834199930594355,employed,postgraduate,False,health
+U376,User376,43,female,rajasthan,0.19916089205712068,employed,postgraduate,False,study
+U377,User377,29,lgbtq+,west bengal,0.7292389828967581,unemployed,primary,True,employment
+U378,User378,44,lgbtq+,tamil nadu,0.9734709135435048,employed,primary,True,health
+U379,User379,24,male,uttar pradesh,0.41723929590833103,unemployed,primary,True,health
+U380,User380,54,male,uttar pradesh,0.7508193663980868,unemployed,postgraduate,False,health
+U381,User381,43,male,west bengal,0.271088190113819,employed,graduate,False,employment
+U382,User382,34,lgbtq+,tamil nadu,0.6593045057210852,unemployed,graduate,False,study
+U383,User383,37,female,rajasthan,0.8225453175915153,unemployed,secondary,True,study
+U384,User384,21,female,rajasthan,0.3908549314203699,unemployed,secondary,False,health
+U385,User385,26,male,maharashtra,0.7804619252435011,unemployed,postgraduate,False,study
+U386,User386,43,female,uttar pradesh,0.5529614100403842,unemployed,primary,True,employment
+U387,User387,22,female,west bengal,0.7542283519116867,unemployed,postgraduate,True,study
+U388,User388,41,female,tamil nadu,0.5149695469647607,employed,postgraduate,False,health
+U389,User389,44,lgbtq+,maharashtra,0.7755169347123723,unemployed,secondary,True,health
+U390,User390,31,lgbtq+,tamil nadu,0.040029817021918886,unemployed,postgraduate,True,employment
+U391,User391,20,lgbtq+,west bengal,0.3796074336828108,employed,primary,False,employment
+U392,User392,20,female,rajasthan,0.9769146039649649,employed,secondary,True,study
+U393,User393,22,male,maharashtra,0.19384611906423804,unemployed,postgraduate,False,study
+U394,User394,36,lgbtq+,maharashtra,0.9703527901963808,unemployed,secondary,True,health
+U395,User395,47,male,uttar pradesh,0.00018103281263527125,unemployed,primary,False,employment
+U396,User396,50,lgbtq+,tamil nadu,0.8017695290033025,unemployed,graduate,True,employment
+U397,User397,59,female,rajasthan,0.9640325759786685,employed,postgraduate,False,health
+U398,User398,36,female,uttar pradesh,0.04530329451145844,employed,postgraduate,False,health
+U399,User399,26,female,tamil nadu,0.4168333903093094,employed,postgraduate,False,health
+U400,User400,23,male,uttar pradesh,0.03642417731588363,employed,postgraduate,True,study
+U401,User401,45,female,west bengal,0.15700984182383135,unemployed,graduate,True,health
+U402,User402,52,male,tamil nadu,0.4321007341652236,employed,primary,False,employment
+U403,User403,22,lgbtq+,west bengal,0.25298130070782787,employed,postgraduate,True,health
+U404,User404,29,female,west bengal,0.41619114095075055,unemployed,secondary,True,study
+U405,User405,58,lgbtq+,maharashtra,0.7572118686029641,employed,secondary,True,employment
+U406,User406,54,male,west bengal,0.8293250589936506,employed,graduate,True,health
+U407,User407,39,male,rajasthan,0.6780133709417183,employed,graduate,True,health
+U408,User408,26,lgbtq+,tamil nadu,0.42507924721801266,unemployed,graduate,False,study
+U409,User409,34,female,rajasthan,0.12895325972625377,unemployed,postgraduate,True,study
+U410,User410,38,male,uttar pradesh,0.226716192628006,unemployed,graduate,True,study
+U411,User411,45,male,west bengal,0.38116673520399325,employed,primary,False,health
+U412,User412,55,male,rajasthan,0.8739738197771215,employed,postgraduate,False,employment
+U413,User413,47,female,maharashtra,0.9110290257541909,unemployed,secondary,False,employment
+U414,User414,35,female,maharashtra,0.2912000596323754,employed,primary,False,health
+U415,User415,41,female,maharashtra,0.20796811753551192,employed,graduate,False,health
+U416,User416,42,female,rajasthan,0.748651081340483,employed,postgraduate,False,study
+U417,User417,19,male,tamil nadu,0.8657073151167467,employed,graduate,False,health
+U418,User418,22,male,west bengal,0.33537156536382623,employed,postgraduate,True,study
+U419,User419,39,lgbtq+,maharashtra,0.7403752330510688,employed,postgraduate,False,study
+U420,User420,28,lgbtq+,west bengal,0.6559142074655637,unemployed,secondary,True,study
+U421,User421,43,lgbtq+,tamil nadu,0.9773775307287036,employed,postgraduate,True,employment
+U422,User422,19,female,rajasthan,0.4855907787891863,employed,secondary,False,study
+U423,User423,27,male,uttar pradesh,0.866692421434627,employed,primary,False,employment
+U424,User424,35,male,uttar pradesh,0.5449890419879122,employed,graduate,True,employment
+U425,User425,54,female,west bengal,0.7972680271505004,employed,postgraduate,True,study
+U426,User426,27,male,tamil nadu,0.06268496813853781,unemployed,primary,False,health
+U427,User427,44,male,tamil nadu,0.3706267462340639,employed,primary,True,study
+U428,User428,22,female,uttar pradesh,0.0816550795586028,employed,graduate,True,health
+U429,User429,55,female,tamil nadu,0.7505453769902999,employed,postgraduate,False,health
+U430,User430,54,female,maharashtra,0.6388949748774218,employed,graduate,True,study
+U431,User431,48,female,uttar pradesh,0.4087441643249023,unemployed,graduate,True,health
+U432,User432,38,male,tamil nadu,0.12124670540615912,employed,postgraduate,False,study
+U433,User433,35,lgbtq+,uttar pradesh,0.026351286372657007,employed,graduate,False,study
+U434,User434,47,lgbtq+,tamil nadu,0.8675447773086798,unemployed,graduate,False,study
+U435,User435,30,lgbtq+,rajasthan,0.8007818156460695,unemployed,secondary,True,study
+U436,User436,27,lgbtq+,rajasthan,0.31150443293671787,employed,postgraduate,True,health
+U437,User437,18,lgbtq+,west bengal,0.9517898983231711,unemployed,postgraduate,False,employment
+U438,User438,50,lgbtq+,west bengal,0.5670731889173964,unemployed,postgraduate,True,employment
+U439,User439,44,female,tamil nadu,0.957836185702041,unemployed,graduate,True,health
+U440,User440,27,lgbtq+,west bengal,0.7194676534095101,employed,postgraduate,False,employment
+U441,User441,58,male,tamil nadu,0.3620780347778633,employed,primary,False,health
+U442,User442,32,female,maharashtra,0.6683747084730385,employed,postgraduate,True,study
+U443,User443,31,male,tamil nadu,0.7077581465860642,employed,graduate,False,health
+U444,User444,54,female,tamil nadu,0.29990485974868686,employed,graduate,False,study
+U445,User445,37,male,maharashtra,0.021453055699354052,employed,postgraduate,False,employment
+U446,User446,52,male,tamil nadu,0.26743877300297714,employed,secondary,False,health
+U447,User447,23,lgbtq+,rajasthan,0.8367002898965191,employed,primary,True,employment
+U448,User448,60,female,uttar pradesh,0.777003322556945,employed,primary,True,health
+U449,User449,28,lgbtq+,tamil nadu,0.6735507035471107,unemployed,primary,False,health
+U450,User450,42,male,rajasthan,0.7325763061126376,unemployed,postgraduate,True,health
+U451,User451,35,lgbtq+,west bengal,0.7065060794384913,employed,primary,False,study
+U452,User452,58,male,uttar pradesh,0.025857888532966604,employed,postgraduate,False,study
+U453,User453,37,lgbtq+,maharashtra,0.7890009593696253,unemployed,primary,True,employment
+U454,User454,29,female,uttar pradesh,0.5822998421030975,unemployed,graduate,True,study
+U455,User455,57,lgbtq+,uttar pradesh,0.6582134910365502,employed,secondary,True,employment
+U456,User456,31,male,maharashtra,0.4530170526026919,employed,primary,False,study
+U457,User457,39,male,rajasthan,0.5139551792371883,unemployed,graduate,True,health
+U458,User458,28,female,uttar pradesh,0.28692401454277466,employed,postgraduate,True,health
+U459,User459,20,male,uttar pradesh,0.15201056230522683,unemployed,postgraduate,True,employment
+U460,User460,41,male,tamil nadu,0.4469355180517766,employed,primary,True,study
+U461,User461,48,male,west bengal,0.5166020541509605,unemployed,secondary,False,study
+U462,User462,37,lgbtq+,west bengal,0.5645613169294523,employed,primary,False,health
+U463,User463,25,male,west bengal,0.39815030349379354,employed,primary,True,employment
+U464,User464,58,lgbtq+,rajasthan,0.37586912695820723,employed,secondary,False,health
+U465,User465,53,male,west bengal,0.6421806161451779,unemployed,primary,True,employment
+U466,User466,37,lgbtq+,tamil nadu,0.7708867911097622,unemployed,primary,True,employment
+U467,User467,53,female,west bengal,0.7706626691507094,employed,graduate,False,employment
+U468,User468,30,lgbtq+,west bengal,0.6472105127339377,unemployed,postgraduate,True,health
+U469,User469,46,male,tamil nadu,0.6300646406022102,employed,secondary,False,employment
+U470,User470,31,female,uttar pradesh,0.7032636733113565,employed,primary,False,employment
+U471,User471,51,female,west bengal,0.25291622900559035,unemployed,graduate,True,health
+U472,User472,48,female,west bengal,0.23016603566233784,unemployed,primary,True,employment
+U473,User473,23,male,tamil nadu,0.16520641526061564,employed,secondary,True,health
+U474,User474,58,male,tamil nadu,0.382463017738984,employed,primary,True,study
+U475,User475,44,male,uttar pradesh,0.7615466450750973,unemployed,postgraduate,False,study
+U476,User476,56,lgbtq+,west bengal,0.8913656712858329,unemployed,graduate,False,health
+U477,User477,36,lgbtq+,maharashtra,0.24369965663623225,unemployed,secondary,False,health
+U478,User478,43,lgbtq+,rajasthan,0.4833384427828589,employed,graduate,True,study
+U479,User479,22,female,tamil nadu,0.7160946033263444,unemployed,postgraduate,True,employment
+U480,User480,48,lgbtq+,west bengal,0.2789215508280176,unemployed,primary,True,study
+U481,User481,20,lgbtq+,uttar pradesh,0.9444074719916898,employed,secondary,False,health
+U482,User482,40,male,tamil nadu,0.8352451448115464,employed,postgraduate,False,study
+U483,User483,49,female,west bengal,0.11121471369629397,employed,postgraduate,True,study
+U484,User484,28,male,maharashtra,0.7235991642374101,employed,primary,True,study
+U485,User485,40,male,west bengal,0.35082501011687695,employed,graduate,False,study
+U486,User486,39,lgbtq+,maharashtra,0.06817679038792515,employed,graduate,False,health
+U487,User487,26,lgbtq+,tamil nadu,0.8193380752111665,unemployed,secondary,True,employment
+U488,User488,60,female,west bengal,0.3174643960285489,employed,postgraduate,False,study
+U489,User489,42,lgbtq+,maharashtra,0.43929924951262445,employed,graduate,True,employment
+U490,User490,29,lgbtq+,uttar pradesh,0.5622959457263628,unemployed,secondary,False,health
+U491,User491,52,lgbtq+,rajasthan,0.45873962911924476,employed,primary,False,study
+U492,User492,22,female,maharashtra,0.23405874168555188,unemployed,secondary,False,employment
+U493,User493,33,female,west bengal,0.4220538510465772,unemployed,secondary,False,study
+U494,User494,29,male,west bengal,0.2026250008107892,unemployed,secondary,False,study
+U495,User495,28,male,uttar pradesh,0.7210018647839643,employed,postgraduate,True,employment
+U496,User496,53,female,uttar pradesh,0.9142138893087381,unemployed,postgraduate,True,study
+U497,User497,44,female,tamil nadu,0.9036449100612094,employed,postgraduate,True,study
+U498,User498,60,female,tamil nadu,0.10402116215182024,unemployed,primary,True,employment
+U499,User499,38,female,west bengal,0.16796875073322984,employed,graduate,True,study
+U500,User500,25,lgbtq+,rajasthan,0.19051194515189646,employed,postgraduate,False,health
+U501,User501,23,lgbtq+,uttar pradesh,0.8590236796133005,employed,primary,False,study
+U502,User502,58,female,west bengal,0.14725588564682807,employed,graduate,False,employment
+U503,User503,42,male,maharashtra,0.745983934088706,unemployed,secondary,True,employment
+U504,User504,57,male,tamil nadu,1.0,unemployed,primary,True,health
+U505,User505,52,male,maharashtra,0.8433781899133898,employed,primary,True,health
+U506,User506,55,female,maharashtra,0.9291731645384501,unemployed,graduate,False,health
+U507,User507,39,female,maharashtra,0.8694286865137166,unemployed,graduate,False,health
+U508,User508,35,female,rajasthan,0.4690630669724008,unemployed,graduate,False,study
+U509,User509,29,lgbtq+,tamil nadu,0.7885708604454129,unemployed,secondary,False,study
+U510,User510,40,male,west bengal,0.12872029468971738,unemployed,graduate,True,study
+U511,User511,19,lgbtq+,rajasthan,0.7762036288778119,unemployed,graduate,True,study
+U512,User512,33,female,tamil nadu,0.4053186606099651,unemployed,graduate,True,employment
+U513,User513,37,male,maharashtra,0.4019117398715322,employed,postgraduate,True,health
+U514,User514,40,male,tamil nadu,0.3532862429724387,unemployed,primary,False,employment
+U515,User515,20,male,rajasthan,0.6372968806106746,employed,postgraduate,True,health
+U516,User516,59,male,uttar pradesh,0.7235564922172889,employed,postgraduate,False,health
+U517,User517,46,female,west bengal,0.49858100933676736,unemployed,postgraduate,True,employment
+U518,User518,22,female,rajasthan,0.5607874293317664,unemployed,postgraduate,False,study
+U519,User519,47,lgbtq+,west bengal,0.42157463550096425,employed,secondary,True,study
+U520,User520,41,lgbtq+,maharashtra,0.7412684047332239,employed,primary,True,study
+U521,User521,50,lgbtq+,tamil nadu,0.6289865151202338,unemployed,primary,True,health
+U522,User522,58,female,rajasthan,0.9451168161150239,employed,postgraduate,True,study
+U523,User523,60,male,maharashtra,0.9502611095905699,unemployed,postgraduate,True,employment
+U524,User524,24,female,west bengal,0.36462922091924255,employed,primary,False,employment
+U525,User525,43,male,rajasthan,0.9957014509467088,unemployed,primary,False,health
+U526,User526,47,lgbtq+,maharashtra,0.7535690838002349,employed,postgraduate,False,study
+U527,User527,31,female,rajasthan,0.3261105273312725,employed,postgraduate,True,health
+U528,User528,24,female,west bengal,0.107581043103141,unemployed,primary,False,employment
+U529,User529,43,lgbtq+,west bengal,0.07627043791107406,unemployed,secondary,False,health
+U530,User530,18,male,west bengal,0.4716450787470836,employed,postgraduate,False,health
+U531,User531,26,lgbtq+,uttar pradesh,0.864584911678408,unemployed,primary,False,health
+U532,User532,27,lgbtq+,tamil nadu,0.8813209780802426,employed,secondary,True,study
+U533,User533,21,male,west bengal,0.4069871866518584,employed,graduate,True,employment
+U534,User534,31,lgbtq+,uttar pradesh,0.6938820857791447,employed,primary,False,employment
+U535,User535,33,female,tamil nadu,0.8385773790866098,unemployed,secondary,True,study
+U536,User536,38,female,tamil nadu,0.4264244586675706,employed,primary,False,health
+U537,User537,54,lgbtq+,maharashtra,0.7387236006241795,employed,postgraduate,False,employment
+U538,User538,36,female,uttar pradesh,0.5169550681355991,unemployed,secondary,True,health
+U539,User539,42,lgbtq+,tamil nadu,0.10157379874561365,employed,graduate,True,health
+U540,User540,25,female,west bengal,0.12612631139032807,unemployed,secondary,False,health
+U541,User541,56,female,rajasthan,0.7259090219600101,employed,primary,True,study
+U542,User542,41,lgbtq+,maharashtra,0.3853825889690242,unemployed,postgraduate,False,health
+U543,User543,22,lgbtq+,maharashtra,0.5596434604639041,unemployed,primary,False,employment
+U544,User544,37,female,rajasthan,0.7891666210782385,unemployed,postgraduate,True,health
+U545,User545,46,male,maharashtra,0.41913392525918514,unemployed,secondary,True,employment
+U546,User546,24,male,west bengal,0.21102899029845573,unemployed,secondary,False,health
+U547,User547,38,female,rajasthan,0.8450527225739513,unemployed,postgraduate,False,health
+U548,User548,59,lgbtq+,west bengal,0.35473873930542926,unemployed,postgraduate,False,employment
+U549,User549,20,female,uttar pradesh,0.43087094156187816,employed,secondary,True,employment
+U550,User550,20,lgbtq+,uttar pradesh,0.37494035354665495,unemployed,secondary,True,health
+U551,User551,57,male,rajasthan,0.19458737334924614,employed,primary,False,health
+U552,User552,24,lgbtq+,rajasthan,0.5102421712224611,employed,secondary,True,employment
+U553,User553,35,male,maharashtra,0.1762151290498036,employed,graduate,True,employment
+U554,User554,54,lgbtq+,maharashtra,0.34472399576792007,employed,postgraduate,True,study
+U555,User555,56,lgbtq+,uttar pradesh,0.04878454715590882,unemployed,secondary,False,health
+U556,User556,35,male,tamil nadu,0.017137175048447653,unemployed,postgraduate,True,study
+U557,User557,38,male,rajasthan,0.5844291049956735,unemployed,graduate,True,health
+U558,User558,58,lgbtq+,rajasthan,0.30314351173915416,unemployed,graduate,True,health
+U559,User559,49,lgbtq+,west bengal,0.8427005891012115,employed,secondary,True,employment
+U560,User560,60,lgbtq+,maharashtra,0.7192303502594911,unemployed,secondary,False,employment
+U561,User561,40,lgbtq+,rajasthan,0.6876702826858654,employed,graduate,True,employment
+U562,User562,43,male,rajasthan,0.26866862817526704,employed,graduate,False,employment
+U563,User563,52,lgbtq+,tamil nadu,0.35211922787670064,employed,graduate,False,health
+U564,User564,49,female,rajasthan,0.5618536875706104,unemployed,secondary,False,study
+U565,User565,20,female,maharashtra,0.5120758584214118,employed,primary,True,employment
+U566,User566,52,lgbtq+,west bengal,0.6031909243996337,employed,graduate,False,employment
+U567,User567,56,lgbtq+,uttar pradesh,0.17436342199484856,employed,secondary,False,health
+U568,User568,47,female,maharashtra,0.7376251610915687,employed,graduate,True,employment
+U569,User569,23,female,rajasthan,0.9584272119514025,employed,secondary,True,employment
+U570,User570,18,female,rajasthan,0.01589979074650778,employed,primary,True,study
+U571,User571,34,female,tamil nadu,0.4008278997592952,employed,secondary,True,employment
+U572,User572,53,male,rajasthan,0.11602334564113137,unemployed,postgraduate,False,health
+U573,User573,41,female,maharashtra,0.03540826622101449,unemployed,postgraduate,False,study
+U574,User574,53,lgbtq+,rajasthan,0.23517847551559368,unemployed,secondary,False,employment
+U575,User575,40,lgbtq+,uttar pradesh,0.33170350270753557,employed,postgraduate,True,health
+U576,User576,60,lgbtq+,maharashtra,0.6003120855524365,employed,postgraduate,True,study
+U577,User577,20,lgbtq+,west bengal,0.774384541099235,employed,postgraduate,False,health
+U578,User578,30,female,west bengal,0.7190927820069402,employed,postgraduate,True,study
+U579,User579,40,male,maharashtra,0.38522470666583886,employed,graduate,True,health
+U580,User580,54,male,rajasthan,0.8638995106044871,employed,primary,True,health
+U581,User581,25,female,west bengal,0.2125281839203277,employed,graduate,False,health
+U582,User582,42,male,rajasthan,0.3936802946763694,employed,primary,True,employment
+U583,User583,47,female,rajasthan,0.7804719362746146,employed,postgraduate,True,employment
+U584,User584,25,male,tamil nadu,0.8731361884613315,unemployed,postgraduate,False,study
+U585,User585,54,male,maharashtra,0.05741265860262816,unemployed,primary,True,health
+U586,User586,18,female,rajasthan,0.06317984677658041,unemployed,graduate,False,health
+U587,User587,36,lgbtq+,uttar pradesh,0.78525650003215,employed,secondary,False,employment
+U588,User588,56,female,maharashtra,0.21967387022229015,employed,primary,False,employment
+U589,User589,37,lgbtq+,rajasthan,0.14705614471979953,employed,graduate,False,health
+U590,User590,24,male,rajasthan,0.30125522270800525,unemployed,primary,False,health
+U591,User591,22,male,west bengal,0.2391217789585604,employed,graduate,True,study
+U592,User592,58,lgbtq+,west bengal,0.9434021767610639,employed,primary,True,health
+U593,User593,56,female,rajasthan,0.5610839435595585,unemployed,secondary,True,employment
+U594,User594,18,female,west bengal,0.37801705625254695,unemployed,postgraduate,False,study
+U595,User595,33,female,uttar pradesh,0.4624535130991944,employed,postgraduate,True,health
+U596,User596,46,female,uttar pradesh,0.3766251266577929,unemployed,graduate,False,study
+U597,User597,39,lgbtq+,uttar pradesh,0.43480060497495276,employed,primary,False,employment
+U598,User598,45,female,west bengal,0.09534935672555357,employed,secondary,False,health
+U599,User599,58,male,maharashtra,0.8915741092961412,employed,primary,True,study
+U600,User600,39,female,maharashtra,0.8410485604043405,unemployed,graduate,True,health
+U601,User601,52,female,maharashtra,0.6176540696124139,unemployed,primary,True,study
+U602,User602,22,lgbtq+,west bengal,0.37422099839220757,unemployed,postgraduate,True,health
+U603,User603,42,lgbtq+,west bengal,0.2039688148872542,unemployed,graduate,False,study
+U604,User604,23,male,uttar pradesh,0.8974213857190013,unemployed,primary,False,study
+U605,User605,52,male,uttar pradesh,0.8741051311352265,employed,primary,True,health
+U606,User606,48,lgbtq+,west bengal,0.6358713097801162,employed,secondary,False,study
+U607,User607,41,male,west bengal,0.2051222733783595,employed,graduate,True,study
+U608,User608,53,male,uttar pradesh,0.4662052930031715,unemployed,postgraduate,True,employment
+U609,User609,44,lgbtq+,rajasthan,0.5399438577203894,employed,postgraduate,True,employment
+U610,User610,45,lgbtq+,rajasthan,0.033947281367892275,employed,postgraduate,False,employment
+U611,User611,25,female,west bengal,0.2341279637944386,unemployed,primary,False,study
+U612,User612,47,female,tamil nadu,0.4765323598551062,employed,graduate,False,study
+U613,User613,51,male,west bengal,0.3722975664705875,employed,primary,True,study
+U614,User614,50,male,uttar pradesh,0.07385446325867114,employed,postgraduate,True,study
+U615,User615,55,female,tamil nadu,0.39730710354194665,employed,primary,True,employment
+U616,User616,30,female,rajasthan,0.4611476366593865,employed,secondary,True,employment
+U617,User617,38,lgbtq+,uttar pradesh,0.3607417498310483,employed,secondary,False,employment
+U618,User618,25,female,uttar pradesh,0.7931059201087599,employed,secondary,False,employment
+U619,User619,23,lgbtq+,tamil nadu,0.6446402013518687,employed,secondary,False,health
+U620,User620,22,female,uttar pradesh,0.1527573226573473,employed,secondary,True,health
+U621,User621,19,female,tamil nadu,0.32850691790405967,unemployed,postgraduate,False,health
+U622,User622,55,male,west bengal,0.3312472499645391,unemployed,primary,True,employment
+U623,User623,54,lgbtq+,rajasthan,0.46216021074388447,unemployed,primary,False,study
+U624,User624,37,male,uttar pradesh,0.15649944608756286,employed,graduate,False,study
+U625,User625,44,lgbtq+,tamil nadu,0.13154964150184736,unemployed,postgraduate,True,employment
+U626,User626,37,lgbtq+,west bengal,0.5203969440576699,unemployed,graduate,True,health
+U627,User627,26,lgbtq+,rajasthan,0.4851274557554659,employed,graduate,True,employment
+U628,User628,18,female,rajasthan,0.4459067594669785,unemployed,graduate,False,study
+U629,User629,57,lgbtq+,west bengal,0.9930336780054874,unemployed,graduate,True,study
+U630,User630,42,male,maharashtra,0.9017594574888759,employed,primary,False,health
+U631,User631,55,female,west bengal,0.7268549184060294,unemployed,graduate,True,study
+U632,User632,21,male,west bengal,0.846998178764021,unemployed,graduate,False,health
+U633,User633,31,lgbtq+,uttar pradesh,0.914156159029317,unemployed,secondary,False,employment
+U634,User634,41,lgbtq+,west bengal,0.2106200605337853,employed,secondary,True,health
+U635,User635,57,female,west bengal,0.8487124844169437,employed,secondary,False,employment
+U636,User636,22,lgbtq+,rajasthan,0.6639470379746983,employed,primary,True,employment
+U637,User637,26,female,west bengal,0.6372024015045412,unemployed,graduate,True,study
+U638,User638,30,lgbtq+,west bengal,0.5806809540904749,employed,primary,False,employment
+U639,User639,22,male,uttar pradesh,0.7645190662068906,employed,primary,False,employment
+U640,User640,58,male,uttar pradesh,0.6758932848276629,employed,primary,True,study
+U641,User641,41,male,maharashtra,0.8591038512874676,unemployed,secondary,False,employment
+U642,User642,28,lgbtq+,uttar pradesh,0.2788042757697863,unemployed,graduate,False,health
+U643,User643,33,male,tamil nadu,0.8874534854645773,employed,postgraduate,False,health
+U644,User644,26,male,rajasthan,0.1349327443287561,employed,postgraduate,True,study
+U645,User645,57,male,rajasthan,0.7404630172801451,employed,graduate,False,employment
+U646,User646,47,lgbtq+,uttar pradesh,0.7110949483940732,unemployed,postgraduate,False,employment
+U647,User647,47,female,maharashtra,0.88043794256709,employed,secondary,True,health
+U648,User648,45,female,rajasthan,0.3131668063657394,employed,graduate,False,study
+U649,User649,58,male,uttar pradesh,0.24703960774777894,employed,postgraduate,True,study
+U650,User650,25,male,west bengal,0.3632654264931803,unemployed,postgraduate,False,health
+U651,User651,51,male,maharashtra,0.49087587324608045,unemployed,graduate,False,study
+U652,User652,19,female,uttar pradesh,0.41334925949341395,unemployed,graduate,True,study
+U653,User653,55,lgbtq+,tamil nadu,0.6248680186327814,employed,secondary,True,employment
+U654,User654,28,lgbtq+,rajasthan,0.03386398124650226,unemployed,primary,True,study
+U655,User655,18,female,tamil nadu,0.4049762207769399,employed,primary,False,health
+U656,User656,39,male,maharashtra,0.3241423586143641,unemployed,postgraduate,True,health
+U657,User657,59,lgbtq+,uttar pradesh,0.11109591612708077,unemployed,secondary,False,health
+U658,User658,19,female,uttar pradesh,0.3557775506339705,employed,primary,True,health
+U659,User659,56,female,maharashtra,0.33419207819182595,unemployed,secondary,False,health
+U660,User660,32,male,rajasthan,0.20211616929813223,employed,postgraduate,True,health
+U661,User661,40,lgbtq+,west bengal,0.7717099689993823,employed,primary,False,health
+U662,User662,57,male,west bengal,0.8932581941488902,employed,postgraduate,True,health
+U663,User663,48,lgbtq+,tamil nadu,0.2773753679288568,unemployed,graduate,True,employment
+U664,User664,23,female,maharashtra,0.03009749764057724,employed,primary,False,employment
+U665,User665,31,female,tamil nadu,0.6066941178872745,unemployed,secondary,False,employment
+U666,User666,58,male,west bengal,0.8263229176132392,employed,primary,False,study
+U667,User667,57,female,west bengal,0.4871639497597238,employed,primary,True,employment
+U668,User668,52,lgbtq+,west bengal,0.7187740975164947,employed,primary,False,study
+U669,User669,37,male,west bengal,0.09109802636901423,employed,graduate,True,study
+U670,User670,18,female,west bengal,0.10600415970856554,unemployed,secondary,False,employment
+U671,User671,57,female,west bengal,0.2716045507561259,employed,graduate,False,employment
+U672,User672,22,male,uttar pradesh,0.5252389461062188,employed,postgraduate,True,employment
+U673,User673,25,lgbtq+,uttar pradesh,0.7735465135134634,employed,secondary,True,employment
+U674,User674,49,male,tamil nadu,0.9824573156225124,unemployed,secondary,True,employment
+U675,User675,27,male,west bengal,0.49953583228552956,unemployed,secondary,False,study
+U676,User676,45,lgbtq+,maharashtra,0.024373669745135204,unemployed,graduate,True,health
+U677,User677,26,lgbtq+,tamil nadu,0.23010217362635985,unemployed,graduate,False,employment
+U678,User678,29,lgbtq+,maharashtra,0.09251369045003319,employed,graduate,True,study
+U679,User679,20,lgbtq+,uttar pradesh,0.8075736745671153,unemployed,postgraduate,False,health
+U680,User680,46,female,west bengal,0.9942433025524021,employed,secondary,False,study
+U681,User681,43,male,rajasthan,0.9028605040608392,unemployed,primary,True,employment
+U682,User682,48,male,tamil nadu,0.6158984893124629,employed,graduate,True,health
+U683,User683,46,lgbtq+,maharashtra,0.7253110297014989,unemployed,postgraduate,False,health
+U684,User684,48,lgbtq+,uttar pradesh,0.9164647236603983,employed,postgraduate,False,health
+U685,User685,20,female,rajasthan,0.09169407899024735,employed,graduate,False,employment
+U686,User686,41,lgbtq+,tamil nadu,0.9773411364593431,employed,secondary,False,health
+U687,User687,56,female,rajasthan,0.6645030256151627,unemployed,graduate,False,health
+U688,User688,39,female,uttar pradesh,0.9754766444834035,employed,secondary,False,employment
+U689,User689,42,female,uttar pradesh,0.9080819033322739,unemployed,graduate,False,health
+U690,User690,45,lgbtq+,west bengal,0.3190972577721005,unemployed,primary,True,health
+U691,User691,31,lgbtq+,maharashtra,0.5870794420577058,employed,graduate,False,health
+U692,User692,30,lgbtq+,rajasthan,0.5433218924627968,employed,secondary,True,employment
+U693,User693,21,male,maharashtra,0.5321774249204473,unemployed,postgraduate,False,study
+U694,User694,53,male,uttar pradesh,0.8400778032310561,employed,graduate,False,health
+U695,User695,47,lgbtq+,uttar pradesh,0.9325473408626159,unemployed,secondary,False,employment
+U696,User696,19,lgbtq+,rajasthan,0.8044546961110836,unemployed,graduate,True,study
+U697,User697,54,male,tamil nadu,0.4237131585973202,unemployed,graduate,False,health
+U698,User698,55,lgbtq+,maharashtra,0.16231985957693507,employed,secondary,False,study
+U699,User699,28,female,rajasthan,0.16690021915607048,employed,graduate,False,employment
+U700,User700,36,lgbtq+,uttar pradesh,0.5849797951321736,employed,secondary,True,employment
+U701,User701,45,male,tamil nadu,0.566098031061685,employed,secondary,True,study
+U702,User702,40,female,maharashtra,0.714053771208604,unemployed,primary,True,study
+U703,User703,20,lgbtq+,uttar pradesh,0.17606125115906363,employed,primary,False,employment
+U704,User704,19,male,uttar pradesh,0.9927987733316727,employed,primary,False,employment
+U705,User705,44,male,west bengal,0.10745740686888963,unemployed,primary,True,health
+U706,User706,22,lgbtq+,tamil nadu,0.018806514486619,employed,postgraduate,True,study
+U707,User707,21,male,maharashtra,0.6149520923148881,employed,postgraduate,True,employment
+U708,User708,59,lgbtq+,rajasthan,0.4579249397497564,employed,graduate,True,study
+U709,User709,20,lgbtq+,west bengal,0.21445149070405894,employed,postgraduate,False,employment
+U710,User710,57,male,rajasthan,0.8287551601912014,unemployed,primary,False,health
+U711,User711,51,lgbtq+,tamil nadu,0.7864098125290515,unemployed,secondary,True,study
+U712,User712,31,female,tamil nadu,0.3092324502818304,employed,postgraduate,True,health
+U713,User713,40,lgbtq+,rajasthan,0.08991818463966202,employed,primary,False,health
+U714,User714,38,female,rajasthan,0.6445245322298786,employed,primary,False,health
+U715,User715,53,male,maharashtra,0.4029125927071015,unemployed,secondary,True,health
+U716,User716,35,female,west bengal,0.4393575637688604,unemployed,secondary,False,employment
+U717,User717,54,male,west bengal,0.15379346437759156,employed,graduate,False,health
+U718,User718,42,male,maharashtra,0.5843701859063077,unemployed,graduate,True,health
+U719,User719,27,lgbtq+,maharashtra,0.6555275939577504,employed,secondary,False,employment
+U720,User720,40,male,maharashtra,0.10273320128644253,unemployed,primary,False,study
+U721,User721,59,lgbtq+,rajasthan,0.9611279795826688,unemployed,secondary,False,study
+U722,User722,41,male,tamil nadu,0.7019623644044941,unemployed,graduate,False,employment
+U723,User723,43,lgbtq+,maharashtra,0.7720378094120336,unemployed,graduate,False,study
+U724,User724,43,male,tamil nadu,0.973208499390443,employed,primary,True,study
+U725,User725,47,lgbtq+,tamil nadu,0.8196127111647128,unemployed,secondary,True,health
+U726,User726,29,female,uttar pradesh,0.4774632188981405,unemployed,secondary,False,employment
+U727,User727,33,lgbtq+,uttar pradesh,0.8110553234815471,unemployed,graduate,False,health
+U728,User728,43,lgbtq+,tamil nadu,0.4516212228770665,employed,primary,True,study
+U729,User729,58,male,uttar pradesh,0.10401744972778233,employed,primary,True,health
+U730,User730,57,female,rajasthan,0.40064159029901053,unemployed,graduate,True,study
+U731,User731,33,male,west bengal,0.3766362013609622,employed,primary,True,health
+U732,User732,26,male,rajasthan,0.015738696570840174,unemployed,primary,True,employment
+U733,User733,36,lgbtq+,rajasthan,0.972146287276674,unemployed,primary,False,health
+U734,User734,33,male,tamil nadu,0.18306409256082573,employed,secondary,False,health
+U735,User735,22,lgbtq+,uttar pradesh,0.9823456926255971,employed,graduate,False,study
+U736,User736,51,male,maharashtra,0.41528898019690824,unemployed,secondary,True,study
+U737,User737,22,male,west bengal,0.1683593895098034,unemployed,secondary,False,study
+U738,User738,18,female,west bengal,0.46857661428554537,unemployed,primary,False,study
+U739,User739,46,lgbtq+,rajasthan,0.2099558911883509,unemployed,postgraduate,False,employment
+U740,User740,30,male,rajasthan,0.20561736057955027,unemployed,graduate,True,employment
+U741,User741,19,male,rajasthan,0.7143058614858301,unemployed,graduate,True,employment
+U742,User742,33,female,uttar pradesh,0.0931870157176734,unemployed,primary,True,employment
+U743,User743,43,male,maharashtra,0.4642602539393981,employed,secondary,True,employment
+U744,User744,60,female,uttar pradesh,0.8827640473589347,employed,graduate,True,employment
+U745,User745,33,lgbtq+,maharashtra,0.7811686623274826,employed,primary,False,study
+U746,User746,52,female,west bengal,0.13846851538014524,unemployed,secondary,True,study
+U747,User747,55,lgbtq+,west bengal,0.6935405844802864,employed,secondary,False,study
+U748,User748,31,female,rajasthan,0.511547567967028,employed,postgraduate,True,employment
+U749,User749,47,female,uttar pradesh,0.21863441234798955,employed,secondary,False,employment
+U750,User750,51,male,west bengal,0.33760825913403875,employed,primary,True,study
+U751,User751,39,female,uttar pradesh,0.30131432950420434,employed,primary,False,study
+U752,User752,49,lgbtq+,west bengal,0.447875512160702,employed,postgraduate,False,employment
+U753,User753,51,female,west bengal,0.36610524317534976,employed,primary,True,study
+U754,User754,51,male,west bengal,0.04927823698400669,unemployed,secondary,True,employment
+U755,User755,28,lgbtq+,tamil nadu,0.04848980571487636,unemployed,primary,False,health
+U756,User756,45,lgbtq+,west bengal,0.31617228475652204,employed,graduate,True,study
+U757,User757,35,female,rajasthan,0.8941952683737407,unemployed,secondary,True,health
+U758,User758,22,lgbtq+,uttar pradesh,0.2099552029299619,unemployed,secondary,True,study
+U759,User759,57,male,rajasthan,0.8305105319280043,unemployed,secondary,False,health
+U760,User760,57,female,uttar pradesh,0.548808771765572,unemployed,secondary,False,employment
+U761,User761,24,female,uttar pradesh,0.4756230036726511,unemployed,postgraduate,False,employment
+U762,User762,49,male,maharashtra,0.3626282452191226,employed,graduate,True,employment
+U763,User763,57,male,uttar pradesh,0.9839150260342079,employed,graduate,True,employment
+U764,User764,27,lgbtq+,uttar pradesh,0.876428253474052,unemployed,graduate,True,health
+U765,User765,26,male,uttar pradesh,0.9486172565691083,unemployed,graduate,True,health
+U766,User766,54,male,uttar pradesh,0.8834971259685334,unemployed,graduate,False,employment
+U767,User767,60,female,uttar pradesh,0.5324854726903346,employed,primary,True,employment
+U768,User768,58,male,west bengal,0.37023287472869326,employed,postgraduate,True,employment
+U769,User769,52,male,west bengal,0.01889934594388162,employed,primary,False,employment
+U770,User770,35,lgbtq+,west bengal,0.5280690646019972,employed,postgraduate,False,study
+U771,User771,35,female,tamil nadu,0.491120163261564,unemployed,graduate,False,study
+U772,User772,25,lgbtq+,tamil nadu,0.17619333420081698,unemployed,primary,False,health
+U773,User773,28,lgbtq+,tamil nadu,0.5918706381233538,unemployed,postgraduate,False,employment
+U774,User774,54,female,west bengal,0.5699529871550754,unemployed,postgraduate,True,employment
+U775,User775,43,male,uttar pradesh,0.026564729898522134,employed,postgraduate,False,study
+U776,User776,54,lgbtq+,maharashtra,0.2697838153286781,employed,graduate,False,health
+U777,User777,60,lgbtq+,maharashtra,0.6120754642370617,employed,primary,True,health
+U778,User778,36,lgbtq+,west bengal,0.44985404646607585,unemployed,graduate,True,health
+U779,User779,18,female,rajasthan,0.1682787589967103,unemployed,graduate,False,study
+U780,User780,18,male,uttar pradesh,0.6283576972284189,employed,graduate,True,health
+U781,User781,18,male,rajasthan,0.6958979111754162,employed,primary,True,health
+U782,User782,58,lgbtq+,tamil nadu,0.23615121403878594,employed,secondary,False,employment
+U783,User783,45,lgbtq+,maharashtra,0.6244719155017251,employed,graduate,True,health
+U784,User784,45,female,west bengal,0.8846968437659088,employed,postgraduate,False,health
+U785,User785,60,female,west bengal,0.49775491156307256,employed,secondary,True,employment
+U786,User786,49,lgbtq+,west bengal,0.12079808607438668,employed,postgraduate,True,employment
+U787,User787,36,female,rajasthan,0.5127550234572016,unemployed,secondary,False,study
+U788,User788,20,lgbtq+,west bengal,0.453096869719507,employed,secondary,True,employment
+U789,User789,53,lgbtq+,rajasthan,0.1300655478519049,employed,postgraduate,False,study
+U790,User790,58,lgbtq+,maharashtra,0.8906136134297482,unemployed,graduate,False,study
+U791,User791,52,female,rajasthan,0.9611674605866226,employed,secondary,True,employment
+U792,User792,55,male,rajasthan,0.7815399255875887,unemployed,primary,True,study
+U793,User793,56,male,uttar pradesh,0.06856999449122157,unemployed,primary,False,health
+U794,User794,49,lgbtq+,maharashtra,0.6976136767703762,unemployed,secondary,True,employment
+U795,User795,31,lgbtq+,maharashtra,0.40942689579052627,unemployed,postgraduate,False,employment
+U796,User796,44,male,tamil nadu,0.31902058995882315,unemployed,postgraduate,True,study
+U797,User797,23,female,rajasthan,0.9551906038797876,employed,graduate,False,employment
+U798,User798,41,lgbtq+,west bengal,0.04099344133553495,unemployed,primary,True,study
+U799,User799,20,lgbtq+,rajasthan,0.3738042475094797,employed,secondary,True,study
+U800,User800,42,lgbtq+,uttar pradesh,0.9182740506836398,employed,graduate,True,health
+U801,User801,33,lgbtq+,rajasthan,0.11199302965273675,employed,primary,True,employment
+U802,User802,33,male,maharashtra,0.5051168569934009,unemployed,primary,False,employment
+U803,User803,25,lgbtq+,maharashtra,0.18848863233860463,unemployed,graduate,False,study
+U804,User804,43,female,maharashtra,0.3593856930977841,employed,primary,False,employment
+U805,User805,34,male,tamil nadu,0.7611553180401346,unemployed,graduate,True,employment
+U806,User806,18,lgbtq+,rajasthan,0.09167443234168718,unemployed,primary,True,health
+U807,User807,54,lgbtq+,maharashtra,0.23759618124212661,employed,primary,False,health
+U808,User808,55,lgbtq+,maharashtra,0.17766756281384974,unemployed,graduate,False,health
+U809,User809,38,female,maharashtra,0.27269696281375383,unemployed,graduate,False,health
+U810,User810,29,female,uttar pradesh,0.7599034803120247,employed,postgraduate,True,study
+U811,User811,39,female,rajasthan,0.9908430349783968,employed,graduate,False,study
+U812,User812,56,female,uttar pradesh,0.3877113008002214,unemployed,postgraduate,True,study
+U813,User813,22,male,rajasthan,0.3760500137766388,unemployed,graduate,False,health
+U814,User814,32,lgbtq+,maharashtra,0.07620300944526187,employed,secondary,True,health
+U815,User815,27,lgbtq+,uttar pradesh,0.8140457853256596,employed,graduate,False,health
+U816,User816,44,lgbtq+,tamil nadu,0.14279132032757177,unemployed,postgraduate,False,study
+U817,User817,20,female,uttar pradesh,0.9681846511329808,unemployed,primary,False,health
+U818,User818,26,lgbtq+,maharashtra,0.48456640003050033,employed,primary,True,employment
+U819,User819,55,female,uttar pradesh,0.07426101540345217,unemployed,primary,False,health
+U820,User820,27,lgbtq+,rajasthan,0.18719049359159484,unemployed,secondary,True,study
+U821,User821,56,female,tamil nadu,0.5977084457792857,unemployed,secondary,False,employment
+U822,User822,27,lgbtq+,rajasthan,0.5404838694237019,employed,postgraduate,False,health
+U823,User823,53,male,uttar pradesh,0.7453438537868884,employed,secondary,True,health
+U824,User824,44,female,rajasthan,0.3630250574648829,unemployed,postgraduate,True,employment
+U825,User825,52,lgbtq+,west bengal,0.10699521007616955,unemployed,postgraduate,True,employment
+U826,User826,53,male,rajasthan,0.9630219832440784,employed,primary,True,health
+U827,User827,29,lgbtq+,uttar pradesh,0.794119286733221,unemployed,postgraduate,True,employment
+U828,User828,51,lgbtq+,uttar pradesh,0.6726893586013705,unemployed,postgraduate,True,employment
+U829,User829,48,lgbtq+,rajasthan,0.7452141692213393,unemployed,graduate,True,study
+U830,User830,24,female,maharashtra,0.3171875075930022,employed,primary,False,health
+U831,User831,25,lgbtq+,tamil nadu,0.7156188916416212,employed,primary,False,study
+U832,User832,29,lgbtq+,tamil nadu,0.5063228733978519,unemployed,primary,False,employment
+U833,User833,18,lgbtq+,tamil nadu,0.9941886798638893,employed,secondary,False,health
+U834,User834,27,male,rajasthan,0.03213620241420603,unemployed,postgraduate,False,health
+U835,User835,27,lgbtq+,maharashtra,0.39432915548672604,unemployed,secondary,False,health
+U836,User836,40,female,uttar pradesh,0.7467176175314344,unemployed,postgraduate,False,employment
+U837,User837,18,lgbtq+,maharashtra,0.31142323930312465,unemployed,postgraduate,True,employment
+U838,User838,36,female,tamil nadu,0.7579416727711362,unemployed,primary,False,employment
+U839,User839,52,male,uttar pradesh,0.10381445521564188,employed,postgraduate,True,study
+U840,User840,42,lgbtq+,rajasthan,0.23921210765804465,employed,postgraduate,True,health
+U841,User841,34,male,tamil nadu,0.7494740923795843,employed,graduate,True,health
+U842,User842,42,lgbtq+,rajasthan,0.773629959629057,unemployed,postgraduate,False,health
+U843,User843,54,female,tamil nadu,0.0036947795955747766,unemployed,primary,True,employment
+U844,User844,30,lgbtq+,maharashtra,0.2188253310538494,employed,postgraduate,True,employment
+U845,User845,33,male,tamil nadu,0.009553401853696745,employed,postgraduate,True,study
+U846,User846,60,female,tamil nadu,0.42256153546191916,unemployed,secondary,False,study
+U847,User847,39,female,west bengal,0.9371752319832256,employed,secondary,True,health
+U848,User848,37,female,rajasthan,0.8060145398964513,unemployed,primary,True,employment
+U849,User849,21,male,rajasthan,0.7980836550541556,employed,secondary,True,study
+U850,User850,19,male,maharashtra,0.4681663288604116,unemployed,graduate,False,health
+U851,User851,47,lgbtq+,tamil nadu,0.024979775110111433,unemployed,graduate,True,study
+U852,User852,55,lgbtq+,tamil nadu,0.0628957003434764,unemployed,graduate,True,employment
+U853,User853,43,lgbtq+,maharashtra,0.1680726151810321,employed,secondary,False,employment
+U854,User854,25,lgbtq+,rajasthan,0.2320976015467377,employed,graduate,False,health
+U855,User855,26,female,rajasthan,0.18464792110823616,unemployed,secondary,True,health
+U856,User856,45,lgbtq+,tamil nadu,0.5672589144008662,employed,postgraduate,False,study
+U857,User857,27,lgbtq+,uttar pradesh,0.5489664455056091,employed,secondary,True,study
+U858,User858,47,female,uttar pradesh,0.2901184720021389,unemployed,postgraduate,True,employment
+U859,User859,54,male,uttar pradesh,0.16750136071811964,employed,primary,True,employment
+U860,User860,56,male,west bengal,0.21780403902975673,employed,secondary,True,health
+U861,User861,25,female,uttar pradesh,0.8759063867646327,employed,primary,False,study
+U862,User862,20,male,west bengal,0.9705057921218984,employed,postgraduate,True,study
+U863,User863,50,male,maharashtra,0.17169262488797812,employed,graduate,False,study
+U864,User864,54,lgbtq+,maharashtra,0.9716116356462702,employed,postgraduate,True,health
+U865,User865,26,female,uttar pradesh,0.47462075346398885,unemployed,postgraduate,False,employment
+U866,User866,55,female,tamil nadu,0.4876269808050367,employed,graduate,True,employment
+U867,User867,20,male,rajasthan,0.2788462803878332,unemployed,postgraduate,True,health
+U868,User868,30,male,west bengal,0.11575112902010422,unemployed,primary,False,study
+U869,User869,21,lgbtq+,tamil nadu,0.13605629486440987,unemployed,postgraduate,False,study
+U870,User870,36,female,maharashtra,0.08237697918345817,employed,postgraduate,True,health
+U871,User871,58,lgbtq+,maharashtra,0.7060865338095775,unemployed,graduate,True,health
+U872,User872,50,lgbtq+,maharashtra,0.11633890168435389,employed,postgraduate,False,health
+U873,User873,38,male,maharashtra,0.0829984139398269,unemployed,secondary,True,employment
+U874,User874,18,male,tamil nadu,0.778069810215252,employed,primary,True,study
+U875,User875,55,female,rajasthan,0.6107111066904992,employed,graduate,False,employment
+U876,User876,60,female,west bengal,0.6570307085668085,employed,secondary,False,health
+U877,User877,19,female,rajasthan,0.6082376103218236,employed,graduate,True,study
+U878,User878,25,male,uttar pradesh,0.8273002862383214,employed,secondary,True,health
+U879,User879,25,female,uttar pradesh,0.650251196584136,employed,secondary,True,employment
+U880,User880,57,male,rajasthan,0.47124259358369247,unemployed,secondary,True,employment
+U881,User881,40,male,rajasthan,0.18792409360906415,employed,graduate,False,health
+U882,User882,49,male,west bengal,0.9934582917189022,unemployed,primary,True,employment
+U883,User883,25,female,west bengal,0.36061692478685214,unemployed,secondary,True,health
+U884,User884,37,lgbtq+,west bengal,0.16915747725269525,employed,primary,True,health
+U885,User885,19,male,rajasthan,0.18161034484894598,employed,primary,False,study
+U886,User886,35,female,tamil nadu,0.8164870586879389,unemployed,primary,False,employment
+U887,User887,42,female,rajasthan,0.4134888716648172,unemployed,postgraduate,True,study
+U888,User888,26,male,tamil nadu,0.6644584139577633,unemployed,postgraduate,True,employment
+U889,User889,27,female,uttar pradesh,0.768946590711027,employed,graduate,False,study
+U890,User890,47,male,west bengal,0.8569347528335859,employed,primary,False,study
+U891,User891,35,female,maharashtra,0.6265013183589442,unemployed,postgraduate,True,study
+U892,User892,48,female,rajasthan,0.3148475124954875,unemployed,graduate,False,health
+U893,User893,26,female,west bengal,0.020924368974988665,unemployed,secondary,True,health
+U894,User894,59,male,tamil nadu,0.031990750474653225,unemployed,secondary,False,health
+U895,User895,37,female,uttar pradesh,0.6228702548051437,unemployed,graduate,True,study
+U896,User896,36,female,rajasthan,0.8816368052555578,unemployed,postgraduate,False,health
+U897,User897,54,male,rajasthan,0.04690347440968756,employed,graduate,False,employment
+U898,User898,52,lgbtq+,west bengal,0.7948800416725855,unemployed,postgraduate,True,health
+U899,User899,39,male,uttar pradesh,0.5383643672864614,employed,primary,True,health
+U900,User900,18,lgbtq+,west bengal,0.5397691443711444,unemployed,graduate,True,study
+U901,User901,25,lgbtq+,uttar pradesh,0.8910598342853164,employed,graduate,True,employment
+U902,User902,18,lgbtq+,tamil nadu,0.2196217711478705,employed,secondary,True,health
+U903,User903,60,lgbtq+,uttar pradesh,0.7482122019077313,employed,postgraduate,True,study
+U904,User904,54,lgbtq+,west bengal,0.27047015493676585,employed,graduate,False,health
+U905,User905,38,female,rajasthan,0.6417767127523789,employed,postgraduate,True,employment
+U906,User906,32,female,tamil nadu,0.32812222317720974,unemployed,postgraduate,True,study
+U907,User907,47,lgbtq+,tamil nadu,0.918145367221202,unemployed,primary,False,employment
+U908,User908,32,lgbtq+,uttar pradesh,0.7861051643384797,unemployed,secondary,True,study
+U909,User909,47,male,west bengal,0.4039776621360008,unemployed,secondary,True,study
+U910,User910,34,female,west bengal,0.9233022996235288,unemployed,secondary,True,study
+U911,User911,32,male,tamil nadu,0.2945186955901763,employed,postgraduate,True,study
+U912,User912,19,male,west bengal,0.6479420479762398,unemployed,primary,True,study
+U913,User913,28,female,rajasthan,0.4171763724065199,employed,graduate,True,study
+U914,User914,20,male,tamil nadu,0.6008696582728273,unemployed,secondary,True,employment
+U915,User915,34,male,west bengal,0.15754263724221618,employed,postgraduate,True,employment
+U916,User916,46,female,rajasthan,0.8901373386245248,unemployed,graduate,False,employment
+U917,User917,22,female,rajasthan,0.0956103526492077,unemployed,secondary,True,study
+U918,User918,57,male,tamil nadu,0.9984090594492361,unemployed,primary,False,employment
+U919,User919,29,female,uttar pradesh,0.9574082975471994,employed,postgraduate,True,health
+U920,User920,38,lgbtq+,uttar pradesh,0.8416159147363818,employed,graduate,False,study
+U921,User921,58,male,maharashtra,0.17338697104761835,employed,primary,False,study
+U922,User922,60,male,tamil nadu,0.9498506156022879,unemployed,graduate,True,employment
+U923,User923,30,female,rajasthan,0.8917055457921352,unemployed,primary,True,employment
+U924,User924,39,male,west bengal,0.3670081339002108,unemployed,graduate,False,study
+U925,User925,40,lgbtq+,tamil nadu,0.17637680720228616,unemployed,postgraduate,False,employment
+U926,User926,39,lgbtq+,west bengal,0.8621786769250259,employed,graduate,True,employment
+U927,User927,23,female,tamil nadu,0.4018701940924113,unemployed,primary,True,employment
+U928,User928,39,female,maharashtra,0.6326100286880696,unemployed,graduate,True,study
+U929,User929,51,female,west bengal,0.5531159344768837,unemployed,postgraduate,True,employment
+U930,User930,35,lgbtq+,tamil nadu,0.7512167626206618,unemployed,graduate,False,health
+U931,User931,44,male,rajasthan,0.047027778046013165,unemployed,graduate,True,employment
+U932,User932,56,male,maharashtra,0.7362420120053536,unemployed,secondary,True,study
+U933,User933,35,lgbtq+,rajasthan,0.6464439388827385,employed,primary,True,health
+U934,User934,38,male,uttar pradesh,0.31583065831977486,employed,postgraduate,False,health
+U935,User935,37,male,rajasthan,0.010264122493808748,unemployed,postgraduate,False,study
+U936,User936,51,male,rajasthan,0.758537767104999,employed,secondary,False,study
+U937,User937,48,lgbtq+,rajasthan,0.07492923087396157,unemployed,postgraduate,True,study
+U938,User938,51,lgbtq+,west bengal,0.8397197628745457,employed,postgraduate,True,study
+U939,User939,47,male,west bengal,0.11446604632617162,unemployed,primary,False,health
+U940,User940,48,male,uttar pradesh,0.4895371689667463,unemployed,secondary,False,health
+U941,User941,44,lgbtq+,maharashtra,0.5809094558756399,employed,secondary,False,study
+U942,User942,32,lgbtq+,uttar pradesh,0.6328439531150878,employed,secondary,True,health
+U943,User943,31,female,west bengal,0.20051079617751305,employed,postgraduate,True,health
+U944,User944,24,female,uttar pradesh,0.14686551800234712,employed,postgraduate,True,health
+U945,User945,55,lgbtq+,tamil nadu,0.9818483112297762,unemployed,graduate,False,health
+U946,User946,21,female,west bengal,0.5852862786784496,employed,graduate,True,employment
+U947,User947,22,male,maharashtra,0.5322325898731455,employed,secondary,True,health
+U948,User948,45,male,tamil nadu,0.6941685055505641,employed,secondary,False,employment
+U949,User949,40,female,tamil nadu,0.4827077061100806,unemployed,secondary,False,employment
+U950,User950,33,female,uttar pradesh,0.4058745231125406,employed,graduate,True,employment
+U951,User951,23,male,west bengal,0.5540977454970225,unemployed,secondary,False,health
+U952,User952,40,lgbtq+,west bengal,0.4659120740731209,unemployed,postgraduate,True,employment
+U953,User953,59,male,uttar pradesh,0.45817949107213124,employed,primary,True,health
+U954,User954,20,female,maharashtra,0.6332886306033592,unemployed,secondary,False,health
+U955,User955,32,male,rajasthan,0.43208732355479457,employed,primary,True,study
+U956,User956,38,lgbtq+,uttar pradesh,0.23138029031114266,unemployed,secondary,False,employment
+U957,User957,27,male,maharashtra,0.4993461023896144,unemployed,primary,False,employment
+U958,User958,31,female,rajasthan,0.4553486843179638,unemployed,postgraduate,False,health
+U959,User959,30,female,rajasthan,0.845142529865565,unemployed,postgraduate,False,health
+U960,User960,44,lgbtq+,rajasthan,0.7179983468867747,unemployed,graduate,True,employment
+U961,User961,43,lgbtq+,tamil nadu,0.2120759981587211,employed,secondary,False,health
+U962,User962,39,lgbtq+,west bengal,0.7346169922361743,unemployed,primary,False,employment
+U963,User963,45,female,uttar pradesh,0.3490925594700611,employed,primary,False,health
+U964,User964,34,female,uttar pradesh,0.8636068547949366,employed,primary,True,employment
+U965,User965,26,male,maharashtra,0.8980696625525432,unemployed,graduate,True,study
+U966,User966,32,lgbtq+,uttar pradesh,0.11227402678230299,unemployed,secondary,False,study
+U967,User967,44,male,tamil nadu,0.8994960676356942,employed,secondary,False,employment
+U968,User968,45,male,rajasthan,0.08567815840575498,unemployed,graduate,True,health
+U969,User969,45,lgbtq+,maharashtra,0.8677701715029367,employed,primary,True,study
+U970,User970,42,female,uttar pradesh,0.6587091622145561,employed,secondary,False,study
+U971,User971,52,lgbtq+,uttar pradesh,0.42655727168034263,unemployed,graduate,False,employment
+U972,User972,22,male,west bengal,0.05220635930312294,employed,postgraduate,True,health
+U973,User973,60,male,rajasthan,0.7648250909142404,employed,postgraduate,False,health
+U974,User974,49,female,uttar pradesh,0.644678931528489,unemployed,secondary,False,health
+U975,User975,48,lgbtq+,west bengal,0.33795071982337876,employed,graduate,False,study
+U976,User976,35,female,west bengal,0.940293417899294,employed,secondary,False,study
+U977,User977,28,female,rajasthan,0.864649461972775,employed,postgraduate,True,employment
+U978,User978,46,lgbtq+,tamil nadu,0.0939444336466668,employed,primary,False,study
+U979,User979,55,male,west bengal,0.20060863315033242,employed,postgraduate,True,health
+U980,User980,47,lgbtq+,uttar pradesh,0.4854363169216313,employed,graduate,True,health
+U981,User981,34,male,maharashtra,0.9078603049873142,employed,secondary,True,study
+U982,User982,45,lgbtq+,uttar pradesh,0.6645788800321621,employed,secondary,False,health
+U983,User983,36,lgbtq+,tamil nadu,0.15153001195546537,unemployed,primary,False,employment
+U984,User984,40,female,maharashtra,0.47020034096320595,unemployed,primary,True,study
+U985,User985,60,female,rajasthan,0.8165014286888496,unemployed,graduate,True,study
+U986,User986,43,male,maharashtra,0.13196021891538862,unemployed,secondary,True,study
+U987,User987,52,lgbtq+,rajasthan,0.23180333980094608,employed,postgraduate,False,health
+U988,User988,20,male,rajasthan,0.4478266458150793,unemployed,graduate,True,health
+U989,User989,43,female,rajasthan,0.41176486782550337,unemployed,graduate,True,employment
+U990,User990,25,lgbtq+,uttar pradesh,0.935354475699463,unemployed,postgraduate,True,health
+U991,User991,52,female,west bengal,0.9676028433747694,employed,postgraduate,True,employment
+U992,User992,39,male,rajasthan,0.7122254232262472,unemployed,primary,False,employment
+U993,User993,39,lgbtq+,tamil nadu,0.16328143997169886,unemployed,primary,False,health
+U994,User994,33,male,west bengal,0.17969331581597547,employed,postgraduate,True,employment
+U995,User995,48,lgbtq+,rajasthan,0.2111221554567555,unemployed,secondary,False,study
+U996,User996,35,female,rajasthan,0.7643174482115282,unemployed,secondary,False,employment
+U997,User997,42,male,maharashtra,0.15741712393963106,unemployed,graduate,True,employment
+U998,User998,29,lgbtq+,maharashtra,0.8288102208623256,unemployed,graduate,False,health
+U999,User999,26,male,tamil nadu,0.5761548834988154,employed,secondary,False,employment
+U1000,User1000,28,male,west bengal,0.396331048864698,unemployed,primary,False,study
+U1001,User1001,43,female,maharashtra,0.3783080435569119,unemployed,primary,False,study
+U1002,User1002,52,lgbtq+,west bengal,0.05237026908129122,employed,secondary,True,study
+U1003,User1003,32,female,rajasthan,0.662712135574222,unemployed,secondary,True,employment
+U1004,User1004,40,female,rajasthan,0.6423070262693001,employed,postgraduate,True,health
+U1005,User1005,28,male,tamil nadu,0.9922032838309397,unemployed,secondary,True,health
+U1006,User1006,21,female,west bengal,0.7104503214156248,unemployed,graduate,False,health
+U1007,User1007,36,male,maharashtra,0.1523313741397839,unemployed,graduate,False,study
+U1008,User1008,40,lgbtq+,tamil nadu,0.45785665617503657,unemployed,postgraduate,False,study
+U1009,User1009,29,female,maharashtra,0.26991083028593027,employed,primary,False,study
+U1010,User1010,45,female,uttar pradesh,0.9894192786472278,employed,secondary,True,study
+U1011,User1011,27,lgbtq+,maharashtra,0.0973016329305694,employed,secondary,False,health
+U1012,User1012,28,female,tamil nadu,0.07765423354304844,unemployed,primary,True,study
+U1013,User1013,39,lgbtq+,tamil nadu,0.32212200739777663,employed,postgraduate,False,employment
+U1014,User1014,25,female,rajasthan,0.8813808774164048,employed,postgraduate,False,health
+U1015,User1015,57,male,tamil nadu,0.7502553699327315,employed,postgraduate,False,health
+U1016,User1016,25,lgbtq+,tamil nadu,0.1039130847284244,employed,postgraduate,True,study
+U1017,User1017,48,lgbtq+,uttar pradesh,0.7601367790495982,unemployed,postgraduate,True,study
+U1018,User1018,44,female,west bengal,0.011791367859113257,unemployed,postgraduate,False,health
+U1019,User1019,25,lgbtq+,west bengal,0.22989967966577507,unemployed,graduate,False,health
+U1020,User1020,60,male,maharashtra,0.13270977401369496,employed,primary,True,employment
+U1021,User1021,24,male,uttar pradesh,0.958225614812355,unemployed,graduate,False,health
+U1022,User1022,26,male,uttar pradesh,0.8768713875950269,unemployed,secondary,True,employment
+U1023,User1023,35,lgbtq+,tamil nadu,0.8586185665542421,employed,primary,True,employment
+U1024,User1024,43,male,rajasthan,0.7362350459962039,unemployed,postgraduate,True,employment
+U1025,User1025,51,female,west bengal,0.6467675454634814,unemployed,postgraduate,True,employment
+U1026,User1026,34,female,tamil nadu,0.5250921802188324,employed,graduate,True,employment
+U1027,User1027,18,male,rajasthan,0.6274560578824471,unemployed,graduate,False,study
+U1028,User1028,38,lgbtq+,rajasthan,0.2631786412815839,unemployed,graduate,True,study
+U1029,User1029,53,male,west bengal,0.3087770526477415,unemployed,secondary,True,health
+U1030,User1030,49,male,tamil nadu,0.06119445074363087,unemployed,postgraduate,True,employment
+U1031,User1031,35,male,uttar pradesh,0.7707068845381272,unemployed,primary,True,study
+U1032,User1032,60,lgbtq+,west bengal,0.19322111787803517,employed,postgraduate,True,health
+U1033,User1033,41,male,rajasthan,0.6780714140658616,employed,secondary,False,employment
+U1034,User1034,38,male,maharashtra,0.9262166150622345,employed,secondary,True,health
+U1035,User1035,43,male,rajasthan,0.9038653404525391,employed,postgraduate,True,health
+U1036,User1036,57,female,uttar pradesh,0.8310437861853152,unemployed,graduate,False,study
+U1037,User1037,37,lgbtq+,west bengal,0.979659941541001,employed,primary,False,health
+U1038,User1038,23,female,maharashtra,0.2103146198032503,unemployed,primary,True,employment
+U1039,User1039,31,male,uttar pradesh,0.8784352149365252,unemployed,secondary,True,health
+U1040,User1040,54,male,rajasthan,0.16345805124559232,unemployed,primary,False,health
+U1041,User1041,55,male,west bengal,0.6904663636758579,employed,graduate,True,study
+U1042,User1042,47,male,tamil nadu,0.24978442391594458,unemployed,graduate,True,health
+U1043,User1043,35,male,rajasthan,0.4245267425821232,unemployed,postgraduate,False,study
+U1044,User1044,19,female,uttar pradesh,0.6786632328551863,unemployed,secondary,True,health
+U1045,User1045,57,female,maharashtra,0.527867550888209,employed,secondary,False,employment
+U1046,User1046,18,lgbtq+,uttar pradesh,0.07243514932255873,unemployed,secondary,True,study
+U1047,User1047,48,lgbtq+,maharashtra,0.3170859581961449,employed,graduate,False,employment
+U1048,User1048,23,female,tamil nadu,0.07690117458385239,employed,graduate,False,employment
+U1049,User1049,21,male,tamil nadu,0.8154231363563547,unemployed,graduate,True,health
+U1050,User1050,32,lgbtq+,uttar pradesh,0.665869719068985,unemployed,graduate,True,health
+U1051,User1051,23,male,tamil nadu,0.6310425723477927,employed,primary,True,health
+U1052,User1052,28,female,uttar pradesh,0.8748529551594028,employed,primary,False,study
+U1053,User1053,18,female,maharashtra,0.2897540079006641,unemployed,primary,True,health
+U1054,User1054,22,lgbtq+,rajasthan,0.32643096375216285,unemployed,graduate,True,study
+U1055,User1055,18,female,maharashtra,0.2004860605881368,unemployed,primary,False,health
+U1056,User1056,54,male,tamil nadu,0.14224375863829453,unemployed,secondary,True,study
+U1057,User1057,34,male,west bengal,0.40805588507953633,employed,primary,False,health
+U1058,User1058,52,lgbtq+,uttar pradesh,0.6323542259868056,unemployed,postgraduate,False,health
+U1059,User1059,47,male,tamil nadu,0.7754092744152729,unemployed,postgraduate,True,employment
+U1060,User1060,18,lgbtq+,uttar pradesh,0.18147490394050664,unemployed,graduate,True,study
+U1061,User1061,24,female,west bengal,0.9978548654518462,employed,primary,False,study
+U1062,User1062,32,male,maharashtra,0.0287924971659918,unemployed,graduate,True,employment
+U1063,User1063,29,lgbtq+,tamil nadu,0.5989211362044791,employed,graduate,True,employment
+U1064,User1064,42,female,uttar pradesh,0.968889448579684,unemployed,primary,False,study
+U1065,User1065,57,female,tamil nadu,0.020339766470591582,unemployed,primary,True,study
+U1066,User1066,32,male,uttar pradesh,0.3662169704538391,unemployed,secondary,True,study
+U1067,User1067,58,female,rajasthan,0.014993437873386691,employed,secondary,True,health
+U1068,User1068,46,lgbtq+,rajasthan,0.13990463950600238,employed,postgraduate,True,employment
+U1069,User1069,47,male,maharashtra,0.1213517586639061,employed,secondary,False,study
+U1070,User1070,38,male,uttar pradesh,0.11798198302216721,employed,secondary,True,study
+U1071,User1071,35,male,rajasthan,0.425775243299862,unemployed,graduate,True,study
+U1072,User1072,51,male,tamil nadu,0.2746449634742316,unemployed,postgraduate,True,employment
+U1073,User1073,35,male,west bengal,0.41833859054984945,unemployed,secondary,True,study
+U1074,User1074,21,male,rajasthan,0.6702128589233608,employed,graduate,False,employment
+U1075,User1075,28,female,maharashtra,0.46219201662398457,employed,postgraduate,False,health
+U1076,User1076,34,female,rajasthan,0.9299831195244743,employed,primary,True,health
+U1077,User1077,32,female,rajasthan,0.40562347565105544,employed,postgraduate,True,health
+U1078,User1078,18,lgbtq+,west bengal,0.5628727271127024,employed,postgraduate,False,employment
+U1079,User1079,23,male,west bengal,0.6519065205787485,employed,postgraduate,False,study
+U1080,User1080,39,male,maharashtra,0.9660248128828789,employed,primary,False,health
+U1081,User1081,48,female,maharashtra,0.8997983382063766,unemployed,postgraduate,True,health
+U1082,User1082,50,female,tamil nadu,0.6164634868809296,unemployed,secondary,False,study
+U1083,User1083,53,female,uttar pradesh,0.42796088081139577,unemployed,postgraduate,True,health
+U1084,User1084,30,female,rajasthan,0.07049561632589778,employed,secondary,False,health
+U1085,User1085,27,male,tamil nadu,0.05831454822437783,employed,secondary,True,employment
+U1086,User1086,19,female,uttar pradesh,0.18179663345291583,employed,primary,True,study
+U1087,User1087,19,female,maharashtra,0.8565660340438878,employed,postgraduate,False,employment
+U1088,User1088,60,male,west bengal,0.7074971298060954,employed,postgraduate,False,health
+U1089,User1089,35,male,west bengal,0.3120695139304437,employed,postgraduate,True,employment
+U1090,User1090,40,lgbtq+,tamil nadu,0.3087293751120636,unemployed,secondary,False,study
+U1091,User1091,32,male,rajasthan,0.5228692933290305,unemployed,postgraduate,True,study
+U1092,User1092,45,male,west bengal,0.9149219820531828,unemployed,primary,False,employment
+U1093,User1093,46,male,west bengal,0.33548446059594544,unemployed,postgraduate,True,health
+U1094,User1094,60,male,uttar pradesh,0.4629845565871344,unemployed,secondary,True,study
+U1095,User1095,41,lgbtq+,rajasthan,0.8554254230427114,unemployed,graduate,False,employment
+U1096,User1096,46,male,uttar pradesh,0.8953307487214713,employed,postgraduate,False,employment
+U1097,User1097,31,male,rajasthan,0.5634725130142882,employed,secondary,False,employment
+U1098,User1098,22,male,uttar pradesh,0.5886151759431418,employed,primary,False,health
+U1099,User1099,44,male,maharashtra,0.002194939427943403,unemployed,graduate,False,health
+U1100,User1100,52,male,maharashtra,0.599479126051166,unemployed,graduate,True,employment
+U1101,User1101,57,female,west bengal,0.05361733071330745,unemployed,postgraduate,False,health
+U1102,User1102,44,male,uttar pradesh,0.7044850816761444,employed,primary,True,employment
+U1103,User1103,22,lgbtq+,tamil nadu,0.7099165457504435,employed,secondary,True,health
+U1104,User1104,44,female,west bengal,0.9275817860050749,employed,graduate,True,study
+U1105,User1105,45,male,tamil nadu,0.4675108774545719,unemployed,primary,True,study
+U1106,User1106,43,male,tamil nadu,0.19691420811210958,employed,postgraduate,False,study
+U1107,User1107,24,male,tamil nadu,0.8788574927426802,unemployed,primary,False,health
+U1108,User1108,58,male,rajasthan,0.5942841308742932,unemployed,graduate,False,employment
+U1109,User1109,25,lgbtq+,west bengal,0.6128938660305879,employed,primary,True,employment
+U1110,User1110,57,male,tamil nadu,0.3460300182019317,employed,primary,False,health
+U1111,User1111,18,male,uttar pradesh,0.9362362389774115,unemployed,primary,False,employment
+U1112,User1112,49,lgbtq+,tamil nadu,0.0,unemployed,secondary,True,study
+U1113,User1113,47,male,uttar pradesh,0.5519226612807875,unemployed,postgraduate,False,study
+U1114,User1114,18,lgbtq+,uttar pradesh,0.1449443177064127,employed,primary,True,study
+U1115,User1115,26,female,uttar pradesh,0.6448676186086632,unemployed,graduate,False,employment
+U1116,User1116,56,female,rajasthan,0.5387281014169176,unemployed,primary,True,study
+U1117,User1117,22,male,tamil nadu,0.045917346132381,unemployed,primary,True,health
+U1118,User1118,31,female,west bengal,0.224724143430629,employed,postgraduate,True,employment
+U1119,User1119,41,lgbtq+,west bengal,0.1689938594629345,employed,postgraduate,True,employment
+U1120,User1120,27,female,west bengal,0.5572809196900693,employed,postgraduate,True,health
+U1121,User1121,22,female,maharashtra,0.16454051484105126,employed,secondary,False,health
+U1122,User1122,25,male,maharashtra,0.5272103475519244,employed,graduate,False,employment
+U1123,User1123,37,lgbtq+,west bengal,0.8427826378437123,unemployed,graduate,True,study
+U1124,User1124,33,female,west bengal,0.1370102627042644,unemployed,postgraduate,True,health
+U1125,User1125,48,male,rajasthan,0.6018426679281121,employed,secondary,False,study
+U1126,User1126,40,female,uttar pradesh,0.35971593198663976,unemployed,postgraduate,True,employment
+U1127,User1127,35,lgbtq+,uttar pradesh,0.40225436741139076,employed,graduate,True,study
+U1128,User1128,43,male,maharashtra,0.9037507350026046,employed,graduate,True,employment
+U1129,User1129,34,male,tamil nadu,0.8216445750670807,unemployed,primary,False,employment
+U1130,User1130,22,male,maharashtra,0.8481848613646341,unemployed,postgraduate,False,study
+U1131,User1131,42,lgbtq+,tamil nadu,0.1677061697296494,employed,graduate,True,study
+U1132,User1132,23,female,west bengal,0.3963159280364537,employed,graduate,True,employment
+U1133,User1133,50,lgbtq+,maharashtra,0.40717881447242216,unemployed,primary,True,study
+U1134,User1134,22,lgbtq+,rajasthan,0.9396995969037466,employed,graduate,True,employment
+U1135,User1135,41,female,tamil nadu,0.12722322841195702,unemployed,primary,True,employment
+U1136,User1136,32,lgbtq+,uttar pradesh,0.7696416899713391,employed,primary,False,health
+U1137,User1137,55,male,uttar pradesh,0.18488486970090318,employed,graduate,False,health
+U1138,User1138,30,lgbtq+,maharashtra,0.26037277867994085,employed,primary,True,study
+U1139,User1139,35,lgbtq+,maharashtra,0.1689671633799652,unemployed,primary,True,health
+U1140,User1140,56,female,uttar pradesh,0.6617145363237646,employed,primary,True,health
+U1141,User1141,46,male,tamil nadu,0.4707673407378952,unemployed,primary,False,employment
+U1142,User1142,39,lgbtq+,uttar pradesh,0.15487263267530899,employed,secondary,True,study
+U1143,User1143,37,lgbtq+,uttar pradesh,0.10533241952085162,unemployed,primary,True,employment
+U1144,User1144,23,male,rajasthan,0.018811082019564516,employed,postgraduate,False,study
+U1145,User1145,20,male,uttar pradesh,0.17287576191507187,employed,graduate,False,study
+U1146,User1146,38,male,tamil nadu,0.7945440047282101,unemployed,graduate,False,health
+U1147,User1147,51,female,tamil nadu,0.5367323397955026,employed,primary,False,health
+U1148,User1148,30,female,maharashtra,0.9607554857999885,unemployed,postgraduate,True,employment
+U1149,User1149,20,male,tamil nadu,0.04451742856905096,unemployed,secondary,True,employment
+U1150,User1150,36,lgbtq+,tamil nadu,0.7303653698912274,unemployed,graduate,False,employment
+U1151,User1151,52,lgbtq+,uttar pradesh,0.04739042764809866,unemployed,postgraduate,True,health
+U1152,User1152,55,female,west bengal,0.7179814949844004,unemployed,postgraduate,True,employment
+U1153,User1153,43,lgbtq+,rajasthan,0.11217591867739095,unemployed,secondary,False,study
+U1154,User1154,55,male,west bengal,0.9532200575429897,unemployed,secondary,False,study
+U1155,User1155,24,lgbtq+,uttar pradesh,0.6222722625466324,employed,postgraduate,True,employment
+U1156,User1156,35,female,uttar pradesh,0.0357425929475748,employed,secondary,True,study
+U1157,User1157,32,lgbtq+,tamil nadu,0.6193521281960921,employed,secondary,False,employment
+U1158,User1158,31,male,uttar pradesh,0.3212453956295885,unemployed,secondary,True,study
+U1159,User1159,41,lgbtq+,west bengal,0.6457409976480541,unemployed,secondary,False,study
+U1160,User1160,49,male,tamil nadu,0.9351104151034424,unemployed,secondary,False,employment
+U1161,User1161,32,female,tamil nadu,0.6991841572763021,unemployed,primary,True,health
+U1162,User1162,53,lgbtq+,west bengal,0.023817682104670796,employed,postgraduate,True,study
+U1163,User1163,54,lgbtq+,maharashtra,0.9687155069140874,unemployed,postgraduate,True,study
+U1164,User1164,29,male,tamil nadu,0.4395849184567103,unemployed,graduate,True,health
+U1165,User1165,48,lgbtq+,rajasthan,0.35015881770890506,unemployed,secondary,False,employment
+U1166,User1166,53,female,rajasthan,0.5668824787746848,employed,postgraduate,False,study
+U1167,User1167,40,female,tamil nadu,0.4017265775085626,employed,secondary,False,study
+U1168,User1168,33,female,west bengal,0.2770566625820965,unemployed,primary,False,health
+U1169,User1169,48,female,west bengal,0.601518039387943,unemployed,secondary,True,study
+U1170,User1170,31,female,tamil nadu,0.8649763012823152,employed,postgraduate,True,study
+U1171,User1171,60,male,tamil nadu,0.5633846870725824,employed,secondary,False,health
+U1172,User1172,29,lgbtq+,west bengal,0.46544785421786333,unemployed,graduate,False,study
+U1173,User1173,44,female,maharashtra,0.6862910545868365,employed,primary,True,health
+U1174,User1174,32,male,west bengal,0.8159534290169611,unemployed,postgraduate,True,health
+U1175,User1175,34,lgbtq+,rajasthan,0.8367457983754558,employed,graduate,False,study
+U1176,User1176,45,lgbtq+,uttar pradesh,0.4939191641356312,employed,postgraduate,False,study
+U1177,User1177,30,female,uttar pradesh,0.6594828272127939,unemployed,secondary,True,employment
+U1178,User1178,51,male,west bengal,0.889195780291988,employed,postgraduate,False,study
+U1179,User1179,29,lgbtq+,west bengal,0.8200087517268247,unemployed,primary,True,health
+U1180,User1180,31,female,west bengal,0.3724582643762735,employed,primary,False,study
+U1181,User1181,42,male,maharashtra,0.7778734062985946,employed,postgraduate,True,health
+U1182,User1182,56,lgbtq+,west bengal,0.9949614063279603,unemployed,postgraduate,False,employment
+U1183,User1183,33,female,maharashtra,0.13126666302237328,unemployed,primary,True,health
+U1184,User1184,30,lgbtq+,maharashtra,0.04232403250840421,employed,postgraduate,False,health
+U1185,User1185,55,female,tamil nadu,0.09480500690875858,employed,secondary,True,employment
+U1186,User1186,31,lgbtq+,west bengal,0.05590049235293832,employed,secondary,True,employment
+U1187,User1187,28,lgbtq+,tamil nadu,0.3994825423155336,employed,postgraduate,False,health
+U1188,User1188,22,male,west bengal,0.5271334503191841,unemployed,secondary,True,health
+U1189,User1189,38,lgbtq+,uttar pradesh,0.6507381915351768,unemployed,secondary,False,health
+U1190,User1190,33,male,uttar pradesh,0.5852094231583389,unemployed,primary,False,study
+U1191,User1191,50,lgbtq+,uttar pradesh,0.349928126010684,unemployed,postgraduate,True,health
+U1192,User1192,25,female,rajasthan,0.19857042892825927,unemployed,graduate,True,study
+U1193,User1193,30,lgbtq+,uttar pradesh,0.00879358544849909,employed,graduate,False,study
+U1194,User1194,47,lgbtq+,tamil nadu,0.5117882289837329,employed,secondary,True,health
+U1195,User1195,32,lgbtq+,tamil nadu,0.8181462202444781,employed,graduate,True,health
+U1196,User1196,34,female,tamil nadu,0.049138040835788446,unemployed,primary,True,study
+U1197,User1197,35,female,west bengal,0.8340393369702437,employed,primary,False,employment
+U1198,User1198,35,female,rajasthan,0.7096917772456313,unemployed,secondary,True,health
+U1199,User1199,54,male,maharashtra,0.5474245381509864,employed,secondary,False,study
+U1200,User1200,37,lgbtq+,tamil nadu,0.8522377438856638,unemployed,primary,False,employment
+U1201,User1201,41,lgbtq+,west bengal,0.8003748880876218,employed,graduate,True,health
+U1202,User1202,34,male,maharashtra,0.4401451399290831,unemployed,secondary,True,health
+U1203,User1203,60,lgbtq+,rajasthan,0.6881503533403859,employed,primary,False,health
+U1204,User1204,33,female,maharashtra,0.007491796846395888,employed,secondary,True,study
+U1205,User1205,21,lgbtq+,west bengal,0.13522992595862246,unemployed,graduate,False,employment
+U1206,User1206,21,lgbtq+,west bengal,0.3731086268412972,employed,secondary,True,study
+U1207,User1207,45,female,rajasthan,0.4467732350661643,employed,graduate,False,employment
+U1208,User1208,35,male,tamil nadu,0.5276262433257447,employed,postgraduate,False,employment
+U1209,User1209,57,male,west bengal,0.8672225472447149,unemployed,graduate,False,employment
+U1210,User1210,59,male,rajasthan,0.60426848676111,unemployed,graduate,True,study
+U1211,User1211,45,lgbtq+,tamil nadu,0.026142222672904003,unemployed,graduate,True,employment
+U1212,User1212,58,female,uttar pradesh,0.18138782882613425,unemployed,primary,False,health
+U1213,User1213,25,lgbtq+,maharashtra,0.583186360620825,unemployed,graduate,False,health
+U1214,User1214,30,female,uttar pradesh,0.8954941162354544,employed,primary,True,employment
+U1215,User1215,30,lgbtq+,west bengal,0.4062604900745945,employed,postgraduate,True,health
+U1216,User1216,20,female,rajasthan,0.7127623064823366,employed,secondary,True,study
+U1217,User1217,38,female,west bengal,0.8058342996237793,employed,secondary,False,health
+U1218,User1218,21,male,tamil nadu,0.8790903743539574,unemployed,graduate,True,study
+U1219,User1219,33,female,rajasthan,0.6514441360791952,unemployed,secondary,False,study
+U1220,User1220,51,male,maharashtra,0.9552975967748129,unemployed,postgraduate,False,study
+U1221,User1221,55,female,west bengal,0.7683494118487936,employed,primary,True,employment
+U1222,User1222,37,lgbtq+,rajasthan,0.31163528545589686,employed,postgraduate,False,employment
+U1223,User1223,43,female,tamil nadu,0.5416601238669052,unemployed,postgraduate,True,study
+U1224,User1224,24,female,rajasthan,0.941364535659491,employed,primary,True,health
+U1225,User1225,36,male,maharashtra,0.5441969191510588,employed,secondary,False,study
+U1226,User1226,58,male,tamil nadu,0.7807760004883715,employed,primary,True,study
+U1227,User1227,47,female,maharashtra,0.8706837986832532,unemployed,graduate,False,health
+U1228,User1228,22,female,maharashtra,0.20317485669469668,employed,secondary,True,study
+U1229,User1229,44,lgbtq+,maharashtra,0.44288057075557985,unemployed,graduate,True,employment
+U1230,User1230,30,female,tamil nadu,0.5034846835082383,unemployed,graduate,False,health
+U1231,User1231,41,male,rajasthan,0.8225547446458138,employed,postgraduate,False,study
+U1232,User1232,33,female,maharashtra,0.8579152916185208,unemployed,primary,False,study
+U1233,User1233,52,female,rajasthan,0.5479871580995634,employed,postgraduate,True,employment
+U1234,User1234,42,male,west bengal,0.9658187316361452,unemployed,secondary,False,health
+U1235,User1235,38,female,uttar pradesh,0.6951965341643435,unemployed,postgraduate,False,health
+U1236,User1236,47,female,rajasthan,0.6448015040906846,employed,primary,True,study
+U1237,User1237,23,female,rajasthan,0.044260103356805094,employed,postgraduate,False,health
+U1238,User1238,28,male,tamil nadu,0.9815570527933186,employed,secondary,False,study
+U1239,User1239,43,female,west bengal,0.8090974786404744,employed,postgraduate,True,employment
+U1240,User1240,49,male,rajasthan,0.04531464034672038,employed,postgraduate,True,health
+U1241,User1241,35,lgbtq+,rajasthan,0.2610893390882024,unemployed,primary,False,study
+U1242,User1242,48,female,rajasthan,0.19045361003934566,unemployed,graduate,True,health
+U1243,User1243,22,male,west bengal,0.34458010805197875,employed,secondary,True,employment
+U1244,User1244,55,lgbtq+,uttar pradesh,0.05197001554358574,unemployed,primary,True,employment
+U1245,User1245,44,female,maharashtra,0.7900680935736919,employed,graduate,False,health
+U1246,User1246,48,female,uttar pradesh,0.721578187331378,unemployed,graduate,False,employment
+U1247,User1247,19,lgbtq+,maharashtra,0.15527052944943984,unemployed,graduate,False,health
+U1248,User1248,37,lgbtq+,uttar pradesh,0.752230024963549,employed,graduate,True,health
+U1249,User1249,40,female,west bengal,0.089485019837171,employed,primary,False,employment
+U1250,User1250,35,lgbtq+,uttar pradesh,0.49847564323429805,employed,postgraduate,False,study
+U1251,User1251,59,female,tamil nadu,0.5792019076687188,unemployed,postgraduate,False,employment
+U1252,User1252,41,female,rajasthan,0.35136141367772566,unemployed,graduate,True,health
+U1253,User1253,27,lgbtq+,tamil nadu,0.43369311380171016,employed,primary,True,employment
+U1254,User1254,23,female,maharashtra,0.06807811916251301,unemployed,secondary,True,employment
+U1255,User1255,50,lgbtq+,rajasthan,0.9944008720108651,unemployed,graduate,False,study
+U1256,User1256,42,lgbtq+,maharashtra,0.038741605880763315,employed,secondary,True,study
+U1257,User1257,32,male,tamil nadu,0.961217286322727,employed,primary,True,health
+U1258,User1258,30,male,maharashtra,0.03400772296823986,unemployed,primary,True,study
+U1259,User1259,30,lgbtq+,maharashtra,0.5438936891898947,unemployed,postgraduate,True,health
+U1260,User1260,57,male,maharashtra,0.12534338618831012,employed,secondary,False,employment
+U1261,User1261,51,male,uttar pradesh,0.1779909608314445,employed,secondary,True,study
+U1262,User1262,45,lgbtq+,west bengal,0.9041403309634373,employed,postgraduate,True,employment
+U1263,User1263,59,female,rajasthan,0.4295506951211595,unemployed,secondary,True,employment
+U1264,User1264,35,female,maharashtra,0.9803296169535477,unemployed,graduate,True,health
+U1265,User1265,18,male,tamil nadu,0.2900102277282245,employed,graduate,True,employment
+U1266,User1266,20,lgbtq+,west bengal,0.06592472551369051,employed,graduate,False,health
+U1267,User1267,37,female,rajasthan,0.8270986056740147,employed,secondary,False,employment
+U1268,User1268,46,female,west bengal,0.027780465345679135,employed,graduate,False,employment
+U1269,User1269,30,female,uttar pradesh,0.47618132722037526,employed,graduate,False,study
+U1270,User1270,47,male,rajasthan,0.30900200885938717,unemployed,primary,False,study
+U1271,User1271,49,male,tamil nadu,0.7786976061476407,unemployed,postgraduate,True,health
+U1272,User1272,21,female,maharashtra,0.9050047835000855,employed,postgraduate,True,employment
+U1273,User1273,23,male,west bengal,0.9954068763561948,employed,secondary,False,employment
+U1274,User1274,47,female,rajasthan,0.19943408892494438,unemployed,primary,False,employment
+U1275,User1275,51,male,maharashtra,0.15149201174986382,unemployed,graduate,False,study
+U1276,User1276,38,male,maharashtra,0.09838434680180615,employed,secondary,False,health
+U1277,User1277,25,male,maharashtra,0.9029403003213394,employed,graduate,True,employment
+U1278,User1278,21,female,maharashtra,0.6132333442669088,unemployed,secondary,False,health
+U1279,User1279,26,female,maharashtra,0.02798756855183906,unemployed,secondary,False,employment
+U1280,User1280,20,male,west bengal,0.1719811302908795,employed,secondary,False,study
+U1281,User1281,54,lgbtq+,maharashtra,0.6724139092515463,unemployed,graduate,True,health
+U1282,User1282,30,male,uttar pradesh,0.03926570421586836,employed,secondary,False,study
+U1283,User1283,36,female,tamil nadu,0.487189728164841,employed,secondary,True,employment
+U1284,User1284,52,lgbtq+,uttar pradesh,0.10997970701424356,unemployed,postgraduate,False,study
+U1285,User1285,59,female,uttar pradesh,0.20701992689486245,employed,graduate,False,study
+U1286,User1286,47,male,west bengal,0.9513347301085453,employed,secondary,False,health
+U1287,User1287,59,female,uttar pradesh,0.060619045874069286,employed,secondary,True,health
+U1288,User1288,56,male,west bengal,0.9698912816620497,unemployed,primary,False,health
+U1289,User1289,53,lgbtq+,uttar pradesh,0.6328516490952562,unemployed,primary,False,study
+U1290,User1290,27,female,west bengal,0.5848983720791174,employed,primary,False,study
+U1291,User1291,38,male,maharashtra,0.19386672510327993,employed,postgraduate,False,study
+U1292,User1292,43,lgbtq+,uttar pradesh,0.6146007468354349,employed,primary,True,study
+U1293,User1293,33,lgbtq+,west bengal,0.8572668687907753,employed,secondary,True,study
+U1294,User1294,25,female,west bengal,0.450471727085777,unemployed,primary,False,employment
+U1295,User1295,59,female,tamil nadu,0.6746763605705612,unemployed,primary,True,employment
+U1296,User1296,56,male,west bengal,0.08459798900492625,unemployed,primary,False,health
+U1297,User1297,53,male,maharashtra,0.22710526718096813,unemployed,primary,False,study
+U1298,User1298,39,male,west bengal,0.5574128984502487,employed,graduate,True,health
+U1299,User1299,34,male,uttar pradesh,0.5316346810398934,employed,postgraduate,False,study
+U1300,User1300,20,lgbtq+,uttar pradesh,0.8577174694724556,employed,secondary,False,health
+U1301,User1301,27,female,uttar pradesh,0.8576200496259326,employed,graduate,True,study
+U1302,User1302,35,lgbtq+,uttar pradesh,0.08964302727824529,employed,primary,False,employment
+U1303,User1303,45,lgbtq+,uttar pradesh,0.6969859016943023,unemployed,secondary,False,study
+U1304,User1304,52,lgbtq+,tamil nadu,0.2391276187267099,employed,postgraduate,True,employment
+U1305,User1305,60,lgbtq+,uttar pradesh,0.9781629586884999,unemployed,primary,True,health
+U1306,User1306,47,female,rajasthan,0.028333241113661308,employed,graduate,False,employment
+U1307,User1307,20,female,rajasthan,0.6412984565972475,employed,primary,False,employment
+U1308,User1308,55,male,maharashtra,0.39989299459118594,employed,secondary,False,employment
+U1309,User1309,51,male,rajasthan,0.9951480703455969,unemployed,graduate,True,employment
+U1310,User1310,18,lgbtq+,maharashtra,0.6366870419653455,employed,primary,False,study
+U1311,User1311,37,lgbtq+,west bengal,0.7622077276859383,unemployed,postgraduate,False,study
+U1312,User1312,57,male,rajasthan,0.05008487581597464,employed,postgraduate,True,employment
+U1313,User1313,54,female,west bengal,0.2834917742381507,employed,graduate,True,study
+U1314,User1314,33,female,maharashtra,0.7027691700869807,unemployed,primary,False,employment
+U1315,User1315,19,female,uttar pradesh,0.6098585631096132,unemployed,secondary,True,health
+U1316,User1316,46,female,uttar pradesh,0.6010279368459942,unemployed,secondary,False,study
+U1317,User1317,20,male,uttar pradesh,0.5997390791590792,unemployed,secondary,False,study
+U1318,User1318,25,male,west bengal,0.9800376702587011,unemployed,primary,True,health
+U1319,User1319,55,lgbtq+,west bengal,0.13448018315348273,unemployed,primary,True,employment
+U1320,User1320,25,lgbtq+,maharashtra,0.6732558995371337,unemployed,primary,False,study
+U1321,User1321,39,female,tamil nadu,0.41769807226542066,unemployed,primary,True,employment
+U1322,User1322,24,male,rajasthan,0.6873702228845538,unemployed,graduate,True,health
+U1323,User1323,20,lgbtq+,tamil nadu,0.6793838602448378,unemployed,primary,True,study
+U1324,User1324,33,male,uttar pradesh,0.9547259460419188,unemployed,primary,False,employment
+U1325,User1325,58,lgbtq+,west bengal,0.8777334833681004,unemployed,postgraduate,False,study
+U1326,User1326,41,lgbtq+,maharashtra,0.33638249179945345,employed,secondary,False,study
+U1327,User1327,23,male,maharashtra,0.669744613799343,unemployed,postgraduate,True,employment
+U1328,User1328,33,lgbtq+,rajasthan,0.5219788746804318,unemployed,secondary,False,health
+U1329,User1329,59,male,uttar pradesh,0.40748944842534723,unemployed,primary,True,health
+U1330,User1330,51,female,west bengal,0.08091392955516881,employed,postgraduate,False,study
+U1331,User1331,56,female,west bengal,0.6084357870252407,employed,secondary,False,study
+U1332,User1332,37,female,tamil nadu,0.29576262877496956,unemployed,primary,True,health
+U1333,User1333,32,female,tamil nadu,0.919081586337145,unemployed,postgraduate,True,employment
+U1334,User1334,52,lgbtq+,uttar pradesh,0.9686456382594413,employed,secondary,False,employment
+U1335,User1335,37,female,uttar pradesh,0.25031561339808833,unemployed,primary,True,employment
+U1336,User1336,51,lgbtq+,uttar pradesh,0.22112409321696538,unemployed,postgraduate,False,study
+U1337,User1337,37,female,west bengal,0.5428338964086449,employed,primary,False,study
+U1338,User1338,35,lgbtq+,west bengal,0.8415464214954024,unemployed,graduate,True,health
+U1339,User1339,26,lgbtq+,maharashtra,0.9948591478163991,employed,secondary,True,employment
+U1340,User1340,52,lgbtq+,uttar pradesh,0.2759641462428945,unemployed,graduate,False,study
+U1341,User1341,53,female,west bengal,0.7378050259505741,unemployed,primary,False,employment
+U1342,User1342,41,female,rajasthan,0.1953113586055835,employed,graduate,True,employment
+U1343,User1343,25,female,rajasthan,0.1075401438697795,employed,primary,True,health
+U1344,User1344,56,lgbtq+,west bengal,0.6031178647288202,unemployed,secondary,True,health
+U1345,User1345,33,lgbtq+,uttar pradesh,0.3388019703127461,employed,primary,True,study
+U1346,User1346,51,lgbtq+,tamil nadu,0.5699314425818666,employed,postgraduate,False,study
+U1347,User1347,59,male,west bengal,0.8975061249261139,unemployed,primary,True,health
+U1348,User1348,43,male,tamil nadu,0.9768509922047647,unemployed,primary,False,health
+U1349,User1349,53,female,rajasthan,0.8307790152686786,unemployed,postgraduate,True,employment
+U1350,User1350,28,lgbtq+,maharashtra,0.41868518078952377,employed,primary,False,employment
+U1351,User1351,37,lgbtq+,uttar pradesh,0.6712556329517178,employed,postgraduate,False,employment
+U1352,User1352,41,female,rajasthan,0.5557882749510508,unemployed,graduate,False,health
+U1353,User1353,58,male,maharashtra,0.48690182759506945,unemployed,secondary,False,health
+U1354,User1354,44,female,west bengal,0.8090881767240649,unemployed,graduate,True,health
+U1355,User1355,53,male,rajasthan,0.805807958098162,unemployed,primary,True,employment
+U1356,User1356,33,female,rajasthan,0.8613676791232606,unemployed,primary,False,study
+U1357,User1357,49,lgbtq+,west bengal,0.20122614691951501,unemployed,postgraduate,False,study
+U1358,User1358,55,male,west bengal,0.8908746927786616,unemployed,postgraduate,True,employment
+U1359,User1359,48,lgbtq+,tamil nadu,0.5259175688778233,employed,graduate,False,employment
+U1360,User1360,35,lgbtq+,maharashtra,0.8762386070033962,unemployed,graduate,True,study
+U1361,User1361,24,lgbtq+,maharashtra,0.606943621981463,unemployed,graduate,True,health
+U1362,User1362,57,male,maharashtra,0.2740653039164468,unemployed,graduate,True,employment
+U1363,User1363,33,male,maharashtra,0.817276783048588,unemployed,secondary,False,health
+U1364,User1364,24,male,tamil nadu,0.20543367901493292,employed,primary,True,employment
+U1365,User1365,58,male,west bengal,0.08136776296564617,unemployed,secondary,False,study
+U1366,User1366,56,female,tamil nadu,0.7728419663425381,employed,secondary,False,health
+U1367,User1367,25,female,tamil nadu,0.9309772983393013,unemployed,primary,True,study
+U1368,User1368,42,lgbtq+,west bengal,0.5150484672600386,employed,primary,True,study
+U1369,User1369,45,lgbtq+,tamil nadu,0.9815229527185884,employed,primary,True,study
+U1370,User1370,39,female,tamil nadu,0.8511629345577436,employed,secondary,False,health
+U1371,User1371,34,female,tamil nadu,0.5243251892413368,unemployed,graduate,False,study
+U1372,User1372,56,male,west bengal,0.4642201055333701,employed,graduate,True,employment
+U1373,User1373,58,lgbtq+,uttar pradesh,0.470635361977716,unemployed,primary,True,health
+U1374,User1374,22,female,rajasthan,0.10827922909804637,employed,primary,False,study
+U1375,User1375,28,female,west bengal,0.9853628088400491,unemployed,postgraduate,False,study
+U1376,User1376,58,female,tamil nadu,0.09708994133514912,unemployed,graduate,True,employment
+U1377,User1377,38,lgbtq+,uttar pradesh,0.9708136313286375,employed,primary,True,health
+U1378,User1378,31,lgbtq+,west bengal,0.3440622666113196,employed,graduate,True,study
+U1379,User1379,25,male,tamil nadu,0.9707841404994825,employed,secondary,True,employment
+U1380,User1380,54,female,uttar pradesh,0.2613917765094034,unemployed,secondary,True,health
+U1381,User1381,48,female,tamil nadu,0.28583754653487037,employed,postgraduate,True,health
+U1382,User1382,43,male,tamil nadu,0.09654619635148387,unemployed,secondary,False,employment
+U1383,User1383,26,lgbtq+,uttar pradesh,0.505475377045152,employed,postgraduate,False,health
+U1384,User1384,18,lgbtq+,tamil nadu,0.38053645737014097,employed,graduate,False,employment
+U1385,User1385,23,male,maharashtra,0.6410496199051333,unemployed,postgraduate,True,health
+U1386,User1386,29,female,maharashtra,0.5695524624852774,employed,primary,True,employment
+U1387,User1387,28,lgbtq+,west bengal,0.3587097399344766,unemployed,postgraduate,True,study
+U1388,User1388,50,female,uttar pradesh,0.6334536457662129,employed,graduate,True,health
+U1389,User1389,28,male,maharashtra,0.33696634347651705,unemployed,secondary,True,health
+U1390,User1390,53,female,tamil nadu,0.6396982349863889,employed,postgraduate,True,health
+U1391,User1391,49,female,west bengal,0.2334152618044187,unemployed,postgraduate,False,health
+U1392,User1392,38,lgbtq+,tamil nadu,0.6192756063770185,employed,primary,True,health
+U1393,User1393,59,lgbtq+,rajasthan,0.45250206847716307,unemployed,graduate,True,health
+U1394,User1394,57,female,rajasthan,0.3101708801671442,unemployed,secondary,True,study
+U1395,User1395,33,female,rajasthan,0.9847789571629856,unemployed,primary,True,health
+U1396,User1396,57,lgbtq+,tamil nadu,0.14715106180854406,employed,primary,True,study
+U1397,User1397,18,lgbtq+,tamil nadu,0.22230681311776276,unemployed,postgraduate,False,employment
+U1398,User1398,32,male,rajasthan,0.7468309090335352,employed,graduate,False,employment
+U1399,User1399,30,male,tamil nadu,0.5941503376147246,employed,secondary,True,study
+U1400,User1400,40,lgbtq+,tamil nadu,0.11808330299956145,employed,postgraduate,True,employment
+U1401,User1401,25,lgbtq+,west bengal,0.8922519812404123,employed,secondary,True,employment
+U1402,User1402,21,male,uttar pradesh,0.8412730577770602,unemployed,postgraduate,False,study
+U1403,User1403,43,female,rajasthan,0.8304544910100836,unemployed,graduate,False,health
+U1404,User1404,43,male,uttar pradesh,0.31033962861035064,employed,postgraduate,False,health
+U1405,User1405,34,male,uttar pradesh,0.276450473791861,employed,postgraduate,True,study
+U1406,User1406,25,male,maharashtra,0.3901503008241853,unemployed,secondary,True,health
+U1407,User1407,19,male,rajasthan,0.29067500190678863,unemployed,graduate,True,study
+U1408,User1408,35,male,tamil nadu,0.3464186964849122,employed,postgraduate,False,health
+U1409,User1409,48,female,west bengal,0.3359273027285128,employed,postgraduate,True,employment
+U1410,User1410,18,female,rajasthan,0.6862421048159546,unemployed,secondary,True,health
+U1411,User1411,36,female,uttar pradesh,0.22972755249956783,employed,primary,False,employment
+U1412,User1412,41,female,rajasthan,0.6572082166622392,employed,secondary,False,study
+U1413,User1413,30,lgbtq+,rajasthan,0.923356213197338,employed,secondary,False,health
+U1414,User1414,35,female,rajasthan,0.186084191228297,employed,graduate,True,health
+U1415,User1415,57,male,west bengal,0.016934243105251663,unemployed,secondary,False,employment
+U1416,User1416,33,male,maharashtra,0.934857678280457,unemployed,secondary,False,employment
+U1417,User1417,24,female,tamil nadu,0.21410408706810666,employed,postgraduate,False,study
+U1418,User1418,21,female,rajasthan,0.5418943819949604,unemployed,primary,False,health
+U1419,User1419,50,female,tamil nadu,0.0857736386149997,employed,graduate,False,health
+U1420,User1420,37,male,rajasthan,0.7891598636322369,unemployed,graduate,True,study
+U1421,User1421,38,male,rajasthan,0.2782755890454209,unemployed,secondary,True,employment
+U1422,User1422,38,male,west bengal,0.6675878831401493,unemployed,postgraduate,True,health
+U1423,User1423,37,female,uttar pradesh,0.5357163244190595,employed,secondary,True,study
+U1424,User1424,52,lgbtq+,west bengal,0.11041981696956953,employed,secondary,True,study
+U1425,User1425,26,male,maharashtra,0.8762704754524407,employed,graduate,False,study
+U1426,User1426,44,male,uttar pradesh,0.8690556087542213,unemployed,secondary,False,health
+U1427,User1427,42,male,tamil nadu,0.9499591101519802,employed,graduate,False,study
+U1428,User1428,41,male,rajasthan,0.7788723403532004,employed,graduate,False,health
+U1429,User1429,34,lgbtq+,uttar pradesh,0.009188833470647832,unemployed,postgraduate,True,employment
+U1430,User1430,25,male,rajasthan,0.9030384501388812,employed,postgraduate,True,employment
+U1431,User1431,44,lgbtq+,tamil nadu,0.40864549309949016,employed,primary,False,health
+U1432,User1432,24,male,tamil nadu,0.19266777898955287,employed,secondary,False,study
+U1433,User1433,55,male,maharashtra,0.7539528608492329,unemployed,secondary,False,health
+U1434,User1434,55,lgbtq+,west bengal,0.354106605259558,employed,secondary,True,health
+U1435,User1435,40,lgbtq+,tamil nadu,0.25639299754235445,unemployed,secondary,True,health
+U1436,User1436,49,female,tamil nadu,0.43239618472096,unemployed,postgraduate,False,study
+U1437,User1437,38,lgbtq+,rajasthan,0.7210040129843908,unemployed,secondary,False,health
+U1438,User1438,47,female,uttar pradesh,0.637464127399214,unemployed,primary,False,study
+U1439,User1439,33,lgbtq+,west bengal,0.8054585105433573,unemployed,graduate,True,study
+U1440,User1440,21,male,maharashtra,0.459734475336146,unemployed,postgraduate,True,health
+U1441,User1441,55,lgbtq+,maharashtra,0.6060012293963333,unemployed,graduate,False,employment
+U1442,User1442,58,female,uttar pradesh,0.4465925150982513,employed,graduate,True,study
+U1443,User1443,23,female,maharashtra,0.11699990086993567,employed,postgraduate,True,health
+U1444,User1444,34,male,maharashtra,0.8176210582373173,employed,primary,True,health
+U1445,User1445,38,lgbtq+,uttar pradesh,0.22704088373711961,employed,primary,False,study
+U1446,User1446,51,lgbtq+,uttar pradesh,0.3249923577248422,unemployed,primary,False,health
+U1447,User1447,53,lgbtq+,uttar pradesh,0.5230248188686413,employed,postgraduate,False,employment
+U1448,User1448,50,female,maharashtra,0.09057995550889211,unemployed,postgraduate,False,study
+U1449,User1449,45,female,uttar pradesh,0.33175462153515867,unemployed,postgraduate,False,employment
+U1450,User1450,42,female,tamil nadu,0.011887890884098973,unemployed,postgraduate,False,health
+U1451,User1451,56,female,maharashtra,0.949543193521845,unemployed,postgraduate,False,study
+U1452,User1452,25,lgbtq+,west bengal,0.9960051188904842,employed,graduate,True,study
+U1453,User1453,25,female,tamil nadu,0.3034761073915844,unemployed,primary,False,study
+U1454,User1454,55,male,maharashtra,0.6958783270958006,unemployed,postgraduate,False,study
+U1455,User1455,54,female,west bengal,0.9177062375126726,employed,primary,False,employment
+U1456,User1456,38,female,west bengal,0.6827710509094511,unemployed,postgraduate,True,employment
+U1457,User1457,36,lgbtq+,tamil nadu,0.4864013177520255,employed,graduate,True,employment
+U1458,User1458,19,male,west bengal,0.2928739248908626,unemployed,secondary,False,employment
+U1459,User1459,24,male,tamil nadu,0.08513161867590391,employed,postgraduate,True,employment
+U1460,User1460,31,female,west bengal,0.6466007783701829,employed,postgraduate,False,study
+U1461,User1461,24,male,maharashtra,0.7927793310749977,unemployed,secondary,True,employment
+U1462,User1462,45,lgbtq+,rajasthan,0.885338947130264,unemployed,primary,True,employment
+U1463,User1463,40,male,uttar pradesh,0.024710269810010857,unemployed,secondary,True,employment
+U1464,User1464,25,male,tamil nadu,0.38394335725225903,employed,graduate,False,employment
+U1465,User1465,27,female,uttar pradesh,0.06351738537562296,unemployed,postgraduate,False,study
+U1466,User1466,40,female,tamil nadu,0.455649244670831,employed,postgraduate,False,health
+U1467,User1467,18,lgbtq+,maharashtra,0.4299570595591071,unemployed,secondary,False,study
+U1468,User1468,54,female,uttar pradesh,0.43709769863288317,employed,postgraduate,False,employment
+U1469,User1469,33,male,rajasthan,0.23307075719622639,unemployed,postgraduate,False,study
+U1470,User1470,49,male,west bengal,0.965047861384093,employed,secondary,True,study
+U1471,User1471,36,male,tamil nadu,0.359985708418833,employed,primary,True,employment
+U1472,User1472,28,lgbtq+,maharashtra,0.007684863752682145,unemployed,postgraduate,True,employment
+U1473,User1473,57,female,rajasthan,0.07317834324484507,unemployed,graduate,False,study
+U1474,User1474,23,lgbtq+,tamil nadu,0.2608910581032112,unemployed,secondary,True,health
+U1475,User1475,59,female,rajasthan,0.02358469621181957,employed,postgraduate,False,health
+U1476,User1476,54,male,uttar pradesh,0.9314548036670991,employed,graduate,False,study
+U1477,User1477,27,male,tamil nadu,0.1839024955602641,unemployed,postgraduate,False,health
+U1478,User1478,26,lgbtq+,maharashtra,0.21134335753173358,employed,graduate,True,study
+U1479,User1479,36,lgbtq+,tamil nadu,0.986308997274476,unemployed,secondary,False,employment
+U1480,User1480,31,lgbtq+,tamil nadu,0.2614117360026858,employed,graduate,False,study
+U1481,User1481,24,male,west bengal,0.9181025700631918,employed,primary,True,study
+U1482,User1482,32,male,rajasthan,0.2132974065235091,unemployed,postgraduate,False,health
+U1483,User1483,18,female,uttar pradesh,0.8493282879683111,employed,postgraduate,True,health
+U1484,User1484,42,male,maharashtra,0.5362168134057884,unemployed,graduate,False,study
+U1485,User1485,48,female,maharashtra,0.699566536952207,employed,primary,False,health
+U1486,User1486,38,male,uttar pradesh,0.8373443537544673,unemployed,graduate,True,study
+U1487,User1487,60,lgbtq+,west bengal,0.9324270833513654,unemployed,secondary,True,health
+U1488,User1488,41,lgbtq+,tamil nadu,0.22165455272809048,employed,primary,False,health
+U1489,User1489,47,lgbtq+,tamil nadu,0.370369546159707,unemployed,postgraduate,True,study
+U1490,User1490,58,female,tamil nadu,0.13664137706404783,employed,primary,True,study
+U1491,User1491,43,lgbtq+,uttar pradesh,0.004530366992512521,employed,secondary,True,employment
+U1492,User1492,25,male,uttar pradesh,0.15356352350670402,unemployed,postgraduate,True,employment
+U1493,User1493,60,female,maharashtra,0.17196190076861573,employed,secondary,True,employment
+U1494,User1494,29,female,west bengal,0.379807800299284,employed,postgraduate,False,study
+U1495,User1495,45,female,uttar pradesh,0.6956788364445498,unemployed,primary,True,study
+U1496,User1496,34,female,uttar pradesh,0.40489375490814267,employed,primary,True,employment
+U1497,User1497,28,lgbtq+,maharashtra,0.8261868093027257,unemployed,primary,True,health
+U1498,User1498,24,lgbtq+,uttar pradesh,0.2625148264935015,employed,graduate,False,health
+U1499,User1499,56,female,west bengal,0.891884555542233,unemployed,graduate,False,health
+U1500,User1500,21,female,maharashtra,0.6952668199452859,unemployed,secondary,True,health

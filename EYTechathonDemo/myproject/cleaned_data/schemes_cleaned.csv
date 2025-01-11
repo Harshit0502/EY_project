@@ -1,0 +1,13 @@
+scheme_id,scheme_name,gender,sector,Disability,Age Group,Income
+S1,Beti Bachao Beti Padhao,female,study,False,0-25,1000000.0
+S2,Janani Suraksha Yojana,female,health,False,0-150,500000.0
+S3,Mahila E-Haat,female,employment,False,25-55,350000.0
+S4,PM Daksh Yojana,lgbtq+,study,False,0-25,450000.0
+S5,Ayushman Bharat,lgbtq+,health,False,0-150,500000.0
+S6,Deen Dayal Upadhyaya Grameen Kaushalya Yojana,lgbtq+,employment,False,25-55,
+S7,National Disability Pension Scheme,all,study,True,0-25,
+S8,Accessible India Campaign,all,health,True,0-150,
+S9,Skill Training for Persons with Disabilities,all,employment,True,25-55,
+S10,Kisan Credit Card Scheme,male,study,False,0-25,500000.0
+S11,National Health Mission,male,health,False,0-150,1500000.0
+S12,Prime Minister Employment Generation Programme,male,employment,False,25-55,

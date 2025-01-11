@@ -1,0 +1,1501 @@
+user_id,name,age,gender,location,income,employment_status,education_level,disability_status,user_preferences
+U1,User1,47,Female,West Bengal,480800.63,Employed,Primary,TRUE,Health
+U2,User2,20,LGBTQ+,Maharashtra,91767.59,Unemployed,Secondary,FALSE,Study
+U3,User3,55,LGBTQ+,Tamil Nadu,374598.68,Unemployed,Secondary,FALSE,Study
+U4,User4,47,Male,West Bengal,433570.99,Unemployed,Primary,FALSE,Study
+U5,User5,26,Male,West Bengal,89029.61,Employed,Graduate,TRUE,Study
+U6,User6,50,LGBTQ+,Rajasthan,289797.14,Unemployed,Postgraduate,TRUE,Employment
+U7,User7,29,Female,Uttar Pradesh,343044.72,Unemployed,Graduate,FALSE,Employment
+U8,User8,58,Female,Tamil Nadu,215368.65,Unemployed,Graduate,TRUE,Health
+U9,User9,47,Female,West Bengal,324796.54,Unemployed,Graduate,TRUE,Health
+U10,User10,26,LGBTQ+,Maharashtra,289628.12,Unemployed,Postgraduate,TRUE,Study
+U11,User11,41,LGBTQ+,Maharashtra,212340.37,Unemployed,Graduate,TRUE,Employment
+U12,User12,46,LGBTQ+,West Bengal,464535.47,Employed,Graduate,TRUE,Employment
+U13,User13,36,Male,Maharashtra,416477.28,Unemployed,Primary,FALSE,Employment
+U14,User14,26,Male,Maharashtra,93568.6,Unemployed,Primary,TRUE,Employment
+U15,User15,34,Male,Maharashtra,320749.02,Employed,Secondary,FALSE,Study
+U16,User16,19,LGBTQ+,Tamil Nadu,86600.25,Unemployed,Primary,FALSE,Employment
+U17,User17,46,LGBTQ+,Tamil Nadu,81252.18,Unemployed,Primary,TRUE,Health
+U18,User18,31,Male,Tamil Nadu,333423.99,Unemployed,Postgraduate,FALSE,Employment
+U19,User19,57,LGBTQ+,West Bengal,409281.17,Unemployed,Secondary,TRUE,Study
+U20,User20,28,Female,West Bengal,203539.58,Unemployed,Graduate,TRUE,Employment
+U21,User21,59,Female,Maharashtra,116100.95,Unemployed,Graduate,TRUE,Employment
+U22,User22,39,LGBTQ+,Rajasthan,252236.86,Employed,Graduate,TRUE,Study
+U23,User23,28,Female,West Bengal,312136.42,Unemployed,Graduate,FALSE,Study
+U24,User24,45,Male,Uttar Pradesh,193966.62,Employed,Secondary,FALSE,Employment
+U25,User25,39,Male,Uttar Pradesh,215667.7,Employed,Postgraduate,TRUE,Employment
+U26,User26,54,LGBTQ+,West Bengal,422341.07,Unemployed,Postgraduate,FALSE,Employment
+U27,User27,33,LGBTQ+,Rajasthan,228590.15,Employed,Postgraduate,FALSE,Employment
+U28,User28,56,Female,Uttar Pradesh,192147.22,Unemployed,Graduate,FALSE,Study
+U29,User29,41,Female,Uttar Pradesh,215689.91,Unemployed,Secondary,TRUE,Study
+U30,User30,54,Male,Rajasthan,271095.64,Unemployed,Graduate,FALSE,Employment
+U31,User31,46,Female,Maharashtra,239011.34,Employed,Postgraduate,TRUE,Employment
+U32,User32,21,Male,Tamil Nadu,186408.66,Employed,Secondary,FALSE,Study
+U33,User33,35,LGBTQ+,Tamil Nadu,317642.07,Employed,Postgraduate,TRUE,Employment
+U34,User34,19,Female,Maharashtra,336987.57,Employed,Postgraduate,FALSE,Health
+U35,User35,23,Female,Uttar Pradesh,403321.75,Unemployed,Secondary,FALSE,Health
+U36,User36,56,Female,West Bengal,173295.16,Unemployed,Graduate,FALSE,Employment
+U37,User37,36,LGBTQ+,Uttar Pradesh,49161.49,Unemployed,Postgraduate,TRUE,Study
+U38,User38,60,Male,Rajasthan,436557.39,Employed,Postgraduate,FALSE,Employment
+U39,User39,47,Female,Maharashtra,268510.82,Employed,Postgraduate,TRUE,Health
+U40,User40,26,Female,West Bengal,79492.01,Employed,Graduate,TRUE,Health
+U41,User41,43,LGBTQ+,West Bengal,367135.63,Employed,Secondary,FALSE,Health
+U42,User42,26,Female,Tamil Nadu,220348.08,Unemployed,Postgraduate,TRUE,Study
+U43,User43,36,Male,West Bengal,494980.5,Unemployed,Primary,TRUE,Study
+U44,User44,42,Male,West Bengal,403739.95,Employed,Postgraduate,TRUE,Study
+U45,User45,29,Male,Maharashtra,81465.93,Unemployed,Primary,TRUE,Study
+U46,User46,27,Female,Maharashtra,364489.77,Employed,Postgraduate,TRUE,Employment
+U47,User47,30,Male,Tamil Nadu,410840.6,Unemployed,Graduate,TRUE,Study
+U48,User48,51,Male,Uttar Pradesh,181238.23,Unemployed,Primary,TRUE,Study
+U49,User49,46,LGBTQ+,Tamil Nadu,184339.19,Unemployed,Primary,TRUE,Study
+U50,User50,45,Male,Rajasthan,395997.14,Unemployed,Postgraduate,FALSE,Employment
+U51,User51,38,Female,Uttar Pradesh,193365.25,Unemployed,Primary,FALSE,Health
+U52,User52,43,Male,Maharashtra,119724.03,Employed,Primary,FALSE,Study
+U53,User53,29,Female,Maharashtra,477414.57,Unemployed,Secondary,FALSE,Employment
+U54,User54,52,LGBTQ+,Uttar Pradesh,458383.35,Employed,Graduate,TRUE,Study
+U55,User55,50,LGBTQ+,Uttar Pradesh,300878.7,Employed,Postgraduate,FALSE,Employment
+U56,User56,40,Male,West Bengal,217479.84,Employed,Postgraduate,TRUE,Employment
+U57,User57,36,Male,Uttar Pradesh,197473.92,Unemployed,Secondary,TRUE,Health
+U58,User58,24,Male,Uttar Pradesh,333896.6,Unemployed,Postgraduate,FALSE,Study
+U59,User59,54,Female,Maharashtra,329912.47,Employed,Secondary,FALSE,Health
+U60,User60,32,LGBTQ+,Rajasthan,51492.16,Employed,Primary,FALSE,Study
+U61,User61,28,LGBTQ+,Uttar Pradesh,424242.63,Unemployed,Secondary,FALSE,Study
+U62,User62,52,Female,Rajasthan,485511.99,Employed,Postgraduate,TRUE,Health
+U63,User63,32,Male,Tamil Nadu,66139.81,Employed,Graduate,FALSE,Employment
+U64,User64,38,Male,Tamil Nadu,368255.01,Unemployed,Postgraduate,TRUE,Health
+U65,User65,58,Male,Uttar Pradesh,190434.91,Unemployed,Graduate,FALSE,Study
+U66,User66,60,LGBTQ+,Rajasthan,65974.82,Employed,Secondary,FALSE,Employment
+U67,User67,55,Male,West Bengal,37878.82,Employed,Secondary,FALSE,Health
+U68,User68,36,Male,Uttar Pradesh,268542.71,Employed,Postgraduate,TRUE,Employment
+U69,User69,18,LGBTQ+,Tamil Nadu,292759.19,Employed,Graduate,FALSE,Study
+U70,User70,43,Male,Tamil Nadu,279672.06,Unemployed,Graduate,FALSE,Study
+U71,User71,39,Male,Rajasthan,499246.89,Employed,Graduate,TRUE,Study
+U72,User72,33,Female,West Bengal,427348.73,Employed,Graduate,TRUE,Study
+U73,User73,42,Male,West Bengal,165505.26,Employed,Secondary,FALSE,Study
+U74,User74,59,Male,Maharashtra,182542.02,Employed,Graduate,TRUE,Health
+U75,User75,19,Male,Rajasthan,259481.96,Unemployed,Secondary,FALSE,Health
+U76,User76,41,LGBTQ+,Rajasthan,23026.24,Employed,Secondary,FALSE,Employment
+U77,User77,34,Male,Rajasthan,141276.13,Unemployed,Postgraduate,FALSE,Health
+U78,User78,42,Female,Maharashtra,480142,Employed,Secondary,FALSE,Study
+U79,User79,53,Male,West Bengal,433975.01,Unemployed,Secondary,FALSE,Study
+U80,User80,58,Male,Rajasthan,295723.26,Unemployed,Secondary,TRUE,Study
+U81,User81,18,LGBTQ+,Maharashtra,213109.12,Unemployed,Graduate,FALSE,Employment
+U82,User82,55,Female,Tamil Nadu,36524.21,Employed,Primary,FALSE,Employment
+U83,User83,38,LGBTQ+,Rajasthan,442533.7,Employed,Secondary,TRUE,Employment
+U84,User84,37,LGBTQ+,Tamil Nadu,249562.8,Employed,Postgraduate,TRUE,Employment
+U85,User85,60,Female,Rajasthan,55289.22,Unemployed,Graduate,FALSE,Employment
+U86,User86,58,Female,West Bengal,320227.46,Employed,Secondary,FALSE,Study
+U87,User87,51,LGBTQ+,Maharashtra,55905.9,Unemployed,Postgraduate,TRUE,Health
+U88,User88,31,LGBTQ+,West Bengal,369476.04,Employed,Secondary,FALSE,Study
+U89,User89,40,Male,Tamil Nadu,333405.16,Employed,Primary,TRUE,Study
+U90,User90,22,Female,Uttar Pradesh,310228.71,Employed,Graduate,TRUE,Employment
+U91,User91,18,Female,Maharashtra,487492.11,Employed,Secondary,TRUE,Health
+U92,User92,41,Male,Uttar Pradesh,354144.44,Employed,Secondary,TRUE,Health
+U93,User93,27,Male,Maharashtra,147379.96,Employed,Secondary,FALSE,Employment
+U94,User94,23,LGBTQ+,Maharashtra,143469.63,Unemployed,Primary,FALSE,Employment
+U95,User95,27,LGBTQ+,Maharashtra,247521.57,Employed,Secondary,TRUE,Study
+U96,User96,30,LGBTQ+,Maharashtra,414241.91,Unemployed,Postgraduate,TRUE,Study
+U97,User97,52,Female,Maharashtra,352257.58,Unemployed,Postgraduate,FALSE,Employment
+U98,User98,18,Male,Uttar Pradesh,25976.57,Unemployed,Graduate,FALSE,Health
+U99,User99,38,LGBTQ+,Rajasthan,270033.71,Unemployed,Secondary,FALSE,Study
+U100,User100,26,LGBTQ+,West Bengal,92152.55,Unemployed,Postgraduate,TRUE,Employment
+U101,User101,25,Female,Tamil Nadu,357878.72,Employed,Secondary,TRUE,Study
+U102,User102,28,Male,Maharashtra,485233.91,Unemployed,Graduate,TRUE,Study
+U103,User103,49,LGBTQ+,Rajasthan,353191.67,Employed,Postgraduate,FALSE,Health
+U104,User104,27,LGBTQ+,West Bengal,54103.04,Employed,Secondary,FALSE,Employment
+U105,User105,50,LGBTQ+,Rajasthan,472748.41,Unemployed,Primary,FALSE,Health
+U106,User106,53,LGBTQ+,Maharashtra,246078.01,Employed,Graduate,TRUE,Employment
+U107,User107,47,Male,Rajasthan,451185.37,Unemployed,Secondary,FALSE,Health
+U108,User108,39,LGBTQ+,Maharashtra,423876.63,Employed,Secondary,FALSE,Health
+U109,User109,21,Male,Tamil Nadu,139533.51,Employed,Postgraduate,FALSE,Health
+U110,User110,37,Male,Tamil Nadu,60733.96,Unemployed,Primary,TRUE,Study
+U111,User111,54,Female,Uttar Pradesh,497193.94,Employed,Postgraduate,TRUE,Employment
+U112,User112,37,Male,Maharashtra,38796.57,Employed,Primary,TRUE,Study
+U113,User113,28,Male,Maharashtra,69378.61,Employed,Secondary,FALSE,Health
+U114,User114,50,LGBTQ+,Uttar Pradesh,227861.76,Employed,Primary,FALSE,Health
+U115,User115,56,LGBTQ+,Tamil Nadu,347493.18,Unemployed,Postgraduate,TRUE,Study
+U116,User116,37,Male,Tamil Nadu,103343.68,Employed,Secondary,TRUE,Employment
+U117,User117,32,Male,West Bengal,468426.44,Employed,Primary,TRUE,Health
+U118,User118,36,LGBTQ+,Uttar Pradesh,346953.01,Unemployed,Postgraduate,TRUE,Employment
+U119,User119,48,Female,Maharashtra,55853.96,Employed,Graduate,TRUE,Employment
+U120,User120,45,LGBTQ+,Tamil Nadu,285798.36,Employed,Primary,TRUE,Health
+U121,User121,34,Female,Rajasthan,494868.01,Unemployed,Graduate,FALSE,Employment
+U122,User122,38,LGBTQ+,West Bengal,322586.84,Unemployed,Primary,FALSE,Health
+U123,User123,33,Male,Uttar Pradesh,259246.14,Unemployed,Primary,FALSE,Study
+U124,User124,26,Female,Uttar Pradesh,376341.71,Unemployed,Primary,FALSE,Employment
+U125,User125,31,Female,West Bengal,438756.88,Employed,Postgraduate,TRUE,Health
+U126,User126,60,Female,West Bengal,241353.56,Unemployed,Secondary,TRUE,Health
+U127,User127,32,Female,Tamil Nadu,237902.28,Unemployed,Graduate,FALSE,Employment
+U128,User128,20,Female,West Bengal,150171.42,Employed,Primary,TRUE,Study
+U129,User129,34,Female,West Bengal,405349.13,Unemployed,Primary,TRUE,Employment
+U130,User130,53,Male,Rajasthan,149749.48,Employed,Secondary,TRUE,Health
+U131,User131,28,Female,Rajasthan,184988.16,Employed,Graduate,FALSE,Health
+U132,User132,53,Female,West Bengal,479364.71,Employed,Graduate,TRUE,Health
+U133,User133,20,Male,Rajasthan,317619.59,Unemployed,Secondary,TRUE,Health
+U134,User134,33,Female,West Bengal,96922.39,Unemployed,Postgraduate,FALSE,Study
+U135,User135,34,Male,West Bengal,312318.6,Unemployed,Primary,FALSE,Health
+U136,User136,57,Female,Tamil Nadu,141484.22,Unemployed,Secondary,FALSE,Employment
+U137,User137,29,Female,Tamil Nadu,205291.88,Employed,Graduate,TRUE,Study
+U138,User138,43,Male,Tamil Nadu,96768.26,Employed,Postgraduate,FALSE,Health
+U139,User139,30,Female,Uttar Pradesh,339667.45,Unemployed,Secondary,TRUE,Study
+U140,User140,31,Male,Tamil Nadu,198166.77,Unemployed,Secondary,FALSE,Health
+U141,User141,44,Male,Tamil Nadu,117185.93,Unemployed,Graduate,TRUE,Study
+U142,User142,51,Female,Tamil Nadu,237996.01,Unemployed,Graduate,TRUE,Employment
+U143,User143,56,Female,Tamil Nadu,110989.65,Employed,Primary,TRUE,Employment
+U144,User144,29,Female,Rajasthan,361098.14,Employed,Postgraduate,FALSE,Study
+U145,User145,59,LGBTQ+,Uttar Pradesh,482985.1,Unemployed,Secondary,FALSE,Employment
+U146,User146,54,Male,West Bengal,165450.49,Employed,Graduate,FALSE,Study
+U147,User147,27,LGBTQ+,Maharashtra,446187.97,Unemployed,Postgraduate,FALSE,Health
+U148,User148,28,LGBTQ+,West Bengal,372012.64,Employed,Postgraduate,TRUE,Study
+U149,User149,32,LGBTQ+,Rajasthan,205702.63,Employed,Primary,TRUE,Study
+U150,User150,44,Male,Maharashtra,210745.47,Unemployed,Secondary,TRUE,Employment
+U151,User151,39,Male,Uttar Pradesh,214318.18,Unemployed,Postgraduate,TRUE,Employment
+U152,User152,30,Female,Rajasthan,476429.84,Employed,Postgraduate,TRUE,Study
+U153,User153,35,LGBTQ+,Maharashtra,235203.77,Employed,Postgraduate,TRUE,Study
+U154,User154,52,LGBTQ+,Rajasthan,53026.51,Unemployed,Graduate,FALSE,Study
+U155,User155,44,LGBTQ+,West Bengal,457109.31,Unemployed,Secondary,FALSE,Health
+U156,User156,49,Male,Uttar Pradesh,480427.33,Employed,Primary,FALSE,Employment
+U157,User157,42,Female,Maharashtra,309693.25,Employed,Primary,TRUE,Employment
+U158,User158,39,Male,West Bengal,97846.3,Unemployed,Graduate,FALSE,Study
+U159,User159,27,Male,Uttar Pradesh,139654.55,Employed,Postgraduate,TRUE,Employment
+U160,User160,38,LGBTQ+,Tamil Nadu,317547.51,Employed,Primary,FALSE,Employment
+U161,User161,60,Male,Tamil Nadu,236925.08,Employed,Graduate,FALSE,Study
+U162,User162,58,Female,Maharashtra,262766.57,Employed,Secondary,TRUE,Health
+U163,User163,58,Male,Rajasthan,298871.03,Employed,Postgraduate,FALSE,Health
+U164,User164,31,LGBTQ+,Maharashtra,405530.44,Employed,Postgraduate,FALSE,Employment
+U165,User165,39,LGBTQ+,Maharashtra,137822.96,Unemployed,Graduate,TRUE,Employment
+U166,User166,27,LGBTQ+,Rajasthan,234394.65,Unemployed,Secondary,FALSE,Employment
+U167,User167,50,LGBTQ+,Uttar Pradesh,432617.11,Employed,Primary,TRUE,Health
+U168,User168,48,Male,West Bengal,477654.6,Employed,Graduate,FALSE,Employment
+U169,User169,35,LGBTQ+,Rajasthan,209950.46,Unemployed,Graduate,TRUE,Study
+U170,User170,41,LGBTQ+,West Bengal,344233.59,Unemployed,Graduate,FALSE,Health
+U171,User171,33,Female,Tamil Nadu,170406.17,Unemployed,Postgraduate,TRUE,Health
+U172,User172,45,LGBTQ+,Rajasthan,96863.67,Unemployed,Graduate,TRUE,Employment
+U173,User173,41,Male,Uttar Pradesh,136798.26,Unemployed,Primary,FALSE,Employment
+U174,User174,26,Male,West Bengal,294646.16,Unemployed,Primary,TRUE,Health
+U175,User175,46,Female,Uttar Pradesh,275148.15,Unemployed,Graduate,FALSE,Health
+U176,User176,55,Male,Rajasthan,461577.01,Unemployed,Graduate,FALSE,Health
+U177,User177,40,Female,Maharashtra,307640.85,Unemployed,Postgraduate,FALSE,Employment
+U178,User178,31,Male,Uttar Pradesh,267486.7,Employed,Primary,TRUE,Health
+U179,User179,37,Female,West Bengal,130060.51,Unemployed,Graduate,FALSE,Study
+U180,User180,37,Female,West Bengal,118067.65,Employed,Secondary,FALSE,Study
+U181,User181,28,LGBTQ+,Maharashtra,118936.69,Employed,Postgraduate,TRUE,Study
+U182,User182,48,Male,West Bengal,432525.98,Unemployed,Secondary,TRUE,Health
+U183,User183,35,LGBTQ+,Rajasthan,208538.56,Unemployed,Primary,FALSE,Health
+U184,User184,35,Male,Maharashtra,103973.53,Unemployed,Graduate,FALSE,Health
+U185,User185,46,LGBTQ+,West Bengal,199972.89,Unemployed,Postgraduate,FALSE,Employment
+U186,User186,46,Female,West Bengal,471444.79,Employed,Postgraduate,FALSE,Health
+U187,User187,45,Female,West Bengal,260826.41,Unemployed,Graduate,FALSE,Health
+U188,User188,36,LGBTQ+,Uttar Pradesh,143460.78,Unemployed,Secondary,FALSE,Employment
+U189,User189,53,Female,West Bengal,64070.49,Unemployed,Secondary,FALSE,Study
+U190,User190,45,LGBTQ+,Tamil Nadu,358394.06,Unemployed,Postgraduate,TRUE,Health
+U191,User191,25,Male,Uttar Pradesh,336918.12,Unemployed,Primary,TRUE,Health
+U192,User192,19,Female,Rajasthan,146216.29,Unemployed,Secondary,FALSE,Health
+U193,User193,45,LGBTQ+,Tamil Nadu,333085.11,Employed,Postgraduate,TRUE,Study
+U194,User194,34,LGBTQ+,Tamil Nadu,408811.9,Unemployed,Secondary,TRUE,Study
+U195,User195,43,LGBTQ+,Rajasthan,184942.35,Unemployed,Primary,FALSE,Employment
+U196,User196,19,Male,West Bengal,195769.91,Employed,Postgraduate,TRUE,Study
+U197,User197,42,LGBTQ+,Tamil Nadu,106786.36,Employed,Postgraduate,TRUE,Employment
+U198,User198,21,Male,Maharashtra,406910.45,Unemployed,Primary,TRUE,Employment
+U199,User199,59,Female,Tamil Nadu,489895.82,Unemployed,Secondary,FALSE,Health
+U200,User200,45,LGBTQ+,Uttar Pradesh,389152.02,Employed,Secondary,FALSE,Study
+U201,User201,19,Female,Uttar Pradesh,31499.56,Employed,Secondary,FALSE,Health
+U202,User202,30,Male,West Bengal,113446.8,Employed,Graduate,TRUE,Study
+U203,User203,48,LGBTQ+,Maharashtra,490922.16,Employed,Graduate,FALSE,Employment
+U204,User204,40,Male,Maharashtra,336549,Employed,Postgraduate,FALSE,Study
+U205,User205,58,Female,West Bengal,184183.08,Unemployed,Postgraduate,TRUE,Health
+U206,User206,36,Female,Uttar Pradesh,68155.53,Employed,Postgraduate,TRUE,Study
+U207,User207,25,LGBTQ+,Maharashtra,182952.56,Unemployed,Graduate,TRUE,Study
+U208,User208,32,LGBTQ+,Rajasthan,182853.92,Unemployed,Graduate,FALSE,Study
+U209,User209,47,Female,West Bengal,292632.95,Unemployed,Secondary,TRUE,Employment
+U210,User210,53,Female,Tamil Nadu,86174.03,Employed,Graduate,TRUE,Health
+U211,User211,47,LGBTQ+,Uttar Pradesh,162571.33,Employed,Graduate,FALSE,Study
+U212,User212,58,LGBTQ+,West Bengal,338349.51,Unemployed,Postgraduate,FALSE,Study
+U213,User213,46,Female,West Bengal,147766.16,Unemployed,Postgraduate,TRUE,Health
+U214,User214,54,LGBTQ+,Uttar Pradesh,414202.98,Unemployed,Postgraduate,FALSE,Employment
+U215,User215,39,Male,Maharashtra,499796.71,Employed,Postgraduate,TRUE,Employment
+U216,User216,28,Male,Maharashtra,405964.4,Unemployed,Graduate,TRUE,Health
+U217,User217,44,LGBTQ+,Uttar Pradesh,33078.78,Employed,Graduate,TRUE,Health
+U218,User218,35,Male,West Bengal,233182.91,Unemployed,Postgraduate,TRUE,Employment
+U219,User219,57,Male,West Bengal,76681.73,Employed,Graduate,FALSE,Study
+U220,User220,35,Female,Tamil Nadu,234705.26,Unemployed,Secondary,FALSE,Study
+U221,User221,39,Female,West Bengal,451865.41,Unemployed,Primary,TRUE,Health
+U222,User222,39,Female,Rajasthan,178222.21,Unemployed,Postgraduate,FALSE,Employment
+U223,User223,28,LGBTQ+,Maharashtra,391141.35,Unemployed,Graduate,TRUE,Health
+U224,User224,35,Male,Rajasthan,410433.27,Unemployed,Postgraduate,FALSE,Health
+U225,User225,52,Male,Tamil Nadu,127574.51,Employed,Postgraduate,TRUE,Health
+U226,User226,22,Female,West Bengal,480449.57,Employed,Primary,FALSE,Health
+U227,User227,38,LGBTQ+,Tamil Nadu,299756.84,Unemployed,Secondary,FALSE,Study
+U228,User228,48,Female,West Bengal,314616.06,Unemployed,Primary,TRUE,Study
+U229,User229,51,Female,Rajasthan,87705.95,Unemployed,Graduate,TRUE,Employment
+U230,User230,19,Male,West Bengal,121966.53,Unemployed,Primary,TRUE,Study
+U231,User231,31,LGBTQ+,West Bengal,293826.42,Employed,Postgraduate,TRUE,Employment
+U232,User232,20,LGBTQ+,Uttar Pradesh,41604.36,Unemployed,Postgraduate,TRUE,Employment
+U233,User233,32,Male,Rajasthan,352578.3,Employed,Graduate,FALSE,Employment
+U234,User234,39,Female,Uttar Pradesh,149174.59,Unemployed,Secondary,TRUE,Health
+U235,User235,45,LGBTQ+,Rajasthan,112027.33,Employed,Postgraduate,FALSE,Study
+U236,User236,57,Female,Tamil Nadu,68638.58,Unemployed,Primary,FALSE,Health
+U237,User237,44,LGBTQ+,Rajasthan,412360.01,Unemployed,Secondary,FALSE,Employment
+U238,User238,49,Female,Rajasthan,67208.37,Employed,Secondary,FALSE,Health
+U239,User239,28,Female,Tamil Nadu,497713.43,Unemployed,Graduate,TRUE,Study
+U240,User240,25,Female,Tamil Nadu,28067.49,Unemployed,Secondary,TRUE,Employment
+U241,User241,48,Male,Rajasthan,98090.02,Unemployed,Secondary,FALSE,Health
+U242,User242,50,Male,Rajasthan,424849.44,Employed,Secondary,TRUE,Employment
+U243,User243,46,LGBTQ+,Tamil Nadu,451497.89,Employed,Primary,FALSE,Study
+U244,User244,42,Male,Rajasthan,397429.22,Employed,Postgraduate,FALSE,Employment
+U245,User245,50,Female,Uttar Pradesh,454901.98,Unemployed,Graduate,FALSE,Study
+U246,User246,60,LGBTQ+,Uttar Pradesh,110146.74,Employed,Postgraduate,TRUE,Employment
+U247,User247,53,Male,West Bengal,415663.22,Unemployed,Graduate,TRUE,Study
+U248,User248,59,Female,Maharashtra,209594.1,Employed,Primary,TRUE,Health
+U249,User249,42,LGBTQ+,Tamil Nadu,44580.57,Unemployed,Primary,FALSE,Employment
+U250,User250,26,Male,Uttar Pradesh,339231.81,Unemployed,Postgraduate,FALSE,Employment
+U251,User251,58,Female,Maharashtra,385224.07,Unemployed,Postgraduate,TRUE,Health
+U252,User252,58,LGBTQ+,Rajasthan,188431.88,Unemployed,Secondary,TRUE,Employment
+U253,User253,48,Female,Tamil Nadu,33028.92,Employed,Postgraduate,TRUE,Employment
+U254,User254,51,Female,West Bengal,135425.01,Unemployed,Primary,FALSE,Employment
+U255,User255,41,Female,Maharashtra,69921.68,Unemployed,Primary,FALSE,Employment
+U256,User256,40,Male,West Bengal,72039.83,Employed,Graduate,TRUE,Study
+U257,User257,56,Female,Tamil Nadu,98339.55,Unemployed,Postgraduate,FALSE,Employment
+U258,User258,27,Male,West Bengal,156267.82,Employed,Secondary,TRUE,Employment
+U259,User259,50,Male,Maharashtra,216018.62,Unemployed,Graduate,TRUE,Employment
+U260,User260,52,LGBTQ+,Uttar Pradesh,182394.08,Employed,Graduate,FALSE,Employment
+U261,User261,57,Female,Uttar Pradesh,300393.54,Employed,Primary,FALSE,Study
+U262,User262,35,Female,West Bengal,172434.43,Employed,Primary,TRUE,Employment
+U263,User263,51,Female,Uttar Pradesh,111866.56,Unemployed,Primary,TRUE,Employment
+U264,User264,46,LGBTQ+,Tamil Nadu,318704.94,Unemployed,Postgraduate,TRUE,Health
+U265,User265,28,Female,Rajasthan,496396.92,Unemployed,Graduate,FALSE,Health
+U266,User266,23,Male,Rajasthan,285025.29,Employed,Postgraduate,FALSE,Employment
+U267,User267,41,Male,West Bengal,384802.27,Employed,Secondary,TRUE,Study
+U268,User268,39,Female,Uttar Pradesh,60265.02,Employed,Secondary,FALSE,Health
+U269,User269,60,Male,Uttar Pradesh,412339.38,Unemployed,Primary,FALSE,Study
+U270,User270,38,Male,Tamil Nadu,180487.87,Unemployed,Primary,TRUE,Study
+U271,User271,23,LGBTQ+,Maharashtra,139420.28,Unemployed,Graduate,TRUE,Health
+U272,User272,55,LGBTQ+,Rajasthan,437406.3,Unemployed,Primary,TRUE,Study
+U273,User273,46,Female,Tamil Nadu,479144.9,Employed,Graduate,FALSE,Employment
+U274,User274,51,LGBTQ+,Rajasthan,188299.08,Unemployed,Primary,TRUE,Study
+U275,User275,54,LGBTQ+,Tamil Nadu,307015.45,Employed,Graduate,FALSE,Study
+U276,User276,60,Male,Maharashtra,219101.41,Unemployed,Primary,TRUE,Health
+U277,User277,48,Male,Maharashtra,23629.58,Employed,Primary,TRUE,Health
+U278,User278,23,LGBTQ+,Maharashtra,238421.5,Unemployed,Graduate,TRUE,Employment
+U279,User279,22,Male,Uttar Pradesh,32077.27,Employed,Secondary,TRUE,Study
+U280,User280,22,LGBTQ+,Maharashtra,428885.91,Employed,Postgraduate,FALSE,Health
+U281,User281,47,LGBTQ+,Maharashtra,192842.11,Unemployed,Primary,FALSE,Employment
+U282,User282,49,Female,Uttar Pradesh,269155.92,Employed,Graduate,FALSE,Employment
+U283,User283,18,LGBTQ+,West Bengal,122713.64,Unemployed,Primary,FALSE,Employment
+U284,User284,28,Male,Maharashtra,351448.81,Employed,Graduate,TRUE,Study
+U285,User285,46,LGBTQ+,Uttar Pradesh,240150.68,Unemployed,Primary,FALSE,Health
+U286,User286,32,Male,Uttar Pradesh,481782.72,Employed,Primary,FALSE,Employment
+U287,User287,37,LGBTQ+,West Bengal,255007.78,Unemployed,Primary,TRUE,Health
+U288,User288,21,Female,Rajasthan,352808.41,Employed,Secondary,FALSE,Study
+U289,User289,45,Female,Maharashtra,464633.51,Employed,Primary,FALSE,Study
+U290,User290,37,Female,Tamil Nadu,452110.61,Unemployed,Postgraduate,TRUE,Employment
+U291,User291,41,LGBTQ+,Tamil Nadu,186262.34,Employed,Secondary,FALSE,Study
+U292,User292,51,Female,Tamil Nadu,388575.64,Employed,Postgraduate,FALSE,Employment
+U293,User293,39,Female,Tamil Nadu,270471.85,Unemployed,Secondary,TRUE,Health
+U294,User294,50,Female,Rajasthan,304083.62,Unemployed,Postgraduate,FALSE,Health
+U295,User295,43,Female,Maharashtra,227287.04,Unemployed,Graduate,TRUE,Health
+U296,User296,48,Female,Rajasthan,63373.71,Unemployed,Secondary,TRUE,Health
+U297,User297,55,Male,Maharashtra,208594.08,Employed,Primary,TRUE,Health
+U298,User298,26,Male,Rajasthan,219050.23,Employed,Primary,TRUE,Study
+U299,User299,23,Female,West Bengal,69639.65,Employed,Secondary,FALSE,Employment
+U300,User300,56,Female,Maharashtra,434784.18,Unemployed,Graduate,TRUE,Study
+U301,User301,41,Male,West Bengal,91022.34,Unemployed,Postgraduate,FALSE,Study
+U302,User302,36,LGBTQ+,Uttar Pradesh,491653.78,Employed,Postgraduate,FALSE,Employment
+U303,User303,20,Male,Uttar Pradesh,158775.74,Unemployed,Secondary,TRUE,Study
+U304,User304,23,Male,Tamil Nadu,496102.69,Employed,Primary,TRUE,Health
+U305,User305,20,Female,Maharashtra,132118.32,Employed,Secondary,TRUE,Study
+U306,User306,46,LGBTQ+,Tamil Nadu,270684.74,Employed,Postgraduate,FALSE,Health
+U307,User307,38,Male,West Bengal,168358.92,Employed,Graduate,FALSE,Study
+U308,User308,60,Male,Tamil Nadu,264510.01,Unemployed,Primary,TRUE,Health
+U309,User309,51,Male,West Bengal,37689.93,Unemployed,Primary,TRUE,Health
+U310,User310,51,Female,West Bengal,250805.79,Unemployed,Primary,FALSE,Health
+U311,User311,42,Female,Rajasthan,173996.3,Unemployed,Postgraduate,FALSE,Health
+U312,User312,53,Male,Tamil Nadu,51234.74,Unemployed,Graduate,TRUE,Employment
+U313,User313,51,Female,West Bengal,478525.33,Employed,Secondary,TRUE,Study
+U314,User314,37,Female,Tamil Nadu,78663.17,Unemployed,Primary,TRUE,Health
+U315,User315,24,Female,Maharashtra,342887.9,Unemployed,Secondary,FALSE,Employment
+U316,User316,54,LGBTQ+,Rajasthan,404470.79,Unemployed,Graduate,FALSE,Employment
+U317,User317,54,Female,Tamil Nadu,89394.31,Unemployed,Graduate,TRUE,Health
+U318,User318,56,Male,Tamil Nadu,291772.24,Unemployed,Primary,FALSE,Health
+U319,User319,19,LGBTQ+,Rajasthan,283876.13,Unemployed,Primary,TRUE,Employment
+U320,User320,53,Male,Tamil Nadu,399910.49,Unemployed,Graduate,TRUE,Employment
+U321,User321,41,LGBTQ+,Tamil Nadu,465927.86,Employed,Secondary,TRUE,Employment
+U322,User322,46,LGBTQ+,Tamil Nadu,165175.12,Unemployed,Secondary,FALSE,Employment
+U323,User323,20,LGBTQ+,Tamil Nadu,80977.16,Employed,Postgraduate,FALSE,Study
+U324,User324,46,LGBTQ+,Rajasthan,262852.5,Unemployed,Graduate,FALSE,Study
+U325,User325,53,Male,West Bengal,236939.17,Unemployed,Secondary,TRUE,Health
+U326,User326,44,Female,Maharashtra,310127.68,Employed,Secondary,TRUE,Study
+U327,User327,36,LGBTQ+,Tamil Nadu,324271.75,Unemployed,Secondary,FALSE,Employment
+U328,User328,58,Female,Rajasthan,275465.89,Unemployed,Graduate,FALSE,Employment
+U329,User329,40,Male,Uttar Pradesh,418676.78,Unemployed,Secondary,FALSE,Health
+U330,User330,59,Female,Uttar Pradesh,372683.03,Employed,Primary,TRUE,Study
+U331,User331,26,Female,Uttar Pradesh,438537.92,Employed,Primary,TRUE,Health
+U332,User332,32,Male,Tamil Nadu,424488.86,Employed,Secondary,TRUE,Study
+U333,User333,32,Male,West Bengal,270398.63,Unemployed,Graduate,TRUE,Study
+U334,User334,40,Male,Rajasthan,221899.46,Employed,Secondary,FALSE,Employment
+U335,User335,34,LGBTQ+,Uttar Pradesh,174227.36,Unemployed,Graduate,TRUE,Health
+U336,User336,33,LGBTQ+,Uttar Pradesh,410181.68,Employed,Graduate,TRUE,Employment
+U337,User337,45,Male,Uttar Pradesh,303958.28,Unemployed,Graduate,FALSE,Employment
+U338,User338,20,LGBTQ+,Rajasthan,479200.49,Unemployed,Postgraduate,TRUE,Health
+U339,User339,45,Female,Rajasthan,43055.61,Unemployed,Postgraduate,TRUE,Health
+U340,User340,43,LGBTQ+,West Bengal,410389.53,Unemployed,Postgraduate,FALSE,Health
+U341,User341,59,LGBTQ+,Tamil Nadu,289686.68,Employed,Graduate,TRUE,Study
+U342,User342,55,Female,Uttar Pradesh,461819.69,Employed,Secondary,TRUE,Employment
+U343,User343,30,Female,Rajasthan,298127.56,Unemployed,Graduate,FALSE,Study
+U344,User344,25,LGBTQ+,Rajasthan,49514.07,Employed,Primary,FALSE,Health
+U345,User345,35,Female,Maharashtra,212998.17,Employed,Secondary,FALSE,Study
+U346,User346,47,LGBTQ+,Uttar Pradesh,210620.73,Unemployed,Primary,FALSE,Health
+U347,User347,54,LGBTQ+,Rajasthan,480642.06,Employed,Secondary,FALSE,Employment
+U348,User348,45,LGBTQ+,West Bengal,375036.69,Employed,Postgraduate,FALSE,Employment
+U349,User349,51,Male,Uttar Pradesh,387490.79,Unemployed,Graduate,FALSE,Employment
+U350,User350,52,Male,West Bengal,231592.15,Unemployed,Primary,FALSE,Study
+U351,User351,22,Female,Uttar Pradesh,260259.92,Unemployed,Graduate,TRUE,Study
+U352,User352,41,Male,West Bengal,56990.93,Unemployed,Primary,TRUE,Health
+U353,User353,49,Male,Rajasthan,256185.9,Employed,Secondary,TRUE,Health
+U354,User354,30,Female,Rajasthan,387028.94,Unemployed,Primary,TRUE,Health
+U355,User355,20,LGBTQ+,Rajasthan,376107.27,Employed,Secondary,FALSE,Employment
+U356,User356,18,Male,Uttar Pradesh,231925.99,Unemployed,Secondary,FALSE,Study
+U357,User357,23,Female,West Bengal,275931.96,Employed,Secondary,FALSE,Employment
+U358,User358,60,Male,Rajasthan,197082.11,Unemployed,Postgraduate,TRUE,Study
+U359,User359,21,LGBTQ+,Rajasthan,369998.69,Unemployed,Primary,FALSE,Study
+U360,User360,23,Male,Rajasthan,142616.42,Employed,Primary,FALSE,Study
+U361,User361,34,Male,Tamil Nadu,106736.24,Employed,Secondary,TRUE,Study
+U362,User362,52,LGBTQ+,Maharashtra,457842.35,Unemployed,Secondary,FALSE,Employment
+U363,User363,22,LGBTQ+,West Bengal,232569.23,Unemployed,Graduate,TRUE,Employment
+U364,User364,47,Female,West Bengal,448789,Unemployed,Postgraduate,FALSE,Study
+U365,User365,41,Female,Rajasthan,260228.23,Unemployed,Graduate,FALSE,Study
+U366,User366,39,Male,Uttar Pradesh,193003.49,Employed,Primary,TRUE,Health
+U367,User367,43,LGBTQ+,Maharashtra,366885.67,Employed,Secondary,TRUE,Study
+U368,User368,25,LGBTQ+,Maharashtra,405772.6,Unemployed,Primary,TRUE,Employment
+U369,User369,36,LGBTQ+,Rajasthan,398736.77,Employed,Primary,TRUE,Health
+U370,User370,34,LGBTQ+,West Bengal,214157.44,Employed,Primary,FALSE,Study
+U371,User371,34,LGBTQ+,Tamil Nadu,378086.48,Employed,Primary,TRUE,Study
+U372,User372,38,LGBTQ+,Uttar Pradesh,127503.3,Unemployed,Postgraduate,TRUE,Employment
+U373,User373,20,LGBTQ+,Tamil Nadu,250916.89,Unemployed,Graduate,FALSE,Employment
+U374,User374,37,Male,Maharashtra,459654.72,Employed,Graduate,TRUE,Employment
+U375,User375,52,Male,West Bengal,300091.92,Employed,Postgraduate,FALSE,Health
+U376,User376,43,Female,Rajasthan,115850.79,Employed,Postgraduate,FALSE,Study
+U377,User377,29,LGBTQ+,West Bengal,370007.91,Unemployed,Primary,TRUE,Employment
+U378,User378,44,LGBTQ+,Tamil Nadu,487110.06,Employed,Primary,TRUE,Health
+U379,User379,24,Male,Uttar Pradesh,220413.08,Unemployed,Primary,TRUE,Health
+U380,User380,54,Male,Uttar Pradesh,380355.08,Unemployed,Postgraduate,FALSE,Health
+U381,User381,43,Male,West Bengal,150337.85,Employed,Graduate,FALSE,Employment
+U382,User382,34,LGBTQ+,Tamil Nadu,336476.35,Unemployed,Graduate,FALSE,Study
+U383,User383,37,Female,Rajasthan,414745.6,Unemployed,Secondary,TRUE,Study
+U384,User384,21,Female,Rajasthan,207762.54,Unemployed,Secondary,FALSE,Health
+U385,User385,26,Male,Maharashtra,394567.83,Unemployed,Postgraduate,FALSE,Study
+U386,User386,43,Female,Uttar Pradesh,285487.91,Unemployed,Primary,TRUE,Employment
+U387,User387,22,Female,West Bengal,381989.59,Unemployed,Postgraduate,TRUE,Study
+U388,User388,41,Female,Tamil Nadu,267271.91,Employed,Postgraduate,FALSE,Health
+U389,User389,44,LGBTQ+,Maharashtra,392196.85,Unemployed,Secondary,TRUE,Health
+U390,User390,31,LGBTQ+,Tamil Nadu,39552.04,Unemployed,Postgraduate,TRUE,Employment
+U391,User391,20,LGBTQ+,West Bengal,202369.69,Employed,Primary,FALSE,Employment
+U392,User392,20,Female,Rajasthan,488761.21,Employed,Secondary,TRUE,Study
+U393,User393,22,Male,Maharashtra,113302.51,Unemployed,Postgraduate,FALSE,Study
+U394,User394,36,LGBTQ+,Maharashtra,485615.01,Unemployed,Secondary,TRUE,Health
+U395,User395,47,Male,Uttar Pradesh,20445.7,Unemployed,Primary,FALSE,Employment
+U396,User396,50,LGBTQ+,Tamil Nadu,404784.21,Unemployed,Graduate,TRUE,Employment
+U397,User397,59,Female,Rajasthan,482584.65,Employed,Postgraduate,FALSE,Health
+U398,User398,36,Female,Uttar Pradesh,42080.52,Employed,Postgraduate,FALSE,Health
+U399,User399,26,Female,Tamil Nadu,220218.46,Employed,Postgraduate,FALSE,Health
+U400,User400,23,Male,Uttar Pradesh,37823.24,Employed,Postgraduate,TRUE,Study
+U401,User401,45,Female,West Bengal,95640.58,Unemployed,Graduate,TRUE,Health
+U402,User402,52,Male,Tamil Nadu,227538.71,Employed,Primary,FALSE,Employment
+U403,User403,22,LGBTQ+,West Bengal,141656.12,Employed,Postgraduate,TRUE,Health
+U404,User404,29,Female,West Bengal,219910.52,Unemployed,Secondary,TRUE,Study
+U405,User405,58,LGBTQ+,Maharashtra,383420.1,Employed,Secondary,TRUE,Employment
+U406,User406,54,Male,West Bengal,417996.29,Employed,Graduate,TRUE,Health
+U407,User407,39,Male,Rajasthan,345446.71,Employed,Graduate,TRUE,Health
+U408,User408,26,LGBTQ+,Tamil Nadu,224172.11,Unemployed,Graduate,FALSE,Study
+U409,User409,34,Female,Rajasthan,82188.26,Unemployed,Postgraduate,TRUE,Study
+U410,User410,38,Male,Uttar Pradesh,129062.76,Unemployed,Graduate,TRUE,Study
+U411,User411,45,Male,West Bengal,203117.33,Employed,Primary,FALSE,Health
+U412,User412,55,Male,Rajasthan,439404.08,Employed,Postgraduate,FALSE,Employment
+U413,User413,47,Female,Maharashtra,457170.98,Unemployed,Secondary,FALSE,Employment
+U414,User414,35,Female,Maharashtra,159980.91,Employed,Primary,FALSE,Health
+U415,User415,41,Female,Maharashtra,120073.6,Employed,Graduate,FALSE,Health
+U416,User416,42,Female,Rajasthan,379315.45,Employed,Postgraduate,FALSE,Study
+U417,User417,19,Male,Tamil Nadu,435440.53,Employed,Graduate,FALSE,Health
+U418,User418,22,Male,West Bengal,181159.87,Employed,Postgraduate,TRUE,Study
+U419,User419,39,LGBTQ+,Maharashtra,375347.42,Employed,Postgraduate,FALSE,Study
+U420,User420,28,LGBTQ+,West Bengal,334850.8,Unemployed,Secondary,TRUE,Study
+U421,User421,43,LGBTQ+,Tamil Nadu,488983.17,Employed,Postgraduate,TRUE,Employment
+U422,User422,19,Female,Rajasthan,253185.64,Employed,Secondary,FALSE,Study
+U423,User423,27,Male,Uttar Pradesh,435912.86,Employed,Primary,FALSE,Employment
+U424,User424,35,Male,Uttar Pradesh,281665.39,Employed,Graduate,TRUE,Employment
+U425,User425,54,Female,West Bengal,402625.87,Employed,Postgraduate,TRUE,Study
+U426,User426,27,Male,Tamil Nadu,50414.53,Unemployed,Primary,FALSE,Health
+U427,User427,44,Male,Tamil Nadu,198063.71,Employed,Primary,TRUE,Study
+U428,User428,22,Female,Uttar Pradesh,59510.15,Employed,Graduate,TRUE,Health
+U429,User429,55,Female,Tamil Nadu,380223.71,Employed,Postgraduate,FALSE,Health
+U430,User430,54,Female,Maharashtra,326690.57,Employed,Graduate,TRUE,Study
+U431,User431,48,Female,Uttar Pradesh,216339.91,Unemployed,Graduate,TRUE,Health
+U432,User432,38,Male,Tamil Nadu,78493.19,Employed,Postgraduate,FALSE,Study
+U433,User433,35,LGBTQ+,Uttar Pradesh,32993.58,Employed,Graduate,FALSE,Study
+U434,User434,47,LGBTQ+,Tamil Nadu,436321.54,Unemployed,Graduate,FALSE,Study
+U435,User435,30,LGBTQ+,Rajasthan,404310.63,Unemployed,Secondary,TRUE,Study
+U436,User436,27,LGBTQ+,Rajasthan,169716.27,Employed,Postgraduate,TRUE,Health
+U437,User437,18,LGBTQ+,West Bengal,476714.64,Unemployed,Postgraduate,FALSE,Employment
+U438,User438,50,LGBTQ+,West Bengal,292254.1,Unemployed,Postgraduate,TRUE,Employment
+U439,User439,44,Female,Tamil Nadu,479613.66,Unemployed,Graduate,TRUE,Health
+U440,User440,27,LGBTQ+,West Bengal,365322.84,Employed,Postgraduate,FALSE,Employment
+U441,User441,58,Male,Tamil Nadu,193964.85,Employed,Primary,FALSE,Health
+U442,User442,32,Female,Maharashtra,340825.25,Employed,Postgraduate,TRUE,Study
+U443,User443,31,Male,Tamil Nadu,359708.47,Employed,Graduate,FALSE,Health
+U444,User444,54,Female,Tamil Nadu,164154.61,Employed,Graduate,FALSE,Study
+U445,User445,37,Male,Maharashtra,30645.02,Employed,Postgraduate,FALSE,Employment
+U446,User446,52,Male,Tamil Nadu,148588.06,Employed,Secondary,FALSE,Health
+U447,User447,23,LGBTQ+,Rajasthan,421532.5,Employed,Primary,TRUE,Employment
+U448,User448,60,Female,Uttar Pradesh,392909.53,Employed,Primary,TRUE,Health
+U449,User449,28,LGBTQ+,Tamil Nadu,343306.99,Unemployed,Primary,FALSE,Health
+U450,User450,42,Male,Rajasthan,371608.06,Unemployed,Postgraduate,TRUE,Health
+U451,User451,35,LGBTQ+,West Bengal,359108.14,Employed,Primary,FALSE,Study
+U452,User452,58,Male,Uttar Pradesh,32757.01,Employed,Postgraduate,FALSE,Study
+U453,User453,37,LGBTQ+,Maharashtra,398662.05,Unemployed,Primary,TRUE,Employment
+U454,User454,29,Female,Uttar Pradesh,299554.84,Unemployed,Graduate,TRUE,Study
+U455,User455,57,LGBTQ+,Uttar Pradesh,335953.24,Employed,Secondary,TRUE,Employment
+U456,User456,31,Male,Maharashtra,237567.48,Employed,Primary,FALSE,Study
+U457,User457,39,Male,Rajasthan,266785.55,Unemployed,Graduate,TRUE,Health
+U458,User458,28,Female,Uttar Pradesh,157930.67,Employed,Postgraduate,TRUE,Health
+U459,User459,20,Male,Uttar Pradesh,93243.57,Unemployed,Postgraduate,TRUE,Employment
+U460,User460,41,Male,Tamil Nadu,234651.56,Employed,Primary,TRUE,Study
+U461,User461,48,Male,West Bengal,268054.65,Unemployed,Secondary,FALSE,Study
+U462,User462,37,LGBTQ+,West Bengal,291049.73,Employed,Primary,FALSE,Health
+U463,User463,25,Male,West Bengal,211260.46,Employed,Primary,TRUE,Employment
+U464,User464,58,LGBTQ+,Rajasthan,200577.28,Employed,Secondary,FALSE,Health
+U465,User465,53,Male,West Bengal,328265.94,Unemployed,Primary,TRUE,Employment
+U466,User466,37,LGBTQ+,Tamil Nadu,389976.83,Unemployed,Primary,TRUE,Employment
+U467,User467,53,Female,West Bengal,389869.37,Employed,Graduate,FALSE,Employment
+U468,User468,30,LGBTQ+,West Bengal,330677.63,Unemployed,Postgraduate,TRUE,Health
+U469,User469,46,Male,Tamil Nadu,322456.68,Employed,Secondary,FALSE,Employment
+U470,User470,31,Female,Uttar Pradesh,357553.5,Employed,Primary,FALSE,Employment
+U471,User471,51,Female,West Bengal,141624.92,Unemployed,Graduate,TRUE,Health
+U472,User472,48,Female,West Bengal,130716.86,Unemployed,Primary,TRUE,Employment
+U473,User473,23,Male,Tamil Nadu,99570.6,Employed,Secondary,TRUE,Health
+U474,User474,58,Male,Tamil Nadu,203738.86,Employed,Primary,TRUE,Study
+U475,User475,44,Male,Uttar Pradesh,385498.5,Unemployed,Postgraduate,FALSE,Study
+U476,User476,56,LGBTQ+,West Bengal,447742.97,Unemployed,Graduate,FALSE,Health
+U477,User477,36,LGBTQ+,Maharashtra,137205.84,Unemployed,Secondary,FALSE,Health
+U478,User478,43,LGBTQ+,Rajasthan,252105.71,Employed,Graduate,TRUE,Study
+U479,User479,22,Female,Tamil Nadu,363705.56,Unemployed,Postgraduate,TRUE,Employment
+U480,User480,48,LGBTQ+,West Bengal,154093.72,Unemployed,Primary,TRUE,Study
+U481,User481,20,LGBTQ+,Uttar Pradesh,473174.98,Employed,Secondary,FALSE,Health
+U482,User482,40,Male,Tamil Nadu,420834.8,Employed,Postgraduate,FALSE,Study
+U483,User483,49,Female,West Bengal,73683.14,Employed,Postgraduate,TRUE,Study
+U484,User484,28,Male,Maharashtra,367303.78,Employed,Primary,TRUE,Study
+U485,User485,40,Male,West Bengal,188569.35,Employed,Graduate,FALSE,Study
+U486,User486,39,LGBTQ+,Maharashtra,53047.7,Employed,Graduate,FALSE,Health
+U487,User487,26,LGBTQ+,Tamil Nadu,413207.82,Unemployed,Secondary,TRUE,Employment
+U488,User488,60,Female,West Bengal,172573.9,Employed,Postgraduate,FALSE,Study
+U489,User489,42,LGBTQ+,Maharashtra,230990.19,Employed,Graduate,TRUE,Employment
+U490,User490,29,LGBTQ+,Uttar Pradesh,289963.55,Unemployed,Secondary,FALSE,Health
+U491,User491,52,LGBTQ+,Rajasthan,240311.29,Employed,Primary,FALSE,Study
+U492,User492,22,Female,Maharashtra,132583.3,Unemployed,Secondary,FALSE,Employment
+U493,User493,33,Female,West Bengal,222721.52,Unemployed,Secondary,FALSE,Study
+U494,User494,29,Male,West Bengal,117511.73,Unemployed,Secondary,FALSE,Study
+U495,User495,28,Male,Uttar Pradesh,366058.45,Employed,Postgraduate,TRUE,Employment
+U496,User496,53,Female,Uttar Pradesh,458698.03,Unemployed,Postgraduate,TRUE,Study
+U497,User497,44,Female,Tamil Nadu,453630.51,Employed,Postgraduate,TRUE,Study
+U498,User498,60,Female,Tamil Nadu,70234.04,Unemployed,Primary,TRUE,Employment
+U499,User499,38,Female,West Bengal,100895.06,Employed,Graduate,TRUE,Study
+U500,User500,25,LGBTQ+,Rajasthan,111703.87,Employed,Postgraduate,FALSE,Health
+U501,User501,23,LGBTQ+,Uttar Pradesh,432235.92,Employed,Primary,FALSE,Study
+U502,User502,58,Female,West Bengal,90963.84,Employed,Graduate,FALSE,Employment
+U503,User503,42,Male,Maharashtra,378036.63,Unemployed,Secondary,TRUE,Employment
+U504,User504,57,Male,Tamil Nadu,499829.99,Unemployed,Primary,TRUE,Health
+U505,User505,52,Male,Maharashtra,424734.36,Employed,Primary,TRUE,Health
+U506,User506,55,Female,Maharashtra,465870.57,Unemployed,Graduate,FALSE,Health
+U507,User507,39,Female,Maharashtra,437224.82,Unemployed,Graduate,FALSE,Health
+U508,User508,35,Female,Rajasthan,245261.08,Unemployed,Graduate,FALSE,Study
+U509,User509,29,LGBTQ+,Tamil Nadu,398455.83,Unemployed,Secondary,FALSE,Study
+U510,User510,40,Male,West Bengal,82076.56,Unemployed,Graduate,TRUE,Study
+U511,User511,19,LGBTQ+,Rajasthan,392526.1,Unemployed,Graduate,TRUE,Study
+U512,User512,33,Female,Tamil Nadu,214697.48,Unemployed,Graduate,TRUE,Employment
+U513,User513,37,Male,Maharashtra,213063.96,Employed,Postgraduate,TRUE,Health
+U514,User514,40,Male,Tamil Nadu,189749.44,Unemployed,Primary,FALSE,Employment
+U515,User515,20,Male,Rajasthan,325924.33,Employed,Postgraduate,TRUE,Health
+U516,User516,59,Male,Uttar Pradesh,367283.32,Employed,Postgraduate,FALSE,Health
+U517,User517,46,Female,West Bengal,259414.08,Unemployed,Postgraduate,TRUE,Employment
+U518,User518,22,Female,Rajasthan,289240.26,Unemployed,Postgraduate,FALSE,Study
+U519,User519,47,LGBTQ+,West Bengal,222491.75,Employed,Secondary,TRUE,Study
+U520,User520,41,LGBTQ+,Maharashtra,375775.67,Employed,Primary,TRUE,Study
+U521,User521,50,LGBTQ+,Tamil Nadu,321939.75,Unemployed,Primary,TRUE,Health
+U522,User522,58,Female,Rajasthan,473515.09,Employed,Postgraduate,TRUE,Study
+U523,User523,60,Male,Maharashtra,475981.63,Unemployed,Postgraduate,TRUE,Employment
+U524,User524,24,Female,West Bengal,195188.07,Employed,Primary,FALSE,Employment
+U525,User525,43,Male,Rajasthan,497768.96,Unemployed,Primary,FALSE,Health
+U526,User526,47,LGBTQ+,Maharashtra,381673.49,Employed,Postgraduate,FALSE,Study
+U527,User527,31,Female,Rajasthan,176719.47,Employed,Postgraduate,TRUE,Health
+U528,User528,24,Female,West Bengal,71940.9,Unemployed,Primary,FALSE,Employment
+U529,User529,43,LGBTQ+,West Bengal,56928.37,Unemployed,Secondary,FALSE,Health
+U530,User530,18,Male,West Bengal,246499.08,Employed,Postgraduate,FALSE,Health
+U531,User531,26,LGBTQ+,Uttar Pradesh,434902.37,Unemployed,Primary,FALSE,Health
+U532,User532,27,LGBTQ+,Tamil Nadu,442926.83,Employed,Secondary,TRUE,Study
+U533,User533,21,Male,West Bengal,215497.49,Employed,Graduate,TRUE,Employment
+U534,User534,31,LGBTQ+,Uttar Pradesh,353055.3,Employed,Primary,FALSE,Employment
+U535,User535,33,Female,Tamil Nadu,422432.51,Unemployed,Secondary,TRUE,Study
+U536,User536,38,Female,Tamil Nadu,224817.1,Employed,Primary,FALSE,Health
+U537,User537,54,LGBTQ+,Maharashtra,374555.51,Employed,Postgraduate,FALSE,Employment
+U538,User538,36,Female,Uttar Pradesh,268223.91,Unemployed,Secondary,TRUE,Health
+U539,User539,42,LGBTQ+,Tamil Nadu,69060.6,Employed,Graduate,TRUE,Health
+U540,User540,25,Female,West Bengal,80832.82,Unemployed,Secondary,FALSE,Health
+U541,User541,56,Female,Rajasthan,368411.29,Employed,Primary,TRUE,Study
+U542,User542,41,LGBTQ+,Maharashtra,205138.71,Unemployed,Postgraduate,FALSE,Health
+U543,User543,22,LGBTQ+,Maharashtra,288691.76,Unemployed,Primary,FALSE,Employment
+U544,User544,37,Female,Rajasthan,398741.48,Unemployed,Postgraduate,TRUE,Health
+U545,User545,46,Male,Maharashtra,221321.5,Unemployed,Secondary,TRUE,Employment
+U546,User546,24,Male,West Bengal,121541.2,Unemployed,Secondary,FALSE,Health
+U547,User547,38,Female,Rajasthan,425537.25,Unemployed,Postgraduate,FALSE,Health
+U548,User548,59,LGBTQ+,West Bengal,190445.87,Unemployed,Postgraduate,FALSE,Employment
+U549,User549,20,Female,Uttar Pradesh,226949.06,Employed,Secondary,TRUE,Employment
+U550,User550,20,LGBTQ+,Uttar Pradesh,200131.96,Unemployed,Secondary,TRUE,Health
+U551,User551,57,Male,Rajasthan,113657.92,Employed,Primary,FALSE,Health
+U552,User552,24,LGBTQ+,Rajasthan,265005.27,Employed,Secondary,TRUE,Employment
+U553,User553,35,Male,Maharashtra,104848.96,Employed,Graduate,TRUE,Employment
+U554,User554,54,LGBTQ+,Maharashtra,185644.09,Employed,Postgraduate,TRUE,Study
+U555,User555,56,LGBTQ+,Uttar Pradesh,43749.68,Unemployed,Secondary,FALSE,Health
+U556,User556,35,Male,Tamil Nadu,28575.68,Unemployed,Postgraduate,TRUE,Study
+U557,User557,38,Male,Rajasthan,300575.76,Unemployed,Graduate,TRUE,Health
+U558,User558,58,LGBTQ+,Rajasthan,165707.45,Unemployed,Graduate,TRUE,Health
+U559,User559,49,LGBTQ+,West Bengal,424409.47,Employed,Secondary,TRUE,Employment
+U560,User560,60,LGBTQ+,Maharashtra,365209.06,Unemployed,Secondary,FALSE,Employment
+U561,User561,40,LGBTQ+,Rajasthan,350076.92,Employed,Graduate,TRUE,Employment
+U562,User562,43,Male,Rajasthan,149177.74,Employed,Graduate,FALSE,Employment
+U563,User563,52,LGBTQ+,Tamil Nadu,189189.89,Employed,Graduate,FALSE,Health
+U564,User564,49,Female,Rajasthan,289751.5,Unemployed,Secondary,FALSE,Study
+U565,User565,20,Female,Maharashtra,265884.47,Employed,Primary,TRUE,Employment
+U566,User566,52,LGBTQ+,West Bengal,309571.51,Employed,Graduate,FALSE,Employment
+U567,User567,56,LGBTQ+,Uttar Pradesh,103961.12,Employed,Secondary,FALSE,Health
+U568,User568,47,Female,Maharashtra,374028.84,Employed,Graduate,TRUE,Employment
+U569,User569,23,Female,Rajasthan,479897.04,Employed,Secondary,TRUE,Employment
+U570,User570,18,Female,Rajasthan,27982.39,Employed,Primary,TRUE,Study
+U571,User571,34,Female,Tamil Nadu,212544.29,Employed,Secondary,TRUE,Employment
+U572,User572,53,Male,Rajasthan,75988.74,Unemployed,Postgraduate,FALSE,Health
+U573,User573,41,Female,Maharashtra,37336.14,Unemployed,Postgraduate,FALSE,Study
+U574,User574,53,LGBTQ+,Rajasthan,133120.18,Unemployed,Secondary,FALSE,Employment
+U575,User575,40,LGBTQ+,Uttar Pradesh,179401.14,Employed,Postgraduate,TRUE,Health
+U576,User576,60,LGBTQ+,Maharashtra,308191.19,Employed,Postgraduate,TRUE,Study
+U577,User577,20,LGBTQ+,West Bengal,391653.9,Employed,Postgraduate,FALSE,Health
+U578,User578,30,Female,West Bengal,365143.1,Employed,Postgraduate,TRUE,Study
+U579,User579,40,Male,Maharashtra,205063.01,Employed,Graduate,TRUE,Health
+U580,User580,54,Male,Rajasthan,434573.74,Employed,Primary,TRUE,Health
+U581,User581,25,Female,West Bengal,122260.02,Employed,Graduate,FALSE,Health
+U582,User582,42,Male,Rajasthan,209117.22,Employed,Primary,TRUE,Employment
+U583,User583,47,Female,Rajasthan,394572.63,Employed,Postgraduate,TRUE,Employment
+U584,User584,25,Male,Tamil Nadu,439002.46,Unemployed,Postgraduate,FALSE,Study
+U585,User585,54,Male,Maharashtra,47886.61,Unemployed,Primary,TRUE,Health
+U586,User586,18,Female,Rajasthan,50651.81,Unemployed,Graduate,FALSE,Health
+U587,User587,36,LGBTQ+,Uttar Pradesh,396866.69,Employed,Secondary,FALSE,Employment
+U588,User588,56,Female,Maharashtra,125686.17,Employed,Primary,FALSE,Employment
+U589,User589,37,LGBTQ+,Rajasthan,90868.07,Employed,Graduate,FALSE,Health
+U590,User590,24,Male,Rajasthan,164802.07,Unemployed,Primary,FALSE,Health
+U591,User591,22,Male,West Bengal,135010.88,Employed,Graduate,TRUE,Study
+U592,User592,58,LGBTQ+,West Bengal,472692.97,Employed,Primary,TRUE,Health
+U593,User593,56,Female,Rajasthan,289382.43,Unemployed,Secondary,TRUE,Employment
+U594,User594,18,Female,West Bengal,201607.15,Unemployed,Postgraduate,FALSE,Study
+U595,User595,33,Female,Uttar Pradesh,242091.99,Employed,Postgraduate,TRUE,Health
+U596,User596,46,Female,Uttar Pradesh,200939.76,Unemployed,Graduate,FALSE,Study
+U597,User597,39,LGBTQ+,Uttar Pradesh,228833.22,Employed,Primary,FALSE,Employment
+U598,User598,45,Female,West Bengal,66076.16,Employed,Secondary,FALSE,Health
+U599,User599,58,Male,Maharashtra,447842.91,Employed,Primary,TRUE,Study
+U600,User600,39,Female,Maharashtra,423617.37,Unemployed,Graduate,TRUE,Health
+U601,User601,52,Female,Maharashtra,316506.17,Unemployed,Primary,TRUE,Study
+U602,User602,22,LGBTQ+,West Bengal,199787.05,Unemployed,Postgraduate,TRUE,Health
+U603,User603,42,LGBTQ+,West Bengal,118156.05,Unemployed,Graduate,FALSE,Study
+U604,User604,23,Male,Uttar Pradesh,450646.51,Unemployed,Primary,FALSE,Study
+U605,User605,52,Male,Uttar Pradesh,439467.04,Employed,Primary,TRUE,Health
+U606,User606,48,LGBTQ+,West Bengal,325240.81,Employed,Secondary,FALSE,Study
+U607,User607,41,Male,West Bengal,118709.1,Employed,Graduate,TRUE,Study
+U608,User608,53,Male,Uttar Pradesh,243890.86,Unemployed,Postgraduate,TRUE,Employment
+U609,User609,44,LGBTQ+,Rajasthan,279246.37,Employed,Postgraduate,TRUE,Employment
+U610,User610,45,LGBTQ+,Rajasthan,36635.64,Employed,Postgraduate,FALSE,Employment
+U611,User611,25,Female,West Bengal,132616.49,Unemployed,Primary,FALSE,Study
+U612,User612,47,Female,Tamil Nadu,248842.39,Employed,Graduate,FALSE,Study
+U613,User613,51,Male,West Bengal,198864.82,Employed,Primary,TRUE,Study
+U614,User614,50,Male,Uttar Pradesh,55769.98,Employed,Postgraduate,TRUE,Study
+U615,User615,55,Female,Tamil Nadu,210856.17,Employed,Primary,TRUE,Employment
+U616,User616,30,Female,Rajasthan,241465.86,Employed,Secondary,TRUE,Employment
+U617,User617,38,LGBTQ+,Uttar Pradesh,193324.14,Employed,Secondary,FALSE,Employment
+U618,User618,25,Female,Uttar Pradesh,400630.26,Employed,Secondary,FALSE,Employment
+U619,User619,23,LGBTQ+,Tamil Nadu,329445.24,Employed,Secondary,FALSE,Health
+U620,User620,22,Female,Uttar Pradesh,93601.62,Employed,Secondary,TRUE,Health
+U621,User621,19,Female,Tamil Nadu,177868.47,Unemployed,Postgraduate,FALSE,Health
+U622,User622,55,Male,West Bengal,179182.38,Unemployed,Primary,TRUE,Employment
+U623,User623,54,LGBTQ+,Rajasthan,241951.36,Unemployed,Primary,FALSE,Study
+U624,User624,37,Male,Uttar Pradesh,95395.86,Employed,Graduate,FALSE,Study
+U625,User625,44,LGBTQ+,Tamil Nadu,83433.15,Unemployed,Postgraduate,TRUE,Employment
+U626,User626,37,LGBTQ+,West Bengal,269874.19,Unemployed,Graduate,TRUE,Health
+U627,User627,26,LGBTQ+,Rajasthan,252963.49,Employed,Graduate,TRUE,Employment
+U628,User628,18,Female,Rajasthan,234158.3,Unemployed,Graduate,FALSE,Study
+U629,User629,57,LGBTQ+,West Bengal,496489.84,Unemployed,Graduate,TRUE,Study
+U630,User630,42,Male,Maharashtra,452726.49,Employed,Primary,FALSE,Health
+U631,User631,55,Female,West Bengal,368864.82,Unemployed,Graduate,TRUE,Study
+U632,User632,21,Male,West Bengal,426470.04,Unemployed,Graduate,FALSE,Health
+U633,User633,31,LGBTQ+,Uttar Pradesh,458670.35,Unemployed,Secondary,FALSE,Employment
+U634,User634,41,LGBTQ+,West Bengal,121345.13,Employed,Secondary,TRUE,Health
+U635,User635,57,Female,West Bengal,427292,Employed,Secondary,FALSE,Employment
+U636,User636,22,LGBTQ+,Rajasthan,338702.31,Employed,Primary,TRUE,Employment
+U637,User637,26,Female,West Bengal,325879.03,Unemployed,Graduate,TRUE,Study
+U638,User638,30,LGBTQ+,West Bengal,298778.63,Employed,Primary,FALSE,Employment
+U639,User639,22,Male,Uttar Pradesh,386923.69,Employed,Primary,FALSE,Employment
+U640,User640,58,Male,Uttar Pradesh,344430.19,Employed,Primary,TRUE,Study
+U641,User641,41,Male,Maharashtra,432274.36,Unemployed,Secondary,FALSE,Employment
+U642,User642,28,LGBTQ+,Uttar Pradesh,154037.49,Unemployed,Graduate,FALSE,Health
+U643,User643,33,Male,Tamil Nadu,445867.19,Employed,Postgraduate,FALSE,Health
+U644,User644,26,Male,Rajasthan,85055.25,Employed,Postgraduate,TRUE,Study
+U645,User645,57,Male,Rajasthan,375389.51,Employed,Graduate,FALSE,Employment
+U646,User646,47,LGBTQ+,Uttar Pradesh,361308.37,Unemployed,Postgraduate,FALSE,Employment
+U647,User647,47,Female,Maharashtra,442503.44,Employed,Secondary,TRUE,Health
+U648,User648,45,Female,Rajasthan,170513.33,Employed,Graduate,FALSE,Study
+U649,User649,58,Male,Uttar Pradesh,138807.25,Employed,Postgraduate,TRUE,Study
+U650,User650,25,Male,West Bengal,194534.17,Unemployed,Postgraduate,FALSE,Health
+U651,User651,51,Male,Maharashtra,255719.69,Unemployed,Graduate,FALSE,Study
+U652,User652,19,Female,Uttar Pradesh,218547.92,Unemployed,Graduate,TRUE,Study
+U653,User653,55,LGBTQ+,Tamil Nadu,319965.05,Employed,Secondary,TRUE,Employment
+U654,User654,28,LGBTQ+,Rajasthan,36595.7,Unemployed,Primary,TRUE,Study
+U655,User655,18,Female,Tamil Nadu,214533.29,Employed,Primary,FALSE,Health
+U656,User656,39,Male,Maharashtra,175775.79,Unemployed,Postgraduate,TRUE,Health
+U657,User657,59,LGBTQ+,Uttar Pradesh,73626.18,Unemployed,Secondary,FALSE,Health
+U658,User658,19,Female,Uttar Pradesh,190943.95,Employed,Primary,TRUE,Health
+U659,User659,56,Female,Maharashtra,180594.34,Unemployed,Secondary,FALSE,Health
+U660,User660,32,Male,Rajasthan,117267.76,Employed,Postgraduate,TRUE,Health
+U661,User661,40,LGBTQ+,West Bengal,390371.52,Employed,Primary,FALSE,Health
+U662,User662,57,Male,West Bengal,448650.38,Employed,Postgraduate,TRUE,Health
+U663,User663,48,LGBTQ+,Tamil Nadu,153352.37,Unemployed,Graduate,TRUE,Employment
+U664,User664,23,Female,Maharashtra,34789.78,Employed,Primary,FALSE,Employment
+U665,User665,31,Female,Tamil Nadu,311251.19,Unemployed,Secondary,FALSE,Employment
+U666,User666,58,Male,West Bengal,416556.85,Employed,Primary,FALSE,Study
+U667,User667,57,Female,West Bengal,253939.93,Employed,Primary,TRUE,Employment
+U668,User668,52,LGBTQ+,West Bengal,364990.3,Employed,Primary,FALSE,Study
+U669,User669,37,Male,West Bengal,64037.77,Employed,Graduate,TRUE,Study
+U670,User670,18,Female,West Bengal,71184.83,Unemployed,Secondary,FALSE,Employment
+U671,User671,57,Female,West Bengal,150585.43,Employed,Graduate,FALSE,Employment
+U672,User672,22,Male,Uttar Pradesh,272195.79,Employed,Postgraduate,TRUE,Employment
+U673,User673,25,LGBTQ+,Uttar Pradesh,391252.09,Employed,Secondary,TRUE,Employment
+U674,User674,49,Male,Tamil Nadu,491418.78,Unemployed,Secondary,TRUE,Employment
+U675,User675,27,Male,West Bengal,259871.89,Unemployed,Secondary,FALSE,Study
+U676,User676,45,LGBTQ+,Maharashtra,32045.37,Unemployed,Graduate,TRUE,Health
+U677,User677,26,LGBTQ+,Tamil Nadu,130686.24,Unemployed,Graduate,FALSE,Employment
+U678,User678,29,LGBTQ+,Maharashtra,64716.54,Employed,Graduate,TRUE,Study
+U679,User679,20,LGBTQ+,Uttar Pradesh,407567.13,Unemployed,Postgraduate,FALSE,Health
+U680,User680,46,Female,West Bengal,497069.82,Employed,Secondary,FALSE,Study
+U681,User681,43,Male,Rajasthan,453254.41,Unemployed,Primary,TRUE,Employment
+U682,User682,48,Male,Tamil Nadu,315664.42,Employed,Graduate,TRUE,Health
+U683,User683,46,LGBTQ+,Maharashtra,368124.57,Unemployed,Postgraduate,FALSE,Health
+U684,User684,48,LGBTQ+,Uttar Pradesh,459777.24,Employed,Postgraduate,FALSE,Health
+U685,User685,20,Female,Rajasthan,64323.56,Employed,Graduate,FALSE,Employment
+U686,User686,41,LGBTQ+,Tamil Nadu,488965.72,Employed,Secondary,FALSE,Health
+U687,User687,56,Female,Rajasthan,338968.89,Unemployed,Graduate,FALSE,Health
+U688,User688,39,Female,Uttar Pradesh,488071.75,Employed,Secondary,FALSE,Employment
+U689,User689,42,Female,Uttar Pradesh,455757.92,Unemployed,Graduate,FALSE,Health
+U690,User690,45,LGBTQ+,West Bengal,173356.81,Unemployed,Primary,TRUE,Health
+U691,User691,31,LGBTQ+,Maharashtra,301846.52,Employed,Graduate,FALSE,Health
+U692,User692,30,LGBTQ+,Rajasthan,280866.04,Employed,Secondary,TRUE,Employment
+U693,User693,21,Male,Maharashtra,275522.59,Unemployed,Postgraduate,FALSE,Study
+U694,User694,53,Male,Uttar Pradesh,423151.92,Employed,Graduate,FALSE,Health
+U695,User695,47,LGBTQ+,Uttar Pradesh,467488.39,Unemployed,Secondary,FALSE,Employment
+U696,User696,19,LGBTQ+,Rajasthan,406071.67,Unemployed,Graduate,TRUE,Study
+U697,User697,54,Male,Tamil Nadu,223517.11,Unemployed,Graduate,FALSE,Health
+U698,User698,55,LGBTQ+,Maharashtra,98186.58,Employed,Secondary,FALSE,Study
+U699,User699,28,Female,Rajasthan,100382.73,Employed,Graduate,FALSE,Employment
+U700,User700,36,LGBTQ+,Uttar Pradesh,300839.8,Employed,Secondary,TRUE,Employment
+U701,User701,45,Male,Tamil Nadu,291786.54,Employed,Secondary,TRUE,Study
+U702,User702,40,Female,Maharashtra,362727.04,Unemployed,Primary,TRUE,Study
+U703,User703,20,LGBTQ+,Uttar Pradesh,104775.18,Employed,Primary,FALSE,Employment
+U704,User704,19,Male,Uttar Pradesh,496377.21,Employed,Primary,FALSE,Employment
+U705,User705,44,Male,West Bengal,71881.62,Unemployed,Primary,TRUE,Health
+U706,User706,22,LGBTQ+,Tamil Nadu,29376.08,Employed,Postgraduate,TRUE,Study
+U707,User707,21,Male,Maharashtra,315210.65,Employed,Postgraduate,TRUE,Employment
+U708,User708,59,LGBTQ+,Rajasthan,239920.67,Employed,Graduate,TRUE,Study
+U709,User709,20,LGBTQ+,West Bengal,123182.19,Employed,Postgraduate,FALSE,Employment
+U710,User710,57,Male,Rajasthan,417723.04,Unemployed,Primary,FALSE,Health
+U711,User711,51,LGBTQ+,Tamil Nadu,397419.67,Unemployed,Secondary,TRUE,Study
+U712,User712,31,Female,Tamil Nadu,168626.92,Employed,Postgraduate,TRUE,Health
+U713,User713,40,LGBTQ+,Rajasthan,63472.07,Employed,Primary,FALSE,Health
+U714,User714,38,Female,Rajasthan,329389.78,Employed,Primary,FALSE,Health
+U715,User715,53,Male,Maharashtra,213543.84,Unemployed,Secondary,TRUE,Health
+U716,User716,35,Female,West Bengal,231018.15,Unemployed,Secondary,FALSE,Employment
+U717,User717,54,Male,West Bengal,94098.42,Employed,Graduate,FALSE,Health
+U718,User718,42,Male,Maharashtra,300547.51,Unemployed,Graduate,TRUE,Health
+U719,User719,27,LGBTQ+,Maharashtra,334665.43,Employed,Secondary,FALSE,Employment
+U720,User720,40,Male,Maharashtra,69616.5,Unemployed,Primary,FALSE,Study
+U721,User721,59,LGBTQ+,Rajasthan,481191.98,Unemployed,Secondary,FALSE,Study
+U722,User722,41,Male,Tamil Nadu,356929.56,Unemployed,Graduate,FALSE,Employment
+U723,User723,43,LGBTQ+,Maharashtra,390528.71,Unemployed,Graduate,FALSE,Study
+U724,User724,43,Male,Tamil Nadu,486984.24,Employed,Primary,TRUE,Study
+U725,User725,47,LGBTQ+,Tamil Nadu,413339.5,Unemployed,Secondary,TRUE,Health
+U726,User726,29,Female,Uttar Pradesh,249288.71,Unemployed,Secondary,FALSE,Employment
+U727,User727,33,LGBTQ+,Uttar Pradesh,409236.48,Unemployed,Graduate,FALSE,Health
+U728,User728,43,LGBTQ+,Tamil Nadu,236898.22,Employed,Primary,TRUE,Study
+U729,User729,58,Male,Uttar Pradesh,70232.26,Employed,Primary,TRUE,Health
+U730,User730,57,Female,Rajasthan,212454.96,Unemployed,Graduate,TRUE,Study
+U731,User731,33,Male,West Bengal,200945.07,Employed,Primary,TRUE,Health
+U732,User732,26,Male,Rajasthan,27905.15,Unemployed,Primary,TRUE,Employment
+U733,User733,36,LGBTQ+,Rajasthan,486474.94,Unemployed,Primary,FALSE,Health
+U734,User734,33,Male,Tamil Nadu,108132.84,Employed,Secondary,FALSE,Health
+U735,User735,22,LGBTQ+,Uttar Pradesh,491365.26,Employed,Graduate,FALSE,Study
+U736,User736,51,Male,Maharashtra,219477.96,Unemployed,Secondary,TRUE,Study
+U737,User737,22,Male,West Bengal,101082.36,Unemployed,Secondary,FALSE,Study
+U738,User738,18,Female,West Bengal,245027.84,Unemployed,Primary,FALSE,Study
+U739,User739,46,LGBTQ+,Rajasthan,121026.68,Unemployed,Postgraduate,FALSE,Employment
+U740,User740,30,Male,Rajasthan,118946.48,Unemployed,Graduate,TRUE,Employment
+U741,User741,19,Male,Rajasthan,362847.91,Unemployed,Graduate,TRUE,Employment
+U742,User742,33,Female,Uttar Pradesh,65039.38,Unemployed,Primary,TRUE,Employment
+U743,User743,43,Male,Maharashtra,242958.27,Employed,Secondary,TRUE,Employment
+U744,User744,60,Female,Uttar Pradesh,443618.74,Employed,Graduate,TRUE,Employment
+U745,User745,33,LGBTQ+,Maharashtra,394906.69,Employed,Primary,FALSE,Study
+U746,User746,52,Female,West Bengal,86750.55,Unemployed,Secondary,TRUE,Study
+U747,User747,55,LGBTQ+,West Bengal,352891.56,Employed,Secondary,FALSE,Study
+U748,User748,31,Female,Rajasthan,265631.17,Employed,Postgraduate,TRUE,Employment
+U749,User749,47,Female,Uttar Pradesh,125187.78,Employed,Secondary,FALSE,Employment
+U750,User750,51,Male,West Bengal,182232.3,Employed,Primary,TRUE,Study
+U751,User751,39,Female,Uttar Pradesh,164830.41,Employed,Primary,FALSE,Study
+U752,User752,49,LGBTQ+,West Bengal,235102.26,Employed,Postgraduate,FALSE,Employment
+U753,User753,51,Female,West Bengal,195895.78,Employed,Primary,TRUE,Study
+U754,User754,51,Male,West Bengal,43986.39,Unemployed,Secondary,TRUE,Employment
+U755,User755,28,LGBTQ+,Tamil Nadu,43608.36,Unemployed,Primary,FALSE,Health
+U756,User756,45,LGBTQ+,West Bengal,171954.37,Employed,Graduate,TRUE,Study
+U757,User757,35,Female,Rajasthan,449099.68,Unemployed,Secondary,TRUE,Health
+U758,User758,22,LGBTQ+,Uttar Pradesh,121026.35,Unemployed,Secondary,TRUE,Study
+U759,User759,57,Male,Rajasthan,418564.69,Unemployed,Secondary,FALSE,Health
+U760,User760,57,Female,Uttar Pradesh,283496.84,Unemployed,Secondary,FALSE,Employment
+U761,User761,24,Female,Uttar Pradesh,248406.38,Unemployed,Postgraduate,FALSE,Employment
+U762,User762,49,Male,Maharashtra,194228.66,Employed,Graduate,TRUE,Employment
+U763,User763,57,Male,Uttar Pradesh,492117.71,Employed,Graduate,TRUE,Employment
+U764,User764,27,LGBTQ+,Uttar Pradesh,440580.91,Unemployed,Graduate,TRUE,Health
+U765,User765,26,Male,Uttar Pradesh,475193.45,Unemployed,Graduate,TRUE,Health
+U766,User766,54,Male,Uttar Pradesh,443970.23,Unemployed,Graduate,FALSE,Employment
+U767,User767,60,Female,Uttar Pradesh,275670.29,Employed,Primary,TRUE,Employment
+U768,User768,58,Male,West Bengal,197874.86,Employed,Postgraduate,TRUE,Employment
+U769,User769,52,Male,West Bengal,29420.59,Employed,Primary,FALSE,Employment
+U770,User770,35,LGBTQ+,West Bengal,273552.75,Employed,Postgraduate,FALSE,Study
+U771,User771,35,Female,Tamil Nadu,255836.82,Unemployed,Graduate,FALSE,Study
+U772,User772,25,LGBTQ+,Tamil Nadu,104838.51,Unemployed,Primary,FALSE,Health
+U773,User773,28,LGBTQ+,Tamil Nadu,304143.76,Unemployed,Postgraduate,FALSE,Employment
+U774,User774,54,Female,West Bengal,293634.88,Unemployed,Postgraduate,TRUE,Employment
+U775,User775,43,Male,Uttar Pradesh,33095.92,Employed,Postgraduate,FALSE,Study
+U776,User776,54,LGBTQ+,Maharashtra,149712.44,Employed,Graduate,FALSE,Health
+U777,User777,60,LGBTQ+,Maharashtra,313831.39,Employed,Primary,TRUE,Health
+U778,User778,36,LGBTQ+,West Bengal,236050.91,Unemployed,Graduate,TRUE,Health
+U779,User779,18,Female,Rajasthan,101043.7,Unemployed,Graduate,FALSE,Study
+U780,User780,18,Male,Uttar Pradesh,321638.25,Employed,Graduate,TRUE,Health
+U781,User781,18,Male,Rajasthan,354021.83,Employed,Primary,TRUE,Health
+U782,User782,58,LGBTQ+,Tamil Nadu,133586.58,Employed,Secondary,FALSE,Employment
+U783,User783,45,LGBTQ+,Maharashtra,319775.13,Employed,Graduate,TRUE,Health
+U784,User784,45,Female,West Bengal,444545.46,Employed,Postgraduate,FALSE,Health
+U785,User785,60,Female,West Bengal,259017.99,Employed,Secondary,TRUE,Employment
+U786,User786,49,LGBTQ+,West Bengal,78278.09,Employed,Postgraduate,TRUE,Employment
+U787,User787,36,Female,Rajasthan,266210.11,Unemployed,Secondary,FALSE,Study
+U788,User788,20,LGBTQ+,West Bengal,237605.75,Employed,Secondary,TRUE,Employment
+U789,User789,53,LGBTQ+,Rajasthan,82721.57,Employed,Postgraduate,FALSE,Study
+U790,User790,58,LGBTQ+,Maharashtra,447382.38,Unemployed,Graduate,FALSE,Study
+U791,User791,52,Female,Rajasthan,481210.91,Employed,Secondary,TRUE,Employment
+U792,User792,55,Male,Rajasthan,395084.7,Unemployed,Primary,TRUE,Study
+U793,User793,56,Male,Uttar Pradesh,53236.23,Unemployed,Primary,FALSE,Health
+U794,User794,49,LGBTQ+,Maharashtra,354844.49,Unemployed,Secondary,TRUE,Employment
+U795,User795,31,LGBTQ+,Maharashtra,216667.26,Unemployed,Postgraduate,FALSE,Employment
+U796,User796,44,Male,Tamil Nadu,173320.05,Unemployed,Postgraduate,TRUE,Study
+U797,User797,23,Female,Rajasthan,478345.18,Employed,Graduate,FALSE,Employment
+U798,User798,41,LGBTQ+,West Bengal,40014.07,Unemployed,Primary,TRUE,Study
+U799,User799,20,LGBTQ+,Rajasthan,199587.23,Employed,Secondary,TRUE,Study
+U800,User800,42,LGBTQ+,Uttar Pradesh,460644.76,Employed,Graduate,TRUE,Health
+U801,User801,33,LGBTQ+,Rajasthan,74056.32,Employed,Primary,TRUE,Employment
+U802,User802,33,Male,Maharashtra,262547.83,Unemployed,Primary,FALSE,Employment
+U803,User803,25,LGBTQ+,Maharashtra,110733.75,Unemployed,Graduate,FALSE,Study
+U804,User804,43,Female,Maharashtra,192673.95,Employed,Primary,FALSE,Employment
+U805,User805,34,Male,Tamil Nadu,385310.87,Unemployed,Graduate,TRUE,Employment
+U806,User806,18,LGBTQ+,Rajasthan,64314.14,Unemployed,Primary,TRUE,Health
+U807,User807,54,LGBTQ+,Maharashtra,134279.4,Employed,Primary,FALSE,Health
+U808,User808,55,LGBTQ+,Maharashtra,105545.36,Unemployed,Graduate,FALSE,Health
+U809,User809,38,Female,Maharashtra,151109.21,Unemployed,Graduate,FALSE,Health
+U810,User810,29,Female,Uttar Pradesh,384710.65,Employed,Postgraduate,TRUE,Study
+U811,User811,39,Female,Rajasthan,495439.49,Employed,Graduate,FALSE,Study
+U812,User812,56,Female,Uttar Pradesh,206255.26,Unemployed,Postgraduate,TRUE,Study
+U813,User813,22,Male,Rajasthan,200664.01,Unemployed,Graduate,FALSE,Health
+U814,User814,32,LGBTQ+,Maharashtra,56896.04,Employed,Secondary,TRUE,Health
+U815,User815,27,LGBTQ+,Uttar Pradesh,410670.32,Employed,Graduate,FALSE,Health
+U816,User816,44,LGBTQ+,Tamil Nadu,88823.21,Unemployed,Postgraduate,FALSE,Study
+U817,User817,20,Female,Uttar Pradesh,484575.45,Unemployed,Primary,FALSE,Health
+U818,User818,26,LGBTQ+,Maharashtra,252694.48,Employed,Primary,TRUE,Employment
+U819,User819,55,Female,Uttar Pradesh,55964.91,Unemployed,Primary,FALSE,Health
+U820,User820,27,LGBTQ+,Rajasthan,110111.33,Unemployed,Secondary,TRUE,Study
+U821,User821,56,Female,Tamil Nadu,306942.82,Unemployed,Secondary,FALSE,Employment
+U822,User822,27,LGBTQ+,Rajasthan,279505.29,Employed,Postgraduate,FALSE,Health
+U823,User823,53,Male,Uttar Pradesh,377729.73,Employed,Secondary,TRUE,Health
+U824,User824,44,Female,Rajasthan,194418.92,Unemployed,Postgraduate,TRUE,Employment
+U825,User825,52,LGBTQ+,West Bengal,71660.01,Unemployed,Postgraduate,TRUE,Employment
+U826,User826,53,Male,Rajasthan,482100.1,Employed,Primary,TRUE,Health
+U827,User827,29,LGBTQ+,Uttar Pradesh,401116.14,Unemployed,Postgraduate,TRUE,Employment
+U828,User828,51,LGBTQ+,Uttar Pradesh,342894,Unemployed,Postgraduate,TRUE,Employment
+U829,User829,48,LGBTQ+,Rajasthan,377667.55,Unemployed,Graduate,TRUE,Study
+U830,User830,24,Female,Maharashtra,172441.14,Employed,Primary,FALSE,Health
+U831,User831,25,LGBTQ+,Tamil Nadu,363477.47,Employed,Primary,FALSE,Study
+U832,User832,29,LGBTQ+,Tamil Nadu,263126.08,Unemployed,Primary,FALSE,Employment
+U833,User833,18,LGBTQ+,Tamil Nadu,497043.63,Employed,Secondary,FALSE,Health
+U834,User834,27,Male,Rajasthan,35767.28,Unemployed,Postgraduate,FALSE,Health
+U835,User835,27,LGBTQ+,Maharashtra,209428.33,Unemployed,Secondary,FALSE,Health
+U836,User836,40,Female,Uttar Pradesh,378388.41,Unemployed,Postgraduate,FALSE,Employment
+U837,User837,18,LGBTQ+,Maharashtra,169677.34,Unemployed,Postgraduate,TRUE,Employment
+U838,User838,36,Female,Tamil Nadu,383770.02,Unemployed,Primary,FALSE,Employment
+U839,User839,52,Male,Uttar Pradesh,70134.93,Employed,Postgraduate,TRUE,Study
+U840,User840,42,LGBTQ+,Rajasthan,135054.19,Employed,Postgraduate,TRUE,Health
+U841,User841,34,Male,Tamil Nadu,379710.06,Employed,Graduate,TRUE,Health
+U842,User842,42,LGBTQ+,Rajasthan,391292.1,Unemployed,Postgraduate,FALSE,Health
+U843,User843,54,Female,Tamil Nadu,22130.44,Unemployed,Primary,TRUE,Employment
+U844,User844,30,LGBTQ+,Maharashtra,125279.32,Employed,Postgraduate,TRUE,Employment
+U845,User845,33,Male,Tamil Nadu,24939.48,Employed,Postgraduate,TRUE,Study
+U846,User846,60,Female,Tamil Nadu,222964.94,Unemployed,Secondary,FALSE,Study
+U847,User847,39,Female,West Bengal,469707.33,Employed,Secondary,TRUE,Health
+U848,User848,37,Female,Rajasthan,406819.57,Unemployed,Primary,TRUE,Employment
+U849,User849,21,Male,Rajasthan,403016.94,Employed,Secondary,TRUE,Study
+U850,User850,19,Male,Maharashtra,244831.12,Unemployed,Graduate,FALSE,Health
+U851,User851,47,LGBTQ+,Tamil Nadu,32335.98,Unemployed,Graduate,TRUE,Study
+U852,User852,55,LGBTQ+,Tamil Nadu,50515.57,Unemployed,Graduate,TRUE,Employment
+U853,User853,43,LGBTQ+,Maharashtra,100944.86,Employed,Secondary,FALSE,Employment
+U854,User854,25,LGBTQ+,Rajasthan,131642.99,Employed,Graduate,FALSE,Health
+U855,User855,26,Female,Rajasthan,108892.24,Unemployed,Secondary,TRUE,Health
+U856,User856,45,LGBTQ+,Tamil Nadu,292343.15,Employed,Postgraduate,FALSE,Study
+U857,User857,27,LGBTQ+,Uttar Pradesh,283572.44,Employed,Secondary,TRUE,Study
+U858,User858,47,Female,Uttar Pradesh,159462.32,Unemployed,Postgraduate,TRUE,Employment
+U859,User859,54,Male,Uttar Pradesh,100670.96,Employed,Primary,TRUE,Employment
+U860,User860,56,Male,West Bengal,124789.64,Employed,Secondary,TRUE,Health
+U861,User861,25,Female,Uttar Pradesh,440330.69,Employed,Primary,FALSE,Study
+U862,User862,20,Male,West Bengal,485688.37,Employed,Postgraduate,TRUE,Study
+U863,User863,50,Male,Maharashtra,102680.55,Employed,Graduate,FALSE,Study
+U864,User864,54,LGBTQ+,Maharashtra,486218.59,Employed,Postgraduate,TRUE,Health
+U865,User865,26,Female,Uttar Pradesh,247925.83,Unemployed,Postgraduate,FALSE,Employment
+U866,User866,55,Female,Tamil Nadu,254161.94,Employed,Graduate,TRUE,Employment
+U867,User867,20,Male,Rajasthan,154057.63,Unemployed,Postgraduate,TRUE,Health
+U868,User868,30,Male,West Bengal,75858.22,Unemployed,Primary,FALSE,Study
+U869,User869,21,LGBTQ+,Tamil Nadu,85593.96,Unemployed,Postgraduate,FALSE,Study
+U870,User870,36,Female,Maharashtra,59856.28,Employed,Postgraduate,TRUE,Health
+U871,User871,58,LGBTQ+,Maharashtra,358906.98,Unemployed,Graduate,TRUE,Health
+U872,User872,50,LGBTQ+,Maharashtra,76140.04,Employed,Postgraduate,FALSE,Health
+U873,User873,38,Male,Maharashtra,60154.24,Unemployed,Secondary,TRUE,Employment
+U874,User874,18,Male,Tamil Nadu,393420.88,Employed,Primary,TRUE,Study
+U875,User875,55,Female,Rajasthan,313177.22,Employed,Graduate,FALSE,Employment
+U876,User876,60,Female,West Bengal,335386.13,Employed,Secondary,FALSE,Health
+U877,User877,19,Female,Rajasthan,311991.25,Employed,Graduate,TRUE,Study
+U878,User878,25,Male,Uttar Pradesh,417025.47,Employed,Secondary,TRUE,Health
+U879,User879,25,Female,Uttar Pradesh,332135.55,Employed,Secondary,TRUE,Employment
+U880,User880,57,Male,Rajasthan,246306.1,Unemployed,Secondary,TRUE,Employment
+U881,User881,40,Male,Rajasthan,110463.07,Employed,Graduate,FALSE,Health
+U882,User882,49,Male,West Bengal,496693.43,Unemployed,Primary,TRUE,Employment
+U883,User883,25,Female,West Bengal,193264.29,Unemployed,Secondary,TRUE,Health
+U884,User884,37,LGBTQ+,West Bengal,101465.02,Employed,Primary,TRUE,Health
+U885,User885,19,Male,Rajasthan,107435.81,Employed,Primary,FALSE,Study
+U886,User886,35,Female,Tamil Nadu,411840.84,Unemployed,Primary,FALSE,Employment
+U887,User887,42,Female,Rajasthan,218614.86,Unemployed,Postgraduate,TRUE,Study
+U888,User888,26,Male,Tamil Nadu,338947.5,Unemployed,Postgraduate,TRUE,Employment
+U889,User889,27,Female,Uttar Pradesh,389046.56,Employed,Graduate,FALSE,Study
+U890,User890,47,Male,West Bengal,431234.34,Employed,Primary,FALSE,Study
+U891,User891,35,Female,Maharashtra,320748.17,Unemployed,Postgraduate,TRUE,Study
+U892,User892,48,Female,Rajasthan,171319.18,Unemployed,Graduate,FALSE,Health
+U893,User893,26,Female,West Bengal,30391.53,Unemployed,Secondary,TRUE,Health
+U894,User894,59,Male,Tamil Nadu,35697.54,Unemployed,Secondary,FALSE,Health
+U895,User895,37,Female,Uttar Pradesh,319007.18,Unemployed,Graduate,TRUE,Study
+U896,User896,36,Female,Rajasthan,443078.26,Unemployed,Postgraduate,FALSE,Health
+U897,User897,54,Male,Rajasthan,42847.76,Employed,Graduate,FALSE,Employment
+U898,User898,52,LGBTQ+,West Bengal,401480.9,Unemployed,Postgraduate,TRUE,Health
+U899,User899,39,Male,Uttar Pradesh,278489.05,Employed,Primary,TRUE,Health
+U900,User900,18,LGBTQ+,West Bengal,279162.6,Unemployed,Graduate,TRUE,Study
+U901,User901,25,LGBTQ+,Uttar Pradesh,447596.33,Employed,Graduate,TRUE,Employment
+U902,User902,18,LGBTQ+,Tamil Nadu,125661.19,Employed,Secondary,TRUE,Health
+U903,User903,60,LGBTQ+,Uttar Pradesh,379105.02,Employed,Postgraduate,TRUE,Study
+U904,User904,54,LGBTQ+,West Bengal,150041.52,Employed,Graduate,FALSE,Health
+U905,User905,38,Female,Rajasthan,328072.28,Employed,Postgraduate,TRUE,Employment
+U906,User906,32,Female,Tamil Nadu,177684.02,Unemployed,Postgraduate,TRUE,Study
+U907,User907,47,LGBTQ+,Tamil Nadu,460583.06,Unemployed,Primary,FALSE,Employment
+U908,User908,32,LGBTQ+,Uttar Pradesh,397273.6,Unemployed,Secondary,TRUE,Study
+U909,User909,47,Male,West Bengal,214054.51,Unemployed,Secondary,TRUE,Study
+U910,User910,34,Female,West Bengal,463055.66,Unemployed,Secondary,TRUE,Study
+U911,User911,32,Male,Tamil Nadu,161572.1,Employed,Postgraduate,TRUE,Study
+U912,User912,19,Male,West Bengal,331028.38,Unemployed,Primary,TRUE,Study
+U913,User913,28,Female,Rajasthan,220382.91,Employed,Graduate,TRUE,Study
+U914,User914,20,Male,Tamil Nadu,308458.53,Unemployed,Secondary,TRUE,Employment
+U915,User915,34,Male,West Bengal,95896.04,Employed,Postgraduate,TRUE,Employment
+U916,User916,46,Female,Rajasthan,447154.02,Unemployed,Graduate,FALSE,Employment
+U917,User917,22,Female,Rajasthan,66201.3,Unemployed,Secondary,TRUE,Study
+U918,User918,57,Male,Tamil Nadu,499067.18,Unemployed,Primary,FALSE,Employment
+U919,User919,29,Female,Uttar Pradesh,479408.5,Employed,Postgraduate,TRUE,Health
+U920,User920,38,LGBTQ+,Uttar Pradesh,423889.4,Employed,Graduate,FALSE,Study
+U921,User921,58,Male,Maharashtra,103492.94,Employed,Primary,FALSE,Study
+U922,User922,60,Male,Tamil Nadu,475784.81,Unemployed,Graduate,TRUE,Employment
+U923,User923,30,Female,Rajasthan,447905.93,Unemployed,Primary,TRUE,Employment
+U924,User924,39,Male,West Bengal,196328.69,Unemployed,Graduate,FALSE,Study
+U925,User925,40,LGBTQ+,Tamil Nadu,104926.48,Unemployed,Postgraduate,FALSE,Employment
+U926,User926,39,LGBTQ+,West Bengal,433748.65,Employed,Graduate,TRUE,Employment
+U927,User927,23,Female,Tamil Nadu,213044.04,Unemployed,Primary,TRUE,Employment
+U928,User928,39,Female,Maharashtra,323677.12,Unemployed,Graduate,TRUE,Study
+U929,User929,51,Female,West Bengal,285562,Unemployed,Postgraduate,TRUE,Employment
+U930,User930,35,LGBTQ+,Tamil Nadu,380545.62,Unemployed,Graduate,FALSE,Health
+U931,User931,44,Male,Rajasthan,42907.36,Unemployed,Graduate,TRUE,Employment
+U932,User932,56,Male,Maharashtra,373365.66,Unemployed,Secondary,TRUE,Study
+U933,User933,35,LGBTQ+,Rajasthan,330310.08,Employed,Primary,TRUE,Health
+U934,User934,38,Male,Uttar Pradesh,171790.57,Employed,Postgraduate,FALSE,Health
+U935,User935,37,Male,Rajasthan,25280.25,Unemployed,Postgraduate,FALSE,Study
+U936,User936,51,Male,Rajasthan,384055.83,Employed,Secondary,FALSE,Study
+U937,User937,48,LGBTQ+,Rajasthan,56285.3,Unemployed,Postgraduate,TRUE,Study
+U938,User938,51,LGBTQ+,West Bengal,422980.25,Employed,Postgraduate,TRUE,Study
+U939,User939,47,Male,West Bengal,75242.06,Unemployed,Primary,FALSE,Health
+U940,User940,48,Male,Uttar Pradesh,255077.82,Unemployed,Secondary,FALSE,Health
+U941,User941,44,LGBTQ+,Maharashtra,298888.19,Employed,Secondary,FALSE,Study
+U942,User942,32,LGBTQ+,Uttar Pradesh,323789.28,Employed,Secondary,TRUE,Health
+U943,User943,31,Female,West Bengal,116498.03,Employed,Postgraduate,TRUE,Health
+U944,User944,24,Female,Uttar Pradesh,90776.67,Employed,Postgraduate,TRUE,Health
+U945,User945,55,LGBTQ+,Tamil Nadu,491126.78,Unemployed,Graduate,FALSE,Health
+U946,User946,21,Female,West Bengal,300986.75,Employed,Graduate,TRUE,Employment
+U947,User947,22,Male,Maharashtra,275549.04,Employed,Secondary,TRUE,Health
+U948,User948,45,Male,Tamil Nadu,353192.63,Employed,Secondary,FALSE,Employment
+U949,User949,40,Female,Tamil Nadu,251803.29,Unemployed,Secondary,FALSE,Employment
+U950,User950,33,Female,Uttar Pradesh,214964,Employed,Graduate,TRUE,Employment
+U951,User951,23,Male,West Bengal,286032.75,Unemployed,Secondary,FALSE,Health
+U952,User952,40,LGBTQ+,West Bengal,243750.27,Unemployed,Postgraduate,TRUE,Employment
+U953,User953,59,Male,Uttar Pradesh,240042.72,Employed,Primary,TRUE,Health
+U954,User954,20,Female,Maharashtra,324002.49,Unemployed,Secondary,FALSE,Health
+U955,User955,32,Male,Rajasthan,227532.28,Employed,Primary,TRUE,Study
+U956,User956,38,LGBTQ+,Uttar Pradesh,131299.06,Unemployed,Secondary,FALSE,Employment
+U957,User957,27,Male,Maharashtra,259780.92,Unemployed,Primary,FALSE,Employment
+U958,User958,31,Female,Rajasthan,238685.43,Unemployed,Postgraduate,FALSE,Health
+U959,User959,30,Female,Rajasthan,425580.31,Unemployed,Postgraduate,FALSE,Health
+U960,User960,44,LGBTQ+,Rajasthan,364618.35,Unemployed,Graduate,TRUE,Employment
+U961,User961,43,LGBTQ+,Tamil Nadu,122043.21,Employed,Secondary,FALSE,Health
+U962,User962,39,LGBTQ+,West Bengal,372586.51,Unemployed,Primary,FALSE,Employment
+U963,User963,45,Female,Uttar Pradesh,187738.69,Employed,Primary,FALSE,Health
+U964,User964,34,Female,Uttar Pradesh,434433.42,Employed,Primary,TRUE,Employment
+U965,User965,26,Male,Maharashtra,450957.34,Unemployed,Graduate,TRUE,Study
+U966,User966,32,LGBTQ+,Uttar Pradesh,74191.05,Unemployed,Secondary,FALSE,Study
+U967,User967,44,Male,Tamil Nadu,451641.26,Employed,Secondary,FALSE,Employment
+U968,User968,45,Male,Rajasthan,61439.1,Unemployed,Graduate,TRUE,Health
+U969,User969,45,LGBTQ+,Maharashtra,436429.61,Employed,Primary,TRUE,Study
+U970,User970,42,Female,Uttar Pradesh,336190.9,Employed,Secondary,FALSE,Study
+U971,User971,52,LGBTQ+,Uttar Pradesh,224880.78,Unemployed,Graduate,FALSE,Employment
+U972,User972,22,Male,West Bengal,45390.34,Employed,Postgraduate,TRUE,Health
+U973,User973,60,Male,Rajasthan,387070.42,Employed,Postgraduate,FALSE,Health
+U974,User974,49,Female,Uttar Pradesh,329463.81,Unemployed,Secondary,FALSE,Health
+U975,User975,48,LGBTQ+,West Bengal,182396.5,Employed,Graduate,FALSE,Study
+U976,User976,35,Female,West Bengal,471202.41,Employed,Secondary,FALSE,Study
+U977,User977,28,Female,Rajasthan,434933.32,Employed,Postgraduate,TRUE,Employment
+U978,User978,46,LGBTQ+,Tamil Nadu,65402.54,Employed,Primary,FALSE,Study
+U979,User979,55,Male,West Bengal,116544.94,Employed,Postgraduate,TRUE,Health
+U980,User980,47,LGBTQ+,Uttar Pradesh,253111.58,Employed,Graduate,TRUE,Health
+U981,User981,34,Male,Maharashtra,455651.67,Employed,Secondary,TRUE,Study
+U982,User982,45,LGBTQ+,Uttar Pradesh,339005.26,Employed,Secondary,FALSE,Health
+U983,User983,36,LGBTQ+,Tamil Nadu,93013.16,Unemployed,Primary,FALSE,Employment
+U984,User984,40,Female,Maharashtra,245806.37,Unemployed,Primary,TRUE,Study
+U985,User985,60,Female,Rajasthan,411847.73,Unemployed,Graduate,TRUE,Study
+U986,User986,43,Male,Maharashtra,83630.01,Unemployed,Secondary,TRUE,Study
+U987,User987,52,LGBTQ+,Rajasthan,131501.9,Employed,Postgraduate,FALSE,Health
+U988,User988,20,Male,Rajasthan,235078.83,Unemployed,Graduate,TRUE,Health
+U989,User989,43,Female,Rajasthan,217788.25,Unemployed,Graduate,TRUE,Employment
+U990,User990,25,LGBTQ+,Uttar Pradesh,468834.33,Unemployed,Postgraduate,TRUE,Health
+U991,User991,52,Female,West Bengal,484296.49,Employed,Postgraduate,TRUE,Employment
+U992,User992,39,Male,Rajasthan,361850.4,Unemployed,Primary,FALSE,Employment
+U993,User993,39,LGBTQ+,Tamil Nadu,98647.63,Unemployed,Primary,FALSE,Health
+U994,User994,33,Male,West Bengal,106516.65,Employed,Postgraduate,TRUE,Employment
+U995,User995,48,LGBTQ+,Rajasthan,121585.87,Unemployed,Secondary,FALSE,Study
+U996,User996,35,Female,Rajasthan,386827.02,Unemployed,Secondary,FALSE,Employment
+U997,User997,42,Male,Maharashtra,95835.86,Unemployed,Graduate,TRUE,Employment
+U998,User998,29,LGBTQ+,Maharashtra,417749.44,Unemployed,Graduate,FALSE,Health
+U999,User999,26,Male,Tamil Nadu,296608.51,Employed,Secondary,FALSE,Employment
+U1000,User1000,28,Male,West Bengal,210388.18,Unemployed,Primary,FALSE,Study
+U1001,User1001,43,Female,Maharashtra,201746.67,Unemployed,Primary,FALSE,Study
+U1002,User1002,52,LGBTQ+,West Bengal,45468.93,Employed,Secondary,TRUE,Study
+U1003,User1003,32,Female,Rajasthan,338110.21,Unemployed,Secondary,TRUE,Employment
+U1004,User1004,40,Female,Rajasthan,328326.55,Employed,Postgraduate,TRUE,Health
+U1005,User1005,28,Male,Tamil Nadu,496091.69,Unemployed,Secondary,TRUE,Health
+U1006,User1006,21,Female,West Bengal,360999.29,Unemployed,Graduate,FALSE,Health
+U1007,User1007,36,Male,Maharashtra,93397.39,Unemployed,Graduate,FALSE,Study
+U1008,User1008,40,LGBTQ+,Tamil Nadu,239887.93,Unemployed,Postgraduate,FALSE,Study
+U1009,User1009,29,Female,Maharashtra,149773.34,Employed,Primary,FALSE,Study
+U1010,User1010,45,Female,Uttar Pradesh,494756.84,Employed,Secondary,TRUE,Study
+U1011,User1011,27,LGBTQ+,Maharashtra,67012.22,Employed,Secondary,FALSE,Health
+U1012,User1012,28,Female,Tamil Nadu,57591.86,Unemployed,Primary,TRUE,Study
+U1013,User1013,39,LGBTQ+,Tamil Nadu,174807.09,Employed,Postgraduate,FALSE,Employment
+U1014,User1014,25,Female,Rajasthan,442955.55,Employed,Postgraduate,FALSE,Health
+U1015,User1015,57,Male,Tamil Nadu,380084.66,Employed,Postgraduate,FALSE,Health
+U1016,User1016,25,LGBTQ+,Tamil Nadu,70182.22,Employed,Postgraduate,TRUE,Study
+U1017,User1017,48,LGBTQ+,Uttar Pradesh,384822.51,Unemployed,Postgraduate,TRUE,Study
+U1018,User1018,44,Female,West Bengal,26012.52,Unemployed,Postgraduate,FALSE,Health
+U1019,User1019,25,LGBTQ+,West Bengal,130589.15,Unemployed,Graduate,FALSE,Health
+U1020,User1020,60,Male,Maharashtra,83989.4,Employed,Primary,TRUE,Employment
+U1021,User1021,24,Male,Uttar Pradesh,479800.38,Unemployed,Graduate,FALSE,Health
+U1022,User1022,26,Male,Uttar Pradesh,440793.38,Unemployed,Secondary,TRUE,Employment
+U1023,User1023,35,LGBTQ+,Tamil Nadu,432041.68,Employed,Primary,TRUE,Employment
+U1024,User1024,43,Male,Rajasthan,373362.32,Unemployed,Postgraduate,TRUE,Employment
+U1025,User1025,51,Female,West Bengal,330465.24,Unemployed,Postgraduate,TRUE,Employment
+U1026,User1026,34,Female,Tamil Nadu,272125.42,Employed,Graduate,TRUE,Employment
+U1027,User1027,18,Male,Rajasthan,321205.94,Unemployed,Graduate,FALSE,Study
+U1028,User1028,38,LGBTQ+,Rajasthan,146545.45,Unemployed,Graduate,TRUE,Study
+U1029,User1029,53,Male,West Bengal,168408.57,Unemployed,Secondary,TRUE,Health
+U1030,User1030,49,Male,Tamil Nadu,49699.87,Unemployed,Postgraduate,TRUE,Employment
+U1031,User1031,35,Male,Uttar Pradesh,389890.57,Unemployed,Primary,TRUE,Study
+U1032,User1032,60,LGBTQ+,West Bengal,113002.84,Employed,Postgraduate,TRUE,Health
+U1033,User1033,41,Male,Rajasthan,345474.54,Employed,Secondary,FALSE,Employment
+U1034,User1034,38,Male,Maharashtra,464452.99,Employed,Secondary,TRUE,Health
+U1035,User1035,43,Male,Rajasthan,453736.2,Employed,Postgraduate,TRUE,Health
+U1036,User1036,57,Female,Uttar Pradesh,418820.37,Unemployed,Graduate,FALSE,Study
+U1037,User1037,37,LGBTQ+,West Bengal,490077.52,Employed,Primary,FALSE,Health
+U1038,User1038,23,Female,Maharashtra,121198.68,Unemployed,Primary,TRUE,Employment
+U1039,User1039,31,Male,Uttar Pradesh,441543.19,Unemployed,Secondary,TRUE,Health
+U1040,User1040,54,Male,Rajasthan,98732.31,Unemployed,Primary,FALSE,Health
+U1041,User1041,55,Male,West Bengal,351417.56,Employed,Graduate,TRUE,Study
+U1042,User1042,47,Male,Tamil Nadu,140123.31,Unemployed,Graduate,TRUE,Health
+U1043,User1043,35,Male,Rajasthan,223907.2,Unemployed,Postgraduate,FALSE,Study
+U1044,User1044,19,Female,Uttar Pradesh,345758.3,Unemployed,Secondary,TRUE,Health
+U1045,User1045,57,Female,Maharashtra,273456.13,Employed,Secondary,FALSE,Employment
+U1046,User1046,18,LGBTQ+,Uttar Pradesh,55089.46,Unemployed,Secondary,TRUE,Study
+U1047,User1047,48,LGBTQ+,Maharashtra,172392.45,Employed,Graduate,FALSE,Employment
+U1048,User1048,23,Female,Tamil Nadu,57230.79,Employed,Graduate,FALSE,Employment
+U1049,User1049,21,Male,Tamil Nadu,411330.72,Unemployed,Graduate,TRUE,Health
+U1050,User1050,32,LGBTQ+,Uttar Pradesh,339624.18,Unemployed,Graduate,TRUE,Health
+U1051,User1051,23,Male,Tamil Nadu,322925.57,Employed,Primary,TRUE,Health
+U1052,User1052,28,Female,Uttar Pradesh,439825.6,Employed,Primary,FALSE,Study
+U1053,User1053,18,Female,Maharashtra,159287.57,Unemployed,Primary,TRUE,Health
+U1054,User1054,22,LGBTQ+,Rajasthan,176873.11,Unemployed,Graduate,TRUE,Study
+U1055,User1055,18,Female,Maharashtra,116486.17,Unemployed,Primary,FALSE,Health
+U1056,User1056,54,Male,Tamil Nadu,88560.67,Unemployed,Secondary,TRUE,Study
+U1057,User1057,34,Male,West Bengal,216009.9,Employed,Primary,FALSE,Health
+U1058,User1058,52,LGBTQ+,Uttar Pradesh,323554.47,Unemployed,Postgraduate,FALSE,Health
+U1059,User1059,47,Male,Tamil Nadu,392145.23,Unemployed,Postgraduate,TRUE,Employment
+U1060,User1060,18,LGBTQ+,Uttar Pradesh,107370.87,Unemployed,Graduate,TRUE,Study
+U1061,User1061,24,Female,West Bengal,498801.46,Employed,Primary,FALSE,Study
+U1062,User1062,32,Male,Maharashtra,34164.07,Unemployed,Graduate,TRUE,Employment
+U1063,User1063,29,LGBTQ+,Tamil Nadu,307524.27,Employed,Graduate,TRUE,Employment
+U1064,User1064,42,Female,Uttar Pradesh,484913.38,Unemployed,Primary,FALSE,Study
+U1065,User1065,57,Female,Tamil Nadu,30111.23,Unemployed,Primary,TRUE,Study
+U1066,User1066,32,Male,Uttar Pradesh,195949.35,Unemployed,Secondary,TRUE,Study
+U1067,User1067,58,Female,Rajasthan,27547.82,Employed,Secondary,TRUE,Health
+U1068,User1068,46,LGBTQ+,Rajasthan,87439.13,Employed,Postgraduate,TRUE,Employment
+U1069,User1069,47,Male,Maharashtra,78543.56,Employed,Secondary,FALSE,Study
+U1070,User1070,38,Male,Uttar Pradesh,76927.85,Employed,Secondary,TRUE,Study
+U1071,User1071,35,Male,Rajasthan,224505.82,Unemployed,Graduate,TRUE,Study
+U1072,User1072,51,Male,Tamil Nadu,152043.22,Unemployed,Postgraduate,TRUE,Employment
+U1073,User1073,35,Male,West Bengal,220940.16,Unemployed,Secondary,TRUE,Study
+U1074,User1074,21,Male,Rajasthan,341706.59,Employed,Graduate,FALSE,Employment
+U1075,User1075,28,Female,Maharashtra,241966.61,Employed,Postgraduate,FALSE,Health
+U1076,User1076,34,Female,Rajasthan,466258.92,Employed,Primary,TRUE,Health
+U1077,User1077,32,Female,Rajasthan,214843.63,Employed,Postgraduate,TRUE,Health
+U1078,User1078,18,LGBTQ+,West Bengal,290240.1,Employed,Postgraduate,FALSE,Employment
+U1079,User1079,23,Male,West Bengal,332929.23,Employed,Postgraduate,FALSE,Study
+U1080,User1080,39,Male,Maharashtra,483539.87,Employed,Primary,FALSE,Health
+U1081,User1081,48,Female,Maharashtra,451786.19,Unemployed,Postgraduate,TRUE,Health
+U1082,User1082,50,Female,Tamil Nadu,315935.32,Unemployed,Secondary,FALSE,Study
+U1083,User1083,53,Female,Uttar Pradesh,225553.77,Unemployed,Postgraduate,TRUE,Health
+U1084,User1084,30,Female,Rajasthan,54159.51,Employed,Secondary,FALSE,Health
+U1085,User1085,27,Male,Tamil Nadu,48319.04,Employed,Secondary,TRUE,Employment
+U1086,User1086,19,Female,Uttar Pradesh,107525.13,Employed,Primary,TRUE,Study
+U1087,User1087,19,Female,Maharashtra,431057.55,Employed,Postgraduate,FALSE,Employment
+U1088,User1088,60,Male,West Bengal,359583.32,Employed,Postgraduate,FALSE,Health
+U1089,User1089,35,Male,West Bengal,169987.21,Employed,Postgraduate,TRUE,Employment
+U1090,User1090,40,LGBTQ+,Tamil Nadu,168385.71,Unemployed,Secondary,FALSE,Study
+U1091,User1091,32,Male,Rajasthan,271059.61,Unemployed,Postgraduate,TRUE,Study
+U1092,User1092,45,Male,West Bengal,459037.54,Unemployed,Primary,FALSE,Employment
+U1093,User1093,46,Male,West Bengal,181214,Unemployed,Postgraduate,TRUE,Health
+U1094,User1094,60,Male,Uttar Pradesh,242346.61,Unemployed,Secondary,TRUE,Study
+U1095,User1095,41,LGBTQ+,Rajasthan,430510.66,Unemployed,Graduate,FALSE,Employment
+U1096,User1096,46,Male,Uttar Pradesh,449644.11,Employed,Postgraduate,FALSE,Employment
+U1097,User1097,31,Male,Rajasthan,290527.68,Employed,Secondary,FALSE,Employment
+U1098,User1098,22,Male,Uttar Pradesh,302582.86,Employed,Primary,FALSE,Health
+U1099,User1099,44,Male,Maharashtra,21411.31,Unemployed,Graduate,FALSE,Health
+U1100,User1100,52,Male,Maharashtra,307791.81,Unemployed,Graduate,TRUE,Employment
+U1101,User1101,57,Female,West Bengal,46066.86,Unemployed,Postgraduate,FALSE,Health
+U1102,User1102,44,Male,Uttar Pradesh,358139.13,Employed,Primary,TRUE,Employment
+U1103,User1103,22,LGBTQ+,Tamil Nadu,360743.36,Employed,Secondary,TRUE,Health
+U1104,User1104,44,Female,West Bengal,465107.55,Employed,Graduate,TRUE,Study
+U1105,User1105,45,Male,Tamil Nadu,244516.85,Unemployed,Primary,TRUE,Study
+U1106,User1106,43,Male,Tamil Nadu,114773.57,Employed,Postgraduate,FALSE,Study
+U1107,User1107,24,Male,Tamil Nadu,441745.66,Unemployed,Primary,FALSE,Health
+U1108,User1108,58,Male,Rajasthan,305300.96,Unemployed,Graduate,FALSE,Employment
+U1109,User1109,25,LGBTQ+,West Bengal,314223.79,Employed,Primary,TRUE,Employment
+U1110,User1110,57,Male,Tamil Nadu,186270.29,Employed,Primary,FALSE,Health
+U1111,User1111,18,Male,Uttar Pradesh,469257.11,Unemployed,Primary,FALSE,Employment
+U1112,User1112,49,LGBTQ+,Tamil Nadu,20358.9,Unemployed,Secondary,TRUE,Study
+U1113,User1113,47,Male,Uttar Pradesh,284989.86,Unemployed,Postgraduate,FALSE,Study
+U1114,User1114,18,LGBTQ+,Uttar Pradesh,89855.51,Employed,Primary,TRUE,Study
+U1115,User1115,26,Female,Uttar Pradesh,329554.28,Unemployed,Graduate,FALSE,Employment
+U1116,User1116,56,Female,Rajasthan,278663.45,Unemployed,Primary,TRUE,Study
+U1117,User1117,22,Male,Tamil Nadu,42374.94,Unemployed,Primary,TRUE,Health
+U1118,User1118,31,Female,West Bengal,128107.63,Employed,Postgraduate,TRUE,Employment
+U1119,User1119,41,LGBTQ+,West Bengal,101386.57,Employed,Postgraduate,TRUE,Employment
+U1120,User1120,27,Female,West Bengal,287558.99,Employed,Postgraduate,TRUE,Health
+U1121,User1121,22,Female,Maharashtra,99251.32,Employed,Secondary,FALSE,Health
+U1122,User1122,25,Male,Maharashtra,273141.02,Employed,Graduate,FALSE,Employment
+U1123,User1123,37,LGBTQ+,West Bengal,424448.81,Unemployed,Graduate,TRUE,Study
+U1124,User1124,33,Female,West Bengal,86051.36,Unemployed,Postgraduate,TRUE,Health
+U1125,User1125,48,Male,Rajasthan,308925.06,Employed,Secondary,FALSE,Study
+U1126,User1126,40,Female,Uttar Pradesh,192832.29,Unemployed,Postgraduate,TRUE,Employment
+U1127,User1127,35,LGBTQ+,Uttar Pradesh,213228.24,Employed,Graduate,TRUE,Study
+U1128,User1128,43,Male,Maharashtra,453681.25,Employed,Graduate,TRUE,Employment
+U1129,User1129,34,Male,Tamil Nadu,414313.72,Unemployed,Primary,FALSE,Employment
+U1130,User1130,22,Male,Maharashtra,427039.02,Unemployed,Postgraduate,FALSE,Study
+U1131,User1131,42,LGBTQ+,Tamil Nadu,100769.16,Employed,Graduate,TRUE,Study
+U1132,User1132,23,Female,West Bengal,210380.93,Employed,Graduate,TRUE,Employment
+U1133,User1133,50,LGBTQ+,Maharashtra,215589.37,Unemployed,Primary,TRUE,Study
+U1134,User1134,22,LGBTQ+,Rajasthan,470917.69,Employed,Graduate,TRUE,Employment
+U1135,User1135,41,Female,Tamil Nadu,81358.76,Unemployed,Primary,TRUE,Employment
+U1136,User1136,32,LGBTQ+,Uttar Pradesh,389379.84,Employed,Primary,FALSE,Health
+U1137,User1137,55,Male,Uttar Pradesh,109005.85,Employed,Graduate,FALSE,Health
+U1138,User1138,30,LGBTQ+,Maharashtra,145200.12,Employed,Primary,TRUE,Study
+U1139,User1139,35,LGBTQ+,Maharashtra,101373.77,Unemployed,Primary,TRUE,Health
+U1140,User1140,56,Female,Uttar Pradesh,337631.89,Employed,Primary,TRUE,Health
+U1141,User1141,46,Male,Tamil Nadu,246078.23,Unemployed,Primary,FALSE,Employment
+U1142,User1142,39,LGBTQ+,Uttar Pradesh,94615.85,Employed,Secondary,TRUE,Study
+U1143,User1143,37,LGBTQ+,Uttar Pradesh,70862.75,Unemployed,Primary,TRUE,Employment
+U1144,User1144,23,Male,Rajasthan,29378.27,Employed,Postgraduate,FALSE,Study
+U1145,User1145,20,Male,Uttar Pradesh,103247.83,Employed,Graduate,FALSE,Study
+U1146,User1146,38,Male,Tamil Nadu,401319.78,Unemployed,Graduate,FALSE,Health
+U1147,User1147,51,Female,Tamil Nadu,277706.54,Employed,Primary,FALSE,Health
+U1148,User1148,30,Female,Maharashtra,481013.38,Unemployed,Postgraduate,TRUE,Employment
+U1149,User1149,20,Male,Tamil Nadu,41703.72,Unemployed,Secondary,TRUE,Employment
+U1150,User1150,36,LGBTQ+,Tamil Nadu,370547.98,Unemployed,Graduate,FALSE,Employment
+U1151,User1151,52,LGBTQ+,Uttar Pradesh,43081.24,Unemployed,Postgraduate,TRUE,Health
+U1152,User1152,55,Female,West Bengal,364610.27,Unemployed,Postgraduate,TRUE,Employment
+U1153,User1153,43,LGBTQ+,Rajasthan,74144.01,Unemployed,Secondary,FALSE,Study
+U1154,User1154,55,Male,West Bengal,477400.36,Unemployed,Secondary,FALSE,Study
+U1155,User1155,24,LGBTQ+,Uttar Pradesh,318720.46,Employed,Postgraduate,TRUE,Employment
+U1156,User1156,35,Female,Uttar Pradesh,37496.44,Employed,Secondary,TRUE,Study
+U1157,User1157,32,LGBTQ+,Tamil Nadu,317320.34,Employed,Secondary,FALSE,Employment
+U1158,User1158,31,Male,Uttar Pradesh,174386.78,Unemployed,Secondary,TRUE,Study
+U1159,User1159,41,LGBTQ+,West Bengal,329973.04,Unemployed,Secondary,FALSE,Study
+U1160,User1160,49,Male,Tamil Nadu,468717.31,Unemployed,Secondary,FALSE,Employment
+U1161,User1161,32,Female,Tamil Nadu,355597.49,Unemployed,Primary,TRUE,Health
+U1162,User1162,53,LGBTQ+,West Bengal,31778.79,Employed,Postgraduate,TRUE,Study
+U1163,User1163,54,LGBTQ+,Maharashtra,484829.98,Unemployed,Postgraduate,TRUE,Study
+U1164,User1164,29,Male,Tamil Nadu,231127.16,Unemployed,Graduate,TRUE,Health
+U1165,User1165,48,LGBTQ+,Rajasthan,188249.93,Unemployed,Secondary,FALSE,Employment
+U1166,User1166,53,Female,Rajasthan,292162.66,Employed,Postgraduate,FALSE,Study
+U1167,User1167,40,Female,Tamil Nadu,212975.18,Employed,Secondary,FALSE,Study
+U1168,User1168,33,Female,West Bengal,153199.56,Unemployed,Primary,FALSE,Health
+U1169,User1169,48,Female,West Bengal,308769.41,Unemployed,Secondary,TRUE,Study
+U1170,User1170,31,Female,Tamil Nadu,435090.03,Employed,Postgraduate,TRUE,Study
+U1171,User1171,60,Male,Tamil Nadu,290485.57,Employed,Secondary,FALSE,Health
+U1172,User1172,29,LGBTQ+,West Bengal,243527.69,Unemployed,Graduate,FALSE,Study
+U1173,User1173,44,Female,Maharashtra,349415.62,Employed,Primary,TRUE,Health
+U1174,User1174,32,Male,West Bengal,411584.98,Unemployed,Postgraduate,TRUE,Health
+U1175,User1175,34,LGBTQ+,Rajasthan,421554.32,Employed,Graduate,FALSE,Study
+U1176,User1176,45,LGBTQ+,Uttar Pradesh,257178.86,Employed,Postgraduate,FALSE,Study
+U1177,User1177,30,Female,Uttar Pradesh,336561.85,Unemployed,Secondary,TRUE,Employment
+U1178,User1178,51,Male,West Bengal,446702.57,Employed,Postgraduate,FALSE,Study
+U1179,User1179,29,LGBTQ+,West Bengal,413529.39,Unemployed,Primary,TRUE,Health
+U1180,User1180,31,Female,West Bengal,198941.87,Employed,Primary,FALSE,Study
+U1181,User1181,42,Male,Maharashtra,393326.71,Employed,Postgraduate,TRUE,Health
+U1182,User1182,56,LGBTQ+,West Bengal,497414.13,Unemployed,Postgraduate,FALSE,Employment
+U1183,User1183,33,Female,Maharashtra,83297.47,Unemployed,Primary,TRUE,Health
+U1184,User1184,30,LGBTQ+,Maharashtra,40652.05,Employed,Postgraduate,FALSE,Health
+U1185,User1185,55,Female,Tamil Nadu,65815.16,Employed,Secondary,TRUE,Employment
+U1186,User1186,31,LGBTQ+,West Bengal,47161.57,Employed,Secondary,TRUE,Employment
+U1187,User1187,28,LGBTQ+,Tamil Nadu,211899.23,Employed,Postgraduate,FALSE,Health
+U1188,User1188,22,Male,West Bengal,273104.15,Unemployed,Secondary,TRUE,Health
+U1189,User1189,38,LGBTQ+,Uttar Pradesh,332369.05,Unemployed,Secondary,FALSE,Health
+U1190,User1190,33,Male,Uttar Pradesh,300949.9,Unemployed,Primary,FALSE,Study
+U1191,User1191,50,LGBTQ+,Uttar Pradesh,188139.32,Unemployed,Postgraduate,TRUE,Health
+U1192,User1192,25,Female,Rajasthan,115567.68,Unemployed,Graduate,TRUE,Study
+U1193,User1193,30,LGBTQ+,Uttar Pradesh,24575.17,Employed,Graduate,FALSE,Study
+U1194,User1194,47,LGBTQ+,Tamil Nadu,265746.56,Employed,Secondary,TRUE,Health
+U1195,User1195,32,LGBTQ+,Tamil Nadu,412636.36,Employed,Graduate,TRUE,Health
+U1196,User1196,34,Female,Tamil Nadu,43919.17,Unemployed,Primary,TRUE,Study
+U1197,User1197,35,Female,West Bengal,420256.65,Employed,Primary,FALSE,Employment
+U1198,User1198,35,Female,Rajasthan,360635.59,Unemployed,Secondary,TRUE,Health
+U1199,User1199,54,Male,Maharashtra,282833.14,Employed,Secondary,FALSE,Study
+U1200,User1200,37,LGBTQ+,Tamil Nadu,428982.26,Unemployed,Primary,FALSE,Employment
+U1201,User1201,41,LGBTQ+,West Bengal,404115.52,Employed,Graduate,TRUE,Health
+U1202,User1202,34,Male,Maharashtra,231395.77,Unemployed,Secondary,TRUE,Health
+U1203,User1203,60,LGBTQ+,Rajasthan,350307.1,Employed,Primary,FALSE,Health
+U1204,User1204,33,Female,Maharashtra,23951,Employed,Secondary,TRUE,Study
+U1205,User1205,21,LGBTQ+,West Bengal,85197.74,Unemployed,Graduate,FALSE,Employment
+U1206,User1206,21,LGBTQ+,West Bengal,199253.7,Employed,Secondary,TRUE,Study
+U1207,User1207,45,Female,Rajasthan,234573.75,Employed,Graduate,FALSE,Employment
+U1208,User1208,35,Male,Tamil Nadu,273340.43,Employed,Postgraduate,FALSE,Employment
+U1209,User1209,57,Male,West Bengal,436167.04,Unemployed,Graduate,FALSE,Employment
+U1210,User1210,59,Male,Rajasthan,310088.17,Unemployed,Graduate,TRUE,Study
+U1211,User1211,45,LGBTQ+,Tamil Nadu,32893.34,Unemployed,Graduate,TRUE,Employment
+U1212,User1212,58,Female,Uttar Pradesh,107329.12,Unemployed,Primary,FALSE,Health
+U1213,User1213,25,LGBTQ+,Maharashtra,299979.9,Unemployed,Graduate,FALSE,Health
+U1214,User1214,30,Female,Uttar Pradesh,449722.44,Employed,Primary,TRUE,Employment
+U1215,User1215,30,LGBTQ+,West Bengal,215149.06,Employed,Postgraduate,TRUE,Health
+U1216,User1216,20,Female,Rajasthan,362107.82,Employed,Secondary,TRUE,Study
+U1217,User1217,38,Female,West Bengal,406733.15,Employed,Secondary,FALSE,Health
+U1218,User1218,21,Male,Tamil Nadu,441857.32,Unemployed,Graduate,TRUE,Study
+U1219,User1219,33,Female,Rajasthan,332707.53,Unemployed,Secondary,FALSE,Study
+U1220,User1220,51,Male,Maharashtra,478396.48,Unemployed,Postgraduate,FALSE,Study
+U1221,User1221,55,Female,West Bengal,388760.23,Employed,Primary,TRUE,Employment
+U1222,User1222,37,LGBTQ+,Rajasthan,169779.01,Employed,Postgraduate,FALSE,Employment
+U1223,User1223,43,Female,Tamil Nadu,280069.27,Unemployed,Postgraduate,TRUE,Study
+U1224,User1224,24,Female,Rajasthan,471715.98,Employed,Primary,TRUE,Health
+U1225,User1225,36,Male,Maharashtra,281285.59,Employed,Secondary,FALSE,Study
+U1226,User1226,58,Male,Tamil Nadu,394718.42,Employed,Primary,TRUE,Study
+U1227,User1227,47,Female,Maharashtra,437826.61,Unemployed,Graduate,FALSE,Health
+U1228,User1228,22,Female,Maharashtra,117775.37,Employed,Secondary,TRUE,Study
+U1229,User1229,44,LGBTQ+,Maharashtra,232707.33,Unemployed,Graduate,TRUE,Employment
+U1230,User1230,30,Female,Tamil Nadu,261765.25,Unemployed,Graduate,FALSE,Health
+U1231,User1231,41,Male,Rajasthan,414750.12,Employed,Postgraduate,FALSE,Study
+U1232,User1232,33,Female,Maharashtra,431704.48,Unemployed,Primary,FALSE,Study
+U1233,User1233,52,Female,Rajasthan,283102.9,Employed,Postgraduate,TRUE,Employment
+U1234,User1234,42,Male,West Bengal,483441.06,Unemployed,Secondary,FALSE,Health
+U1235,User1235,38,Female,Uttar Pradesh,353685.54,Unemployed,Postgraduate,FALSE,Health
+U1236,User1236,47,Female,Rajasthan,329522.58,Employed,Primary,TRUE,Study
+U1237,User1237,23,Female,Rajasthan,41580.34,Employed,Postgraduate,FALSE,Health
+U1238,User1238,28,Male,Tamil Nadu,490987.13,Employed,Secondary,FALSE,Study
+U1239,User1239,43,Female,West Bengal,408297.75,Employed,Postgraduate,TRUE,Employment
+U1240,User1240,49,Male,Rajasthan,42085.96,Employed,Postgraduate,TRUE,Health
+U1241,User1241,35,LGBTQ+,Rajasthan,145543.69,Unemployed,Primary,FALSE,Study
+U1242,User1242,48,Female,Rajasthan,111675.9,Unemployed,Graduate,TRUE,Health
+U1243,User1243,22,Male,West Bengal,185575.1,Employed,Secondary,TRUE,Employment
+U1244,User1244,55,LGBTQ+,Uttar Pradesh,45277.02,Unemployed,Primary,TRUE,Employment
+U1245,User1245,44,Female,Maharashtra,399173.71,Employed,Graduate,FALSE,Health
+U1246,User1246,48,Female,Uttar Pradesh,366334.78,Unemployed,Graduate,FALSE,Employment
+U1247,User1247,19,LGBTQ+,Maharashtra,94806.63,Unemployed,Graduate,FALSE,Health
+U1248,User1248,37,LGBTQ+,Uttar Pradesh,381031.45,Employed,Graduate,TRUE,Health
+U1249,User1249,40,Female,West Bengal,63264.38,Employed,Primary,FALSE,Employment
+U1250,User1250,35,LGBTQ+,Uttar Pradesh,259363.56,Employed,Postgraduate,FALSE,Study
+U1251,User1251,59,Female,Tamil Nadu,298069.47,Unemployed,Postgraduate,FALSE,Employment
+U1252,User1252,41,Female,Rajasthan,188826.54,Unemployed,Graduate,TRUE,Health
+U1253,User1253,27,LGBTQ+,Tamil Nadu,228302.21,Employed,Primary,TRUE,Employment
+U1254,User1254,23,Female,Maharashtra,53000.39,Unemployed,Secondary,TRUE,Employment
+U1255,User1255,50,LGBTQ+,Rajasthan,497145.37,Unemployed,Graduate,FALSE,Study
+U1256,User1256,42,LGBTQ+,Maharashtra,38934.38,Employed,Secondary,TRUE,Study
+U1257,User1257,32,Male,Tamil Nadu,481234.8,Employed,Primary,TRUE,Health
+U1258,User1258,30,Male,Maharashtra,36664.62,Unemployed,Primary,TRUE,Study
+U1259,User1259,30,LGBTQ+,Maharashtra,281140.2,Unemployed,Postgraduate,TRUE,Health
+U1260,User1260,57,Male,Maharashtra,80457.43,Employed,Secondary,FALSE,Employment
+U1261,User1261,51,Male,Uttar Pradesh,105700.42,Employed,Secondary,TRUE,Study
+U1262,User1262,45,LGBTQ+,West Bengal,453868.05,Employed,Postgraduate,TRUE,Employment
+U1263,User1263,59,Female,Rajasthan,226316.04,Unemployed,Secondary,TRUE,Employment
+U1264,User1264,35,Female,Maharashtra,490398.61,Unemployed,Graduate,TRUE,Health
+U1265,User1265,18,Male,Tamil Nadu,159410.42,Employed,Graduate,TRUE,Employment
+U1266,User1266,20,LGBTQ+,West Bengal,51967.9,Employed,Graduate,FALSE,Health
+U1267,User1267,37,Female,Rajasthan,416928.77,Employed,Secondary,FALSE,Employment
+U1268,User1268,46,Female,West Bengal,33678.83,Employed,Graduate,FALSE,Employment
+U1269,User1269,30,Female,Uttar Pradesh,248674.08,Employed,Graduate,FALSE,Study
+U1270,User1270,47,Male,Rajasthan,168516.43,Unemployed,Primary,FALSE,Study
+U1271,User1271,49,Male,Tamil Nadu,393721.89,Unemployed,Postgraduate,TRUE,Health
+U1272,User1272,21,Female,Maharashtra,454282.53,Employed,Postgraduate,TRUE,Employment
+U1273,User1273,23,Male,West Bengal,497627.72,Employed,Secondary,FALSE,Employment
+U1274,User1274,47,Female,Rajasthan,115981.78,Unemployed,Primary,FALSE,Employment
+U1275,User1275,51,Male,Maharashtra,92994.94,Unemployed,Graduate,FALSE,Study
+U1276,User1276,38,Male,Maharashtra,67531.35,Employed,Secondary,FALSE,Health
+U1277,User1277,25,Male,Maharashtra,453292.67,Employed,Graduate,TRUE,Employment
+U1278,User1278,21,Female,Maharashtra,314386.56,Unemployed,Secondary,FALSE,Health
+U1279,User1279,26,Female,Maharashtra,33778.13,Unemployed,Secondary,FALSE,Employment
+U1280,User1280,20,Male,West Bengal,102818.88,Employed,Secondary,FALSE,Study
+U1281,User1281,54,LGBTQ+,Maharashtra,342761.93,Unemployed,Graduate,TRUE,Health
+U1282,User1282,30,Male,Uttar Pradesh,39185.67,Employed,Secondary,FALSE,Study
+U1283,User1283,36,Female,Tamil Nadu,253952.29,Employed,Secondary,TRUE,Employment
+U1284,User1284,52,LGBTQ+,Uttar Pradesh,73090.99,Unemployed,Postgraduate,FALSE,Study
+U1285,User1285,59,Female,Uttar Pradesh,119618.97,Employed,Graduate,FALSE,Study
+U1286,User1286,47,Male,West Bengal,476496.4,Employed,Secondary,FALSE,Health
+U1287,User1287,59,Female,Uttar Pradesh,49423.98,Employed,Secondary,TRUE,Health
+U1288,User1288,56,Male,West Bengal,485393.73,Unemployed,Primary,FALSE,Health
+U1289,User1289,53,LGBTQ+,Uttar Pradesh,323792.97,Unemployed,Primary,FALSE,Study
+U1290,User1290,27,Female,West Bengal,300800.76,Employed,Primary,FALSE,Study
+U1291,User1291,38,Male,Maharashtra,113312.39,Employed,Postgraduate,FALSE,Study
+U1292,User1292,43,LGBTQ+,Uttar Pradesh,315042.19,Employed,Primary,TRUE,Study
+U1293,User1293,33,LGBTQ+,West Bengal,431393.58,Employed,Secondary,TRUE,Study
+U1294,User1294,25,Female,West Bengal,236347.07,Unemployed,Primary,FALSE,Employment
+U1295,User1295,59,Female,Tamil Nadu,343846.71,Unemployed,Primary,TRUE,Employment
+U1296,User1296,56,Male,West Bengal,60921.19,Unemployed,Primary,FALSE,Health
+U1297,User1297,53,Male,Maharashtra,129249.31,Unemployed,Primary,FALSE,Study
+U1298,User1298,39,Male,West Bengal,287622.27,Employed,Graduate,TRUE,Health
+U1299,User1299,34,Male,Uttar Pradesh,275262.36,Employed,Postgraduate,FALSE,Study
+U1300,User1300,20,LGBTQ+,Uttar Pradesh,431609.63,Employed,Secondary,FALSE,Health
+U1301,User1301,27,Female,Uttar Pradesh,431562.92,Employed,Graduate,TRUE,Study
+U1302,User1302,35,LGBTQ+,Uttar Pradesh,63340.14,Employed,Primary,FALSE,Employment
+U1303,User1303,45,LGBTQ+,Uttar Pradesh,354543.49,Unemployed,Secondary,FALSE,Study
+U1304,User1304,52,LGBTQ+,Tamil Nadu,135013.68,Employed,Postgraduate,TRUE,Employment
+U1305,User1305,60,LGBTQ+,Uttar Pradesh,489359.76,Unemployed,Primary,TRUE,Health
+U1306,User1306,47,Female,Rajasthan,33943.87,Employed,Graduate,FALSE,Employment
+U1307,User1307,20,Female,Rajasthan,327842.97,Employed,Primary,FALSE,Employment
+U1308,User1308,55,Male,Maharashtra,212096.03,Employed,Secondary,FALSE,Employment
+U1309,User1309,51,Male,Rajasthan,497503.63,Unemployed,Graduate,TRUE,Employment
+U1310,User1310,18,LGBTQ+,Maharashtra,325631.93,Employed,Primary,FALSE,Study
+U1311,User1311,37,LGBTQ+,West Bengal,385815.47,Unemployed,Postgraduate,FALSE,Study
+U1312,User1312,57,Male,Rajasthan,44373.15,Employed,Postgraduate,TRUE,Employment
+U1313,User1313,54,Female,West Bengal,156285.01,Employed,Graduate,TRUE,Study
+U1314,User1314,33,Female,Maharashtra,357316.4,Unemployed,Primary,FALSE,Employment
+U1315,User1315,19,Female,Uttar Pradesh,312768.45,Unemployed,Secondary,TRUE,Health
+U1316,User1316,46,Female,Uttar Pradesh,308534.42,Unemployed,Secondary,FALSE,Study
+U1317,User1317,20,Male,Uttar Pradesh,307916.45,Unemployed,Secondary,FALSE,Study
+U1318,User1318,25,Male,West Bengal,490258.63,Unemployed,Primary,TRUE,Health
+U1319,User1319,55,LGBTQ+,West Bengal,84838.26,Unemployed,Primary,TRUE,Employment
+U1320,User1320,25,LGBTQ+,Maharashtra,343165.64,Unemployed,Primary,FALSE,Study
+U1321,User1321,39,Female,Tamil Nadu,220633.05,Unemployed,Primary,TRUE,Employment
+U1322,User1322,24,Male,Rajasthan,349933.05,Unemployed,Graduate,TRUE,Health
+U1323,User1323,20,LGBTQ+,Tamil Nadu,346103.82,Unemployed,Primary,TRUE,Study
+U1324,User1324,33,Male,Uttar Pradesh,478122.39,Unemployed,Primary,FALSE,Employment
+U1325,User1325,58,LGBTQ+,West Bengal,441206.73,Unemployed,Postgraduate,FALSE,Study
+U1326,User1326,41,LGBTQ+,Maharashtra,181644.58,Employed,Secondary,FALSE,Study
+U1327,User1327,23,Male,Maharashtra,341482.08,Unemployed,Postgraduate,TRUE,Employment
+U1328,User1328,33,LGBTQ+,Rajasthan,270632.68,Unemployed,Secondary,FALSE,Health
+U1329,User1329,59,Male,Uttar Pradesh,215738.31,Unemployed,Primary,TRUE,Health
+U1330,User1330,51,Female,West Bengal,59154.79,Employed,Postgraduate,FALSE,Study
+U1331,User1331,56,Female,West Bengal,312086.27,Employed,Secondary,FALSE,Study
+U1332,User1332,37,Female,Tamil Nadu,162168.53,Unemployed,Primary,TRUE,Health
+U1333,User1333,32,Female,Tamil Nadu,461031.95,Unemployed,Postgraduate,TRUE,Employment
+U1334,User1334,52,LGBTQ+,Uttar Pradesh,484796.48,Employed,Secondary,FALSE,Employment
+U1335,User1335,37,Female,Uttar Pradesh,140378,Unemployed,Primary,TRUE,Employment
+U1336,User1336,51,LGBTQ+,Uttar Pradesh,126381.51,Unemployed,Postgraduate,FALSE,Study
+U1337,User1337,37,Female,West Bengal,280632.06,Employed,Primary,FALSE,Study
+U1338,User1338,35,LGBTQ+,West Bengal,423856.08,Unemployed,Graduate,TRUE,Health
+U1339,User1339,26,LGBTQ+,Maharashtra,497365.1,Employed,Secondary,TRUE,Employment
+U1340,User1340,52,LGBTQ+,Uttar Pradesh,152675.73,Unemployed,Graduate,FALSE,Study
+U1341,User1341,53,Female,West Bengal,374115.08,Unemployed,Primary,FALSE,Employment
+U1342,User1342,41,Female,Rajasthan,114005.05,Employed,Graduate,TRUE,Employment
+U1343,User1343,25,Female,Rajasthan,71921.29,Employed,Primary,TRUE,Health
+U1344,User1344,56,LGBTQ+,West Bengal,309536.48,Unemployed,Secondary,TRUE,Health
+U1345,User1345,33,LGBTQ+,Uttar Pradesh,182804.65,Employed,Primary,TRUE,Study
+U1346,User1346,51,LGBTQ+,Tamil Nadu,293624.55,Employed,Postgraduate,FALSE,Study
+U1347,User1347,59,Male,West Bengal,450687.14,Unemployed,Primary,TRUE,Health
+U1348,User1348,43,Male,Tamil Nadu,488730.71,Unemployed,Primary,FALSE,Health
+U1349,User1349,53,Female,Rajasthan,418693.42,Unemployed,Postgraduate,TRUE,Employment
+U1350,User1350,28,LGBTQ+,Maharashtra,221106.34,Employed,Primary,FALSE,Employment
+U1351,User1351,37,LGBTQ+,Uttar Pradesh,342206.57,Employed,Postgraduate,FALSE,Employment
+U1352,User1352,41,Female,Rajasthan,286843.31,Unemployed,Graduate,FALSE,Health
+U1353,User1353,58,Male,Maharashtra,253814.25,Unemployed,Secondary,FALSE,Health
+U1354,User1354,44,Female,West Bengal,408293.29,Unemployed,Graduate,TRUE,Health
+U1355,User1355,53,Male,Rajasthan,406720.52,Unemployed,Primary,TRUE,Employment
+U1356,User1356,33,Female,Rajasthan,433359.8,Unemployed,Primary,FALSE,Study
+U1357,User1357,49,LGBTQ+,West Bengal,116841.02,Unemployed,Postgraduate,FALSE,Study
+U1358,User1358,55,Male,West Bengal,447507.56,Unemployed,Postgraduate,TRUE,Employment
+U1359,User1359,48,LGBTQ+,Tamil Nadu,272521.17,Employed,Graduate,FALSE,Employment
+U1360,User1360,35,LGBTQ+,Maharashtra,440489.98,Unemployed,Graduate,TRUE,Study
+U1361,User1361,24,LGBTQ+,Maharashtra,311370.82,Unemployed,Graduate,TRUE,Health
+U1362,User1362,57,Male,Maharashtra,151765.29,Unemployed,Graduate,TRUE,Employment
+U1363,User1363,33,Male,Maharashtra,412219.49,Unemployed,Secondary,FALSE,Health
+U1364,User1364,24,Male,Tamil Nadu,118858.41,Employed,Primary,TRUE,Employment
+U1365,User1365,58,Male,West Bengal,59372.39,Unemployed,Secondary,FALSE,Study
+U1366,User1366,56,Female,Tamil Nadu,390914.28,Employed,Secondary,FALSE,Health
+U1367,User1367,25,Female,Tamil Nadu,466735.6,Unemployed,Primary,TRUE,Study
+U1368,User1368,42,LGBTQ+,West Bengal,267309.75,Employed,Primary,TRUE,Study
+U1369,User1369,45,LGBTQ+,Tamil Nadu,490970.78,Employed,Primary,TRUE,Study
+U1370,User1370,39,Female,Tamil Nadu,428466.92,Employed,Secondary,FALSE,Health
+U1371,User1371,34,Female,Tamil Nadu,271757.67,Unemployed,Graduate,FALSE,Study
+U1372,User1372,56,Male,West Bengal,242939.02,Employed,Graduate,TRUE,Employment
+U1373,User1373,58,LGBTQ+,Uttar Pradesh,246014.95,Unemployed,Primary,TRUE,Health
+U1374,User1374,22,Female,Rajasthan,72275.66,Employed,Primary,FALSE,Study
+U1375,User1375,28,Female,West Bengal,492811.88,Unemployed,Postgraduate,FALSE,Study
+U1376,User1376,58,Female,Tamil Nadu,66910.72,Unemployed,Graduate,TRUE,Employment
+U1377,User1377,38,LGBTQ+,Uttar Pradesh,485835.97,Employed,Primary,TRUE,Health
+U1378,User1378,31,LGBTQ+,West Bengal,185326.81,Employed,Graduate,TRUE,Study
+U1379,User1379,25,Male,Tamil Nadu,485821.83,Employed,Secondary,TRUE,Employment
+U1380,User1380,54,Female,Uttar Pradesh,145688.7,Unemployed,Secondary,TRUE,Health
+U1381,User1381,48,Female,Tamil Nadu,157409.74,Employed,Postgraduate,TRUE,Health
+U1382,User1382,43,Male,Tamil Nadu,66650.01,Unemployed,Secondary,FALSE,Employment
+U1383,User1383,26,LGBTQ+,Uttar Pradesh,262719.73,Employed,Postgraduate,FALSE,Health
+U1384,User1384,18,LGBTQ+,Tamil Nadu,202815.13,Employed,Graduate,FALSE,Employment
+U1385,User1385,23,Male,Maharashtra,327723.66,Unemployed,Postgraduate,TRUE,Health
+U1386,User1386,29,Female,Maharashtra,293442.84,Employed,Primary,TRUE,Employment
+U1387,User1387,28,LGBTQ+,West Bengal,192349.85,Unemployed,Postgraduate,TRUE,Study
+U1388,User1388,50,Female,Uttar Pradesh,324081.61,Employed,Graduate,TRUE,Health
+U1389,User1389,28,Male,Maharashtra,181924.52,Unemployed,Secondary,TRUE,Health
+U1390,User1390,53,Female,Tamil Nadu,327075.71,Employed,Postgraduate,TRUE,Health
+U1391,User1391,49,Female,West Bengal,132274.77,Unemployed,Postgraduate,FALSE,Health
+U1392,User1392,38,LGBTQ+,Tamil Nadu,317283.65,Employed,Primary,TRUE,Health
+U1393,User1393,59,LGBTQ+,Rajasthan,237320.56,Unemployed,Graduate,TRUE,Health
+U1394,User1394,57,Female,Rajasthan,169076.87,Unemployed,Secondary,TRUE,Study
+U1395,User1395,33,Female,Rajasthan,492531.94,Unemployed,Primary,TRUE,Health
+U1396,User1396,57,LGBTQ+,Tamil Nadu,90913.58,Employed,Primary,TRUE,Study
+U1397,User1397,18,LGBTQ+,Tamil Nadu,126948.59,Unemployed,Postgraduate,FALSE,Employment
+U1398,User1398,32,Male,Rajasthan,378442.73,Employed,Graduate,FALSE,Employment
+U1399,User1399,30,Male,Tamil Nadu,305236.81,Employed,Secondary,TRUE,Study
+U1400,User1400,40,LGBTQ+,Tamil Nadu,76976.43,Employed,Postgraduate,TRUE,Employment
+U1401,User1401,25,LGBTQ+,West Bengal,448167.93,Employed,Secondary,TRUE,Employment
+U1402,User1402,21,Male,Uttar Pradesh,423725.01,Unemployed,Postgraduate,FALSE,Study
+U1403,User1403,43,Female,Rajasthan,418537.82,Unemployed,Graduate,FALSE,Health
+U1404,User1404,43,Male,Uttar Pradesh,169157.78,Employed,Postgraduate,FALSE,Health
+U1405,User1405,34,Male,Uttar Pradesh,152908.91,Employed,Postgraduate,TRUE,Study
+U1406,User1406,25,Male,Maharashtra,207424.69,Unemployed,Secondary,TRUE,Health
+U1407,User1407,19,Male,Rajasthan,159729.16,Unemployed,Graduate,TRUE,Study
+U1408,User1408,35,Male,Tamil Nadu,186456.65,Employed,Postgraduate,FALSE,Health
+U1409,User1409,48,Female,West Bengal,181426.33,Employed,Postgraduate,TRUE,Employment
+U1410,User1410,18,Female,Rajasthan,349392.15,Unemployed,Secondary,TRUE,Health
+U1411,User1411,36,Female,Uttar Pradesh,130506.62,Employed,Primary,FALSE,Employment
+U1412,User1412,41,Female,Rajasthan,335471.24,Employed,Secondary,FALSE,Study
+U1413,User1413,30,LGBTQ+,Rajasthan,463081.51,Employed,Secondary,FALSE,Health
+U1414,User1414,35,Female,Rajasthan,109580.89,Employed,Graduate,TRUE,Health
+U1415,User1415,57,Male,West Bengal,28478.38,Unemployed,Secondary,FALSE,Employment
+U1416,User1416,33,Male,Maharashtra,468596.13,Unemployed,Secondary,FALSE,Employment
+U1417,User1417,24,Female,Tamil Nadu,123015.62,Employed,Postgraduate,FALSE,Study
+U1418,User1418,21,Female,Rajasthan,280181.59,Unemployed,Primary,FALSE,Health
+U1419,User1419,50,Female,Tamil Nadu,61484.88,Employed,Graduate,FALSE,Health
+U1420,User1420,37,Male,Rajasthan,398738.24,Unemployed,Graduate,TRUE,Study
+U1421,User1421,38,Male,Rajasthan,153784,Unemployed,Secondary,TRUE,Employment
+U1422,User1422,38,Male,West Bengal,340447.99,Unemployed,Postgraduate,TRUE,Health
+U1423,User1423,37,Female,Uttar Pradesh,277219.39,Employed,Secondary,TRUE,Study
+U1424,User1424,52,LGBTQ+,West Bengal,73302.01,Employed,Secondary,TRUE,Study
+U1425,User1425,26,Male,Maharashtra,440505.26,Employed,Graduate,FALSE,Study
+U1426,User1426,44,Male,Uttar Pradesh,437045.94,Unemployed,Secondary,FALSE,Health
+U1427,User1427,42,Male,Tamil Nadu,475836.83,Employed,Graduate,FALSE,Study
+U1428,User1428,41,Male,Rajasthan,393805.67,Employed,Graduate,FALSE,Health
+U1429,User1429,34,LGBTQ+,Uttar Pradesh,24764.68,Unemployed,Postgraduate,TRUE,Employment
+U1430,User1430,25,Male,Rajasthan,453339.73,Employed,Postgraduate,TRUE,Employment
+U1431,User1431,44,LGBTQ+,Tamil Nadu,216292.6,Employed,Primary,FALSE,Health
+U1432,User1432,24,Male,Tamil Nadu,112737.53,Employed,Secondary,FALSE,Study
+U1433,User1433,55,Male,Maharashtra,381857.5,Unemployed,Secondary,FALSE,Health
+U1434,User1434,55,LGBTQ+,West Bengal,190142.78,Employed,Secondary,TRUE,Health
+U1435,User1435,40,LGBTQ+,Tamil Nadu,143291.93,Unemployed,Secondary,TRUE,Health
+U1436,User1436,49,Female,Tamil Nadu,227680.37,Unemployed,Postgraduate,FALSE,Study
+U1437,User1437,38,LGBTQ+,Rajasthan,366059.48,Unemployed,Secondary,FALSE,Health
+U1438,User1438,47,Female,Uttar Pradesh,326004.52,Unemployed,Primary,FALSE,Study
+U1439,User1439,33,LGBTQ+,West Bengal,406552.97,Unemployed,Graduate,TRUE,Study
+U1440,User1440,21,Male,Maharashtra,240788.29,Unemployed,Postgraduate,TRUE,Health
+U1441,User1441,55,LGBTQ+,Maharashtra,310918.97,Unemployed,Graduate,FALSE,Employment
+U1442,User1442,58,Female,Uttar Pradesh,234487.1,Employed,Graduate,TRUE,Study
+U1443,User1443,23,Female,Maharashtra,76456.97,Employed,Postgraduate,TRUE,Health
+U1444,User1444,34,Male,Maharashtra,412384.56,Employed,Primary,TRUE,Health
+U1445,User1445,38,LGBTQ+,Uttar Pradesh,129218.44,Employed,Primary,FALSE,Study
+U1446,User1446,51,LGBTQ+,Uttar Pradesh,176183.34,Unemployed,Primary,FALSE,Health
+U1447,User1447,53,LGBTQ+,Uttar Pradesh,271134.18,Employed,Postgraduate,FALSE,Employment
+U1448,User1448,50,Female,Maharashtra,63789.37,Unemployed,Postgraduate,FALSE,Study
+U1449,User1449,45,Female,Uttar Pradesh,179425.65,Unemployed,Postgraduate,FALSE,Employment
+U1450,User1450,42,Female,Tamil Nadu,26058.8,Unemployed,Postgraduate,FALSE,Health
+U1451,User1451,56,Female,Maharashtra,475637.41,Unemployed,Postgraduate,FALSE,Study
+U1452,User1452,25,LGBTQ+,West Bengal,497914.56,Employed,Graduate,TRUE,Study
+U1453,User1453,25,Female,Tamil Nadu,165866.92,Unemployed,Primary,FALSE,Study
+U1454,User1454,55,Male,Maharashtra,354012.44,Unemployed,Postgraduate,FALSE,Study
+U1455,User1455,54,Female,West Bengal,460372.51,Employed,Primary,FALSE,Employment
+U1456,User1456,38,Female,West Bengal,347727.88,Unemployed,Postgraduate,TRUE,Employment
+U1457,User1457,36,LGBTQ+,Tamil Nadu,253574.27,Employed,Graduate,TRUE,Employment
+U1458,User1458,19,Male,West Bengal,160783.48,Unemployed,Secondary,FALSE,Employment
+U1459,User1459,24,Male,Tamil Nadu,61177.05,Employed,Postgraduate,TRUE,Employment
+U1460,User1460,31,Female,West Bengal,330385.28,Employed,Postgraduate,FALSE,Study
+U1461,User1461,24,Male,Maharashtra,400473.67,Unemployed,Secondary,TRUE,Employment
+U1462,User1462,45,LGBTQ+,Rajasthan,444853.33,Unemployed,Primary,TRUE,Employment
+U1463,User1463,40,Male,Uttar Pradesh,32206.76,Unemployed,Secondary,TRUE,Employment
+U1464,User1464,25,Male,Tamil Nadu,204448.64,Employed,Graduate,FALSE,Employment
+U1465,User1465,27,Female,Uttar Pradesh,50813.65,Unemployed,Postgraduate,FALSE,Study
+U1466,User1466,40,Female,Tamil Nadu,238829.54,Employed,Postgraduate,FALSE,Health
+U1467,User1467,18,LGBTQ+,Maharashtra,226510.88,Unemployed,Secondary,FALSE,Study
+U1468,User1468,54,Female,Uttar Pradesh,229934.61,Employed,Postgraduate,FALSE,Employment
+U1469,User1469,33,Male,Rajasthan,132109.59,Unemployed,Postgraduate,FALSE,Study
+U1470,User1470,49,Male,West Bengal,483071.45,Employed,Secondary,TRUE,Study
+U1471,User1471,36,Male,Tamil Nadu,192961.64,Employed,Primary,TRUE,Employment
+U1472,User1472,28,LGBTQ+,Maharashtra,24043.57,Unemployed,Postgraduate,TRUE,Employment
+U1473,User1473,57,Female,Rajasthan,55445.8,Unemployed,Graduate,FALSE,Study
+U1474,User1474,23,LGBTQ+,Tamil Nadu,145448.62,Unemployed,Secondary,TRUE,Health
+U1475,User1475,59,Female,Rajasthan,31667.08,Employed,Postgraduate,FALSE,Health
+U1476,User1476,54,Male,Uttar Pradesh,466964.55,Employed,Graduate,FALSE,Study
+U1477,User1477,27,Male,Tamil Nadu,108534.83,Unemployed,Postgraduate,FALSE,Health
+U1478,User1478,26,LGBTQ+,Maharashtra,121691.93,Employed,Graduate,TRUE,Study
+U1479,User1479,36,LGBTQ+,Tamil Nadu,493265.55,Unemployed,Secondary,FALSE,Employment
+U1480,User1480,31,LGBTQ+,Tamil Nadu,145698.27,Employed,Graduate,FALSE,Study
+U1481,User1481,24,Male,West Bengal,460562.54,Employed,Primary,TRUE,Study
+U1482,User1482,32,Male,Rajasthan,122628.84,Unemployed,Postgraduate,FALSE,Health
+U1483,User1483,18,Female,Uttar Pradesh,427587.26,Employed,Postgraduate,TRUE,Health
+U1484,User1484,42,Male,Maharashtra,277459.36,Unemployed,Graduate,FALSE,Study
+U1485,User1485,48,Female,Maharashtra,355780.83,Employed,Primary,FALSE,Health
+U1486,User1486,38,Male,Uttar Pradesh,421841.31,Unemployed,Graduate,TRUE,Study
+U1487,User1487,60,LGBTQ+,West Bengal,467430.73,Unemployed,Secondary,TRUE,Health
+U1488,User1488,41,LGBTQ+,Tamil Nadu,126635.85,Employed,Primary,FALSE,Health
+U1489,User1489,47,LGBTQ+,Tamil Nadu,197940.39,Unemployed,Postgraduate,TRUE,Study
+U1490,User1490,58,Female,Tamil Nadu,85874.49,Employed,Primary,TRUE,Study
+U1491,User1491,43,LGBTQ+,Uttar Pradesh,22531.08,Employed,Secondary,TRUE,Employment
+U1492,User1492,25,Male,Uttar Pradesh,93988.17,Unemployed,Postgraduate,TRUE,Employment
+U1493,User1493,60,Female,Maharashtra,102809.66,Employed,Secondary,TRUE,Employment
+U1494,User1494,29,Female,West Bengal,202465.76,Employed,Postgraduate,FALSE,Study
+U1495,User1495,45,Female,Uttar Pradesh,353916.79,Unemployed,Primary,TRUE,Study
+U1496,User1496,34,Female,Uttar Pradesh,214493.75,Employed,Primary,TRUE,Employment
+U1497,User1497,28,LGBTQ+,Maharashtra,416491.59,Unemployed,Primary,TRUE,Health
+U1498,User1498,24,LGBTQ+,Uttar Pradesh,146227.17,Employed,Graduate,FALSE,Health
+U1499,User1499,56,Female,West Bengal,447991.76,Unemployed,Graduate,FALSE,Health
+U1500,User1500,21,Female,Maharashtra,353719.24,Unemployed,Secondary,TRUE,Health
